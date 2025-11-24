@@ -28,12 +28,11 @@ for h, k in zip(hiragana[:109], katakana[:109]):
     romaji_h = h[1].split(',')[0].strip()
     romaji_k = k[1].split(',')[0].strip()
     
-    clean_hiragana.append([h[0], romaji_h])
-    clean_katakana.append([k[0], romaji_k])
+    clean_hiragana.append([h[0], romaji_h, 'hiragana'])
+    clean_katakana.append([k[0], romaji_k, 'katakana'])
 
-hiragana=pd.DataFrame(clean_hiragana, columns=['hiragana', 'romaji'])
-katakana=pd.DataFrame(clean_katakana, columns=['katakana', 'romaji'])
+hiragana=pd.DataFrame(clean_hiragana, columns=['kana', 'romaji', 'type'])
+katakana=pd.DataFrame(clean_katakana, columns=['kana', 'romaji', 'type'])
 
-kana = pd.merge(hiragana, katakana, on='romaji', how='inner')
-clean_kana=kana[["hiragana", "katakana", "romaji"]]
-clean_kana.to_csv('kana_romaji.csv')
+kana = pd.concat([hiragana, katakana], ignore_index=True)
+kana.to_csv('basic-japanese-learning/dataset/kana_romaji.csv', index=False)
