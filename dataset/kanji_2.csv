@@ -1,0 +1,1975 @@
+kanji,count,strokes,translation,kun_readings,on_readings,radical_basis,radical_meaning,kun_romaji,on_romaji
+現,19,11,"present, existing, actual","あらわ.れる, あらわ.す, うつつ, うつ.つ",ゲン,jade,jade,"arawa.reru, arawa.su, utsutsu, utsu.tsu",gen
+像,5,14,"statue, picture, image, figure, portrait",None,ゾウ,人,man,None,zou
+原,20,10,"meadow, original, primitive, field, plain, prairie, tundra, wilderness",はら,ゲン,厂,cliff,hara,gen
+則,4,9,"rule, law, follow, based on, model after","のっと.る, のり, すなわち",ソク,刀,knife,"notto.ru, nori, sunawachi",soku
+見,50,7,"see, hopes, chances, idea, opinion, look at, visible","み.る, み.える, み.せる",ケン,見,see,"mi.ru, mi.eru, mi.seru",ken
+地,49,6,"ground, earth",None,"チ, ジ",土,earth,None,"chi, ji"
+限,11,9,"limit, restrict, to best of ability","かぎ.る, かぎ.り, -かぎ.り",ゲン,dam,mound,"kagi.ru, kagi.ri, -kagi.ri",gen
+定,37,8,"determine, fix, establish, decide","さだ.める, さだ.まる, さだ.か","テイ, ジョウ",宀,roof,"sada.meru, sada.maru, sada.ka","tei, jou"
+点,27,9,"spot, point, mark, speck, decimal point","つ.ける, つ.く, た.てる, さ.す, とぼ.す, とも.す, ぼち",テン,火,fire,"tsu.keru, tsu.ku, ta.teru, sa.su, tobo.su, tomo.su, bochi",ten
+典,5,8,"code, ceremony, law, rule","ふみ, のり","テン, デン",八,eight,"fumi, nori","ten, den"
+爆,4,19,"bomb, burst open, pop, split",は.ぜる,バク,火,fire,ha.zeru,baku
+文,25,4,"sentence, literature, style, art, decoration, figures, plan, literary radical (no. 67)","ふみ, あや","ブン, モン",文,script,"fumi, aya","bun, mon"
+厳,4,17,"stern, strictness, severity, rigidity","おごそ.か, きび.しい, いか.めしい, いつくし","ゲン, ゴン",厂,cliff,"ogoso.ka, kibi.shii, ika.meshii, itsukushi","gen, gon"
+密,9,11,"secrecy, density (pop), minuteness, carefulness",ひそ.か,ミツ,宀,roof,hiso.ka,mitsu
+賢,2,16,"intelligent, wise, wisdom, cleverness",かしこ.い,ケン,貝,shell,kashiko.i,ken
+明,28,8,"bright, light","あ.かり, あか.るい, あか.るむ, あか.らむ, あき.らか, あ.ける, -あ.け, あ.く, あ.くる, あ.かす","メイ, ミョウ, ミン",日,sun,"a.kari, aka.rui, aka.rumu, aka.ramu, aki.raka, a.keru, -a.ke, a.ku, a.kuru, a.kasu","mei, myou, min"
+倹,1,10,"frugal, economy, thrifty","つま.しい, つづまやか",ケン,人,man,"tsuma.shii, tsuzumayaka",ken
+約,10,9,"promise, approximately, shrink","つづ.まる, つづ.める, つづま.やか",ヤク,糸,silk,"tsuzu.maru, tsuzu.meru, tsuzuma.yaka",yaku
+油,8,8,"oil, fat",あぶら,"ユ, ユウ",水,water,abura,"yu, yuu"
+兼,4,10,"concurrently, and, beforehand, in advance","か.ねる, -か.ねる",ケン,八,eight,"ka.neru, -ka.neru",ken
+用,34,5,"utilize, business, service, use, employ",もち.いる,ヨウ,用,use,mochi.iru,you
+権,8,15,"authority, power, rights","おもり, かり, はか.る","ケン, ゴン",木,tree,"omori, kari, haka.ru","ken, gon"
+力,31,2,"power, strength, strong, strain, bear up, exert",ちから,"リョク, リキ, リイ",力,power,chikara,"ryoku, riki, rii"
+言,23,7,"say, word","い.う, こと","ゲン, ゴン",言,speech,"i.u, koto","gen, gon"
+論,20,15,"argument, discourse",あげつら.う,ロン,言,speech,agetsura.u,ron
+故,7,9,"happenstance, especially, intentionally, reason, cause, circumstances, the late, therefore, consequently","ゆえ, ふる.い, もと",コ,攴,rap,"yue, furu.i, moto",ko
+語,21,14,"word, speech, language","かた.る, かた.らう",ゴ,言,speech,"kata.ru, kata.rau",go
+彙,1,13,"same kind, collect, classify, category, hedgehog",はりねずみ,イ,彐,pig,harinezumi,i
+恋,6,10,"romance, in love, yearn for, miss, darling","こ.う, こい, こい.しい",レン,心,heart,"ko.u, koi, koi.shii",ren
+甲,2,5,"armor, high (voice), A grade, first class, former, instep, carapace",きのえ,"コウ, カン",田,field,kinoe,"kou, kan"
+光,11,6,"ray, light","ひか.る, ひかり",コウ,儿,legs,"hika.ru, hikari",kou
+好,18,6,"fond, pleasing, like something","この.む, す.く, よ.い, い.い",コウ,女,woman,"kono.mu, su.ku, yo.i, i.i",kou
+意,27,13,"idea, mind, heart, taste, thought, desire, care, liking",None,イ,心,heart,None,i
+行,46,6,"going, journey, carry out, conduct, act, line, row, bank","い.く, ゆ.く, -ゆ.き, -ゆき, -い.き, -いき, おこな.う, おこ.なう","コウ, ギョウ, アン",行,go,"i.ku, yu.ku, -yu.ki, -yuki, -i.ki, -iki, okona.u, oko.nau","kou, gyou, an"
+為,7,9,"do, change, make, benefit, welfare, be of use, reach to, try, practice, cost, serve as, good, advantage, as a result of","ため, な.る, な.す, す.る, たり, つく.る, なり",イ,火,fire,"tame, na.ru, na.su, su.ru, tari, tsuku.ru, nari",i
+合,55,6,"fit, suit, join, 0.1","あ.う, -あ.う, あ.い, あい-, -あ.い, -あい, あ.わす, あ.わせる, -あ.わせる","ゴウ, ガッ, カッ",口,mouth,"a.u, -a.u, a.i, ai-, -a.i, -ai, a.wasu, a.waseru, -a.waseru","gou, ga, ka"
+工,14,3,"craft, construction, katakana e radical (no. 48)",None,"コウ, ク, グ",工,work,None,"kou, ku, gu"
+学,54,8,"study, learning, science",まな.ぶ,ガク,子,child,mana.bu,gaku
+抗,5,7,"confront, resist, defy, oppose",あらが.う,コウ,手,hand,araga.u,kou
+議,22,20,"deliberation, consultation, debate, consideration",None,ギ,言,speech,None,gi
+皇,2,9,emperor,None,"コウ, オウ",白,white,None,"kou, ou"
+居,11,8,"reside, to be, exist, live with","い.る, -い, お.る","キョ, コ",尸,corpse,"i.ru, -i, o.ru","kyo, ko"
+況,3,8,"condition, situation","まし.て, いわ.んや, おもむき",キョウ,水,water,"mashi.te, iwa.nya, omomuki",kyou
+鉱,4,13,"mineral, ore",あらがね,コウ,金,metal,aragane,kou
+業,26,13,"business, vocation, arts, performance",わざ,"ギョウ, ゴウ",木,tree,waza,"gyou, gou"
+興,8,16,"entertain, revive, retrieve, interest, pleasure","おこ.る, おこ.す","コウ, キョウ",臼,mortar,"oko.ru, oko.su","kou, kyou"
+高,20,10,"tall, high, expensive","たか.い, たか, -だか, たか.まる, たか.める",コウ,高,tall,"taka.i, taka, -daka, taka.maru, taka.meru",kou
+交,22,6,"mingle, mixing, association, coming & going","まじ.わる, まじ.える, ま.じる, まじ.る, ま.ざる, ま.ぜる, -か.う, か.わす, かわ.す, こもごも",コウ,亠,lid,"maji.waru, maji.eru, ma.jiru, maji.ru, ma.zaru, ma.zeru, -ka.u, ka.wasu, kawa.su, komogomo",kou
+互,4,4,"mutually, reciprocally, together","たが.い, かたみ.に",ゴ,二,two,"taga.i, katami.ni",go
+煌,1,13,"glitter, gleam, twinkle","きらめ.く, きら.めく, かがや.く",コウ,火,fire,"kirame.ku, kira.meku, kagaya.ku",kou
+考,7,6,"consider, think over","かんが.える, かんが.え",コウ,老,old,"kanga.eru, kanga.e",kou
+古,8,5,old,"ふる.い, ふる-, -ふる.す",コ,口,mouth,"furu.i, furu-, -furu.su",ko
+作,29,7,"make, production, prepare, build","つく.る, つく.り, -づく.り","サク, サ",人,man,"tsuku.ru, tsuku.ri, -zuku.ri","saku, sa"
+耕,4,10,"till, plow, cultivate",たがや.す,コウ,耒,plow,tagaya.su,kou
+山,10,3,mountain,やま,"サン, セン",山,mountain,yama,"san, sen"
+講,8,17,"lecture, club, association",None,コウ,言,speech,None,kou
+習,14,11,learn,"なら.う, なら.い","シュウ, ジュ",羽,feather,"nara.u, nara.i","shuu, ju"
+口,22,3,mouth,くち,"コウ, ク",口,mouth,kuchi,"kou, ku"
+述,4,8,"mention, state, speak, relate",の.べる,ジュツ,辵,walk,no.beru,jutsu
+控,3,11,"withdraw, draw in, hold back, refrain from, be moderate","ひか.える, ひか.え",コウ,手,hand,"hika.eru, hika.e",kou
+除,9,10,"exclude, division (x/3), remove, abolish, cancel, except","のぞ.く, -よ.け","ジョ, ジ",dam,mound,"nozo.ku, -yo.ke","jo, ji"
+渉,2,11,"ford, go cross, transit, ferry, import, involve",わた.る,ショウ,水,water,wata.ru,shou
+尚,1,8,"esteem, furthermore, still, yet",なお,ショウ,小,small,nao,shou
+向,14,6,"yonder, facing, beyond, confront, defy, tend toward, approach","む.く, む.い, -む.き, む.ける, -む.け, む.かう, む.かい, む.こう, む.こう-, むこ, むか.い",コウ,口,mouth,"mu.ku, mu.i, -mu.ki, mu.keru, -mu.ke, mu.kau, mu.kai, mu.kou, mu.kou-, muko, muka.i",kou
+上,54,3,"above, up","うえ, -うえ, うわ-, かみ, あ.げる, -あ.げる, あ.がる, -あ.がる, あ.がり, -あ.がり, のぼ.る, のぼ.り, のぼ.せる, のぼ.す, たてまつ.る","ジョウ, ショウ, シャン",一,one,"ue, -ue, uwa-, kami, a.geru, -a.geru, a.garu, -a.garu, a.gari, -a.gari, nobo.ru, nobo.ri, nobo.seru, nobo.su, tatematsu.ru","jou, shou, shan"
+進,17,11,"advance, proceed, progress, promote","すす.む, すす.める",シン,辵,walk,"susu.mu, susu.meru",shin
+香,3,9,"incense, smell, perfume","か, かお.り, かお.る","コウ, キョウ",香,fragrance,"ka, kao.ri, kao.ru","kou, kyou"
+辛,7,7,"spicy, bitter, hot, acrid","から.い, つら.い, -づら.い, かのと",シン,辛,bitter,"kara.i, tsura.i, -zura.i, kanoto",shin
+料,16,10,"fee, materials",None,リョウ,斗,dipper,None,ryou
+降,7,10,"descend, precipitate, fall, surrender","お.りる, お.ろす, ふ.る, ふ.り, くだ.る, くだ.す","コウ, ゴ",dam,mound,"o.riru, o.rosu, fu.ru, fu.ri, kuda.ru, kuda.su","kou, go"
+水,32,4,water,"みず, みず-",スイ,水,water,"mizu, mizu-",sui
+洪,1,9,"deluge, flood, vast",None,コウ,水,water,None,kou
+成,20,6,"turn into, become, get, grow, elapse, reach","な.る, な.す, -な.す","セイ, ジョウ",戈,spear,"na.ru, na.su, -na.su","sei, jou"
+公,20,4,"public, prince, official, governmental",おおやけ,"コウ, ク",八,eight,ooyake,"kou, ku"
+然,14,12,"sort of thing, so, if so, in that case, well","しか, しか.り, しか.し, さ","ゼン, ネン",火,fire,"shika, shika.ri, shika.shi, sa","zen, nen"
+争,8,6,"contend, dispute, argue","あらそ.う, いか.でか",ソウ,亅,hook,"araso.u, ika.deka",sou
+構,7,14,"posture, stance, appearance, build, set up","かま.える, かま.う",コウ,木,tree,"kama.eru, kama.u",kou
+想,11,13,"idea, thought, conception, think",おも.う,"ソウ, ソ",心,heart,omo.u,"sou, so"
+後,20,9,"behind, back, later","のち, うし.ろ, うしろ, あと, おく.れる","ゴ, コウ",彳,step,"nochi, ushi.ro, ushiro, ato, oku.reru","go, kou"
+退,12,9,"retreat, withdraw, retire, resign, repel, expel, reject","しりぞ.く, しりぞ.ける, ひ.く, の.く, の.ける, ど.く",タイ,辵,walk,"shirizo.ku, shirizo.keru, hi.ku, no.ku, no.keru, do.ku",tai
+沢,3,7,"swamp, marsh, brilliance, grace","さわ, うるお.い, うるお.す, つや",タク,水,water,"sawa, uruo.i, uruo.su, tsuya",taku
+団,10,6,"group, association","かたまり, まる.い","ダン, トン",囗,enclosure,"katamari, maru.i","dan, ton"
+調,21,15,"tune, tone, meter, key (music), writing style, prepare, exorcise, investigate, harmonize, mediate","しら.べる, しら.べ, ととの.う, ととの.える",チョウ,言,speech,"shira.beru, shira.be, totono.u, totono.eru",chou
+頭,9,16,"head, counter for large animals","あたま, かしら, -がしら, かぶり","トウ, ズ, ト",頁,leaf,"atama, kashira, -gashira, kaburi","tou, zu, to"
+読,8,14,read,"よ.む, -よ.み","ドク, トク, トウ",言,speech,"yo.mu, -yo.mi","doku, toku, tou"
+購,3,17,"subscription, buy",None,コウ,貝,shell,None,kou
+入,37,2,"enter, insert","い.る, -い.る, -い.り, い.れる, -い.れ, はい.る","ニュウ, ジュ",入,enter,"i.ru, -i.ru, -i.ri, i.reru, -i.re, hai.ru","nyuu, ju"
+認,5,14,"acknowledge, witness, discern, recognize, appreciate, believe","みと.める, したた.める",ニン,言,speech,"mito.meru, shitata.meru",nin
+熱,12,15,"heat, temperature, fever, mania, passion",あつ.い,ネツ,火,fire,atsu.i,netsu
+費,9,12,"expense, cost, spend, consume, waste","つい.やす, つい.える",ヒ,貝,shell,"tsui.yasu, tsui.eru",hi
+買,4,12,buy,か.う,バイ,貝,shell,ka.u,bai
+評,7,12,"evaluate, criticism, comment",None,ヒョウ,言,speech,None,hyou
+付,38,5,"adhere, attach, refer to, append","つ.ける, -つ.ける, -づ.ける, つ.け, つ.け-, -つ.け, -づ.け, -づけ, つ.く, -づ.く, つ.き, -つ.き, -つき, -づ.き, -づき",フ,人,man,"tsu.keru, -tsu.keru, -zu.keru, tsu.ke, tsu.ke-, -tsu.ke, -zu.ke, -zuke, tsu.ku, -zu.ku, tsu.ki, -tsu.ki, -tsuki, -zu.ki, -zuki",fu
+募,5,12,"recruit, campaign, gather (contributions), enlist, grow violent",つの.る,ボ,力,power,tsuno.ru,bo
+巧,3,5,"adroit, skilled, ingenuity","たく.み, たく.む, うま.い",コウ,工,work,"taku.mi, taku.mu, uma.i",kou
+妙,4,7,"exquisite, strange, queer, mystery, miracle, excellent, delicate, charming",たえ,"ミョウ, ビョウ",女,woman,tae,"myou, byou"
+小,24,3,"little, small","ちい.さい, こ-, お-, さ-",ショウ,小,small,"chii.sai, ko-, o-, sa-",shou
+売,19,7,sell,"う.る, う.れる",バイ,士,scholar,"u.ru, u.reru",bai
+効,7,8,"merit, efficacy, efficiency, benefit","き.く, ききめ, なら.う",コウ,力,power,"ki.ku, kikime, nara.u",kou
+率,10,11,"ratio, rate, proportion, %, factor, lead, spearhead, command",ひき.いる,"ソツ, リツ, シュツ",玄,dark,hiki.iru,"sotsu, ritsu, shutsu"
+立,36,5,"stand up, rise, set up, erect","た.つ, -た.つ, た.ち-, た.てる, -た.てる, た.て-, たて-, -た.て, -だ.て, -だ.てる","リツ, リュウ, リットル",立,stand,"ta.tsu, -ta.tsu, ta.chi-, ta.teru, -ta.teru, ta.te-, tate-, -ta.te, -da.te, -da.teru","ritsu, ryuu, rittoru"
+護,7,20,"safeguard, protect",まも.る,ゴ,言,speech,mamo.ru,go
+衛,5,16,"defense, protection",None,"エイ, エ",行,go,None,"ei, e"
+柄,7,9,"design, pattern, build, nature, character, handle, crank, grip, knob, shaft","がら, え, つか",ヘイ,木,tree,"gara, e, tsuka",hei
+切,37,4,"cut, cutoff, be sharp","き.る, -き.る, き.り, -き.り, -ぎ.り, き.れる, -き.れる, き.れ, -き.れ, -ぎ.れ","セツ, サイ",刀,knife,"ki.ru, -ki.ru, ki.ri, -ki.ri, -gi.ri, ki.reru, -ki.reru, ki.re, -ki.re, -gi.re","setsu, sai"
+手,61,4,hand,"て, て-, -て, た-","シュ, ズ",手,hand,"te, te-, -te, ta-","shu, zu"
+国,23,8,country,くに,コク,囗,enclosure,kuni,koku
+産,27,11,"products, bear, give birth, yield, childbirth, native, property","う.む, う.まれる, うぶ-, む.す",サン,生,life,"u.mu, u.mareru, ubu-, mu.su",san
+告,9,7,"revelation, tell, inform, announce",つ.げる,コク,口,mouth,tsu.geru,koku
+白,10,5,white,"しろ, しら-, しろ.い","ハク, ビャク",白,white,"shiro, shira-, shiro.i","haku, byaku"
+防,11,7,"ward off, defend, protect, resist",ふせ.ぐ,ボウ,dam,mound,fuse.gu,bou
+有,21,6,"possess, have, exist, happen, occur, approx",あ.る,"ユウ, ウ",月,moon,a.ru,"yuu, u"
+極,10,12,"poles, settlement, conclusion, end, highest rank, electric poles, very, extremely, most, highly, 10**48","きわ.める, きわ.まる, きわ.まり, きわ.み, き.める, -ぎ.め, き.まる","キョク, ゴク",木,tree,"kiwa.meru, kiwa.maru, kiwa.mari, kiwa.mi, ki.meru, -gi.me, ki.maru","kyoku, goku"
+楽,11,13,"music, comfort, ease","たの.しい, たの.しむ, この.む","ガク, ラク, ゴウ",木,tree,"tano.shii, tano.shimu, kono.mu","gaku, raku, gou"
+連,17,10,"take along, lead, join, connect, party, gang, clique","つら.なる, つら.ねる, つ.れる, -づ.れ",レン,辵,walk,"tsura.naru, tsura.neru, tsu.reru, -zu.re",ren
+焦,5,12,"char, hurry, impatient, irritate, burn, scorch, singe","こ.げる, こ.がす, こ.がれる, あせ.る, じ.れる, じ.らす",ショウ,火,fire,"ko.geru, ko.gasu, ko.gareru, ase.ru, ji.reru, ji.rasu",shou
+茶,13,9,tea,None,"チャ, サ",艸,grass,None,"cha, sa"
+源,7,13,"source, origin",みなもと,ゲン,水,water,minamoto,gen
+心,33,4,"heart, mind, spirit, heart radical (no. 61)","こころ, -ごころ",シン,心,heart,"kokoro, -gokoro",shin
+得,11,11,"gain, get, find, earn, acquire, can, may, able to, profit, advantage, benefit","え.る, う.る",トク,彳,step,"e.ru, u.ru",toku
+掛,25,11,"hang, suspend, depend, arrive at, tax, pour","か.ける, -か.ける, か.け, -か.け, -が.け, か.かる, -か.かる, -が.かる, か.かり, -が.かり, かかり, -がかり","カイ, ケイ",手,hand,"ka.keru, -ka.keru, ka.ke, -ka.ke, -ga.ke, ka.karu, -ka.karu, -ga.karu, ka.kari, -ga.kari, kakari, -gakari","kai, kei"
+志,6,7,"intention, plan, resolve, aspire, motive, hopes, shilling","シリング, こころざ.す, こころざし",シ,心,heart,"shiringu, kokoroza.su, kokorozashi",shi
+強,21,11,strong,"つよ.い, つよ.まる, つよ.める, し.いる, こわ.い","キョウ, ゴウ",弓,bow,"tsuyo.i, tsuyo.maru, tsuyo.meru, shi.iru, kowa.i","kyou, gou"
+細,8,11,"dainty, get thin, taper, slender, narrow, detailed, precise","ほそ.い, ほそ.る, こま.か, こま.かい",サイ,糸,silk,"hoso.i, hoso.ru, koma.ka, koma.kai",sai
+試,6,13,"test, try, attempt, experiment, ordeal","こころ.みる, ため.す",シ,言,speech,"kokoro.miru, tame.su",shi
+快,6,7,"cheerful, pleasant, agreeable, comfortable",こころよ.い,カイ,心,heart,kokoroyo.i,kai
+誤,5,14,"mistake, err, do wrong, mislead","あやま.る, -あやま.る",ゴ,言,speech,"ayama.ru, -ayama.ru",go
+差,19,10,"distinction, difference, variation, discrepancy, margin, balance","さ.す, さ.し",サ,工,work,"sa.su, sa.shi",sa
+孤,3,9,"orphan, alone",None,コ,子,child,None,ko
+児,6,7,"newborn babe, child, young of animals","こ, -こ, -っこ","ジ, ニ, ゲイ",儿,legs,"ko, -ko, -kko","ji, ni, gei"
+梢,1,11,"treetops, twig","こずえ, くすのき",ショウ,木,tree,"kozue, kusunoki",shou
+個,6,10,"individual, counter for articles",None,"コ, カ",人,man,None,"ko, ka"
+性,16,8,"sex, gender, nature",さが,"セイ, ショウ",心,heart,saga,"sei, shou"
+戸,7,4,"door, counter for houses, door radical (no. 63)",と,コ,戶,door,to,ko
+籍,3,20,"enroll, domiciliary register, membership",None,セキ,竹,bamboo,None,seki
+代,21,5,"substitute, change, convert, replace, period, age, counter for decades of ages, eras, etc., generation, charge, rate, fee","か.わる, かわ.る, かわ.り, か.わり, -がわ.り, -が.わり, か.える, よ, しろ","ダイ, タイ",人,man,"ka.waru, kawa.ru, kawa.ri, ka.wari, -gawa.ri, -ga.wari, ka.eru, yo, shiro","dai, tai"
+誇,3,13,"boast, be proud, pride, triumphantly",ほこ.る,コ,言,speech,hoko.ru,ko
+張,13,11,"counter for bows & stringed instruments, stretch, spread, put up (tent)","は.る, -は.り, -ば.り",チョウ,弓,bow,"ha.ru, -ha.ri, -ba.ri",chou
+滑,4,13,"slippery, slide, slip, fail exam","すべ.る, なめ.らか","カツ, コツ",水,water,"sube.ru, name.raka","katsu, kotsu"
+稽,2,15,"think, consider","かんが.える, とど.める",ケイ,禾,grain,"kanga.eru, todo.meru",kei
+骨,4,10,"skeleton, bone, remains, frame",ほね,コツ,骨,bone,hone,kotsu
+董,1,12,correct,ただ.す,トウ,艸,grass,tada.su,tou
+品,25,9,"goods, refinement, dignity, article, counter for meal courses",しな,"ヒン, ホン",口,mouth,shina,"hin, hon"
+固,6,8,"harden, set, clot, curdle","かた.める, かた.まる, かた.まり, かた.い",コ,囗,enclosure,"kata.meru, kata.maru, kata.mari, kata.i",ko
+事,36,8,"matter, thing, fact, business, reason, possibly","こと, つか.う, つか.える","ジ, ズ",亅,hook,"koto, tsuka.u, tsuka.eru","ji, zu"
+独,11,9,"single, alone, spontaneously, Germany",ひと.り,"ドク, トク",犬,dog,hito.ri,"doku, toku"
+殊,2,10,"particularly, especially, exceptionally",こと,シュ,歹,death,koto,shu
+粉,4,10,"flour, powder, dust","デシメートル, こ, こな",フン,米,rice,"deshimeーtoru, ko, kona",fun
+碁,3,13,Go,None,ゴ,石,stone,None,go
+盤,4,15,"tray, shallow bowl, platter, tub, board, phonograph record",None,バン,皿,dish,None,ban
+別,14,7,"separate, branch off, diverge, fork, another, extra, specially","わか.れる, わ.ける",ベツ,刀,knife,"waka.reru, wa.keru",betsu
+込,24,5,"crowded, mixture, in bulk, included, (kokuji)","-こ.む, こ.む, こ.み, -こ.み, こ.める",None,辵,walk,"-ko.mu, ko.mu, ko.mi, -ko.mi, ko.meru",None
+籠,2,22,"basket, devote oneself, seclude oneself, cage, coop, implied","かご, こ.める, こも.る, こ.む","ロウ, ル",竹,bamboo,"kago, ko.meru, komo.ru, ko.mu","rou, ru"
+暦,3,14,"calendar, almanac",こよみ,"レキ, リャク",日,sun,koyomi,"reki, ryaku"
+凝,2,16,"congeal, freeze, stiff, be absorbed in","こ.る, こ.らす, こご.らす, こご.らせる, こご.る",ギョウ,冫,ice,"ko.ru, ko.rasu, kogo.rasu, kogo.raseru, kogo.ru",gyou
+懲,1,18,"penal, chastise, punish, discipline","こ.りる, こ.らす, こ.らしめる",チョウ,心,heart,"ko.riru, ko.rasu, ko.rashimeru",chou
+根,10,10,"root, radical, head (pimple)","ね, -ね",コン,木,tree,"ne, -ne",kon
+気,68,6,"spirit, mind, air, atmosphere, mood","いき, き","キ, ケ",气,steam,"iki, ki","ki, ke"
+拠,2,8,"foothold, based on, follow, therefore",よ.る,"キョ, コ",手,hand,yo.ru,"kyo, ko"
+混,9,11,"mix, blend, confuse","ま.じる, -ま.じり, ま.ざる, ま.ぜる, こ.む",コン,水,water,"ma.jiru, -ma.jiri, ma.zaru, ma.zeru, ko.mu",kon
+血,7,6,blood,ち,ケツ,血,blood,chi,ketsu
+昆,1,8,"descendants, elder brother, insect",None,コン,日,sun,None,kon
+虫,3,6,"insect, bug, temper",むし,"チュウ, キ",虫,insect,mushi,"chuu, ki"
+底,4,8,"bottom, sole, depth, bottom price, base, kind, sort",そこ,テイ,广,house,soko,tei
+同,23,6,"same, agree, equal",おな.じ,ドウ,口,mouth,ona.ji,dou
+本,31,5,"book, present, main, origin, true, real, counter for long cylindrical things",もと,ホン,木,tree,moto,hon
+財,6,10,"property, money, wealth, assets",たから,"ザイ, サイ, ゾク",貝,shell,takara,"zai, sai, zoku"
+再,10,6,"again, twice, second time",ふたた.び,"サイ, サ",冂,open,futata.bi,"sai, sa"
+会,35,6,"meeting, meet, party, association, interview, join","あ.う, あ.わせる, あつ.まる","カイ, エ",人,man,"a.u, a.waseru, atsu.maru","kai, e"
+災,5,7,"disaster, calamity, woe, curse, evil",わざわ.い,サイ,火,fire,wazawa.i,sai
+害,11,10,"harm, injury",None,ガイ,宀,roof,None,gai
+菌,3,11,"germ, fungus, bacteria",None,キン,艸,grass,None,kin
+採,8,11,"pick, take, fetch, take up",と.る,サイ,手,hand,to.ru,sai
+掘,3,11,"dig, delve, excavate",ほ.る,クツ,手,hand,ho.ru,kutsu
+決,21,7,"decide, fix, agree upon, appoint","き.める, -ぎ.め, き.まる, さ.く",ケツ,水,water,"ki.meru, -gi.me, ki.maru, sa.ku",ketsu
+建,10,9,build,"た.てる, た.て, -だ.て, た.つ","ケン, コン",廴,long,"ta.teru, ta.te, -da.te, ta.tsu","ken, kon"
+在,11,6,"exist, outskirts, suburbs, located in",あ.る,ザイ,土,earth,a.ru,zai
+庫,5,10,"warehouse, storehouse",くら,"コ, ク",广,house,kura,"ko, ku"
+算,13,14,"calculate, divining, number, abacus, probability",そろ,サン,竹,bamboo,soro,san
+生,62,5,"life, genuine, birth","い.きる, い.かす, い.ける, う.まれる, うま.れる, う.まれ, うまれ, う.む, お.う, は.える, は.やす, き, なま, なま-, な.る, な.す, む.す, -う","セイ, ショウ",生,life,"i.kiru, i.kasu, i.keru, u.mareru, uma.reru, u.mare, umare, u.mu, o.u, ha.eru, ha.yasu, ki, nama, nama-, na.ru, na.su, mu.su, -u","sei, shou"
+政,7,9,"politics, government","まつりごと, まん","セイ, ショウ",攴,rap,"matsurigoto, man","sei, shou"
+最,11,12,"utmost, most, extreme","もっと.も, つま","サイ, シュ",曰,say,"motto.mo, tsuma","sai, shu"
+善,6,12,"virtuous, good, goodness","よ.い, い.い, よ.く, よし.とする",ゼン,口,mouth,"yo.i, i.i, yo.ku, yoshi.tosuru",zen
+択,2,7,"choose, select, elect, prefer",えら.ぶ,タク,手,hand,era.bu,taku
+栽,1,10,"plantation, planting",None,サイ,木,tree,None,sai
+培,1,11,"cultivate, foster",つちか.う,バイ,土,earth,tsuchika.u,bai
+発,31,9,"departure, discharge, publish, emit, start from, disclose, counter for gunshots","た.つ, あば.く, おこ.る, つか.わす, はな.つ","ハツ, ホツ",癶,footsteps,"ta.tsu, aba.ku, oko.ru, tsuka.wasu, hana.tsu","hatsu, hotsu"
+胞,1,9,"placenta, sac, sheath",None,ホウ,肉,meat,None,hou
+遮,1,14,"intercept, interrupt, obstruct",さえぎ.る,シャ,辵,walk,saegi.ru,sha
+冴,1,7,"be clear, serene, cold, skilful","さ.える, こお.る, ひ.える","ゴ, コ",冫,ice,"sa.eru, koo.ru, hi.eru","go, ko"
+竿,1,9,"pole, rod, scale beam, violin neck",さお,カン,竹,bamboo,sao,kan
+栄,3,9,"flourish, prosperity, honor, glory, splendor","さか.える, は.え, -ば.え, は.える, え","エイ, ヨウ",木,tree,"saka.eru, ha.e, -ba.e, ha.eru, e","ei, you"
+額,4,18,"forehead, tablet, plaque, framed picture, sum, amount, volume",ひたい,ガク,頁,leaf,hitai,gaku
+杯,4,8,"counter for cupfuls, wine glass, glass, toast",さかずき,ハイ,木,tree,sakazuki,hai
+逆,6,9,"inverted, reverse, opposite, wicked","さか, さか.さ, さか.らう","ギャク, ゲキ",辵,walk,"saka, saka.sa, saka.rau","gyaku, geki"
+詐,1,12,"lie, falsehood, deceive, pretend",いつわ.る,サ,言,speech,itsuwa.ru,sa
+欺,2,12,"deceit, cheat, delude",あざむ.く,ギ,欠,lack,azamu.ku,gi
+削,3,9,"plane, sharpen, whittle, pare, shave","けず.る, はつ.る, そ.ぐ",サク,刀,knife,"kezu.ru, hatsu.ru, so.gu",saku
+減,8,12,"dwindle, decrease, reduce, decline, curtail, get hungry","へ.る, へ.らす",ゲン,水,water,"he.ru, he.rasu",gen
+錯,1,16,"confused, mix, be in disorder",None,"サク, シャク",金,metal,None,"saku, shaku"
+戦,13,13,"war, battle, match","いくさ, たたか.う, おのの.く, そよ.ぐ, わなな.く",セン,戈,spear,"ikusa, tataka.u, onono.ku, soyo.gu, wanana.ku",sen
+叫,2,6,"shout, exclaim, yell",さけ.ぶ,キョウ,口,mouth,sake.bu,kyou
+捧,1,11,"lift up, give, offer, consecrate, sacrifice, dedicate",ささ.げる,ホウ,手,hand,sasa.geru,hou
+指,16,9,"finger, point to, indicate, put into, play (chess), measure (ruler)","ゆび, さ.す, -さ.し",シ,手,hand,"yubi, sa.su, -sa.shi",shi
+図,12,7,"map, drawing, plan, extraordinary, audacious","え, はか.る","ズ, ト",囗,enclosure,"e, haka.ru","zu, to"
+出,71,5,"exit, leave, go out, come out, put out, protrude","で.る, -で, だ.す, -だ.す, い.でる, い.だす","シュツ, スイ",凵,container,"de.ru, -de, da.su, -da.su, i.deru, i.dasu","shutsu, sui"
+支,12,4,"branch, support, sustain, branch radical (no. 65)","ささ.える, つか.える, か.う",シ,支,branch,"sasa.eru, tsuka.eru, ka.u",shi
+授,4,11,"impart, instruct, grant, confer","さず.ける, さず.かる",ジュ,手,hand,"sazu.keru, sazu.karu",ju
+摩,2,15,"chafe, rub, polish, grind, scrape","ま.する, さす.る, す.る",マ,手,hand,"ma.suru, sasu.ru, su.ru",ma
+座,8,10,"squat, seat, cushion, gathering, sit",すわ.る,ザ,广,house,suwa.ru,za
+談,7,15,"discuss, talk",None,ダン,言,speech,None,dan
+雑,9,14,miscellaneous,"まじ.える, まじ.る","ザツ, ゾウ",隹,small,"maji.eru, maji.ru","zatsu, zou"
+貨,7,11,"freight, goods, property",たから,カ,貝,shell,takara,ka
+殺,4,10,"kill, murder, butcher, slice off, split, diminish, reduce, spoil","ころ.す, -ごろ.し, そ.ぐ, あや.める","サツ, サイ, セツ",殳,weapon,"koro.su, -goro.shi, so.gu, aya.meru","satsu, sai, setsu"
+人,67,2,person,"ひと, -り, -と","ジン, ニン",人,man,"hito, -ri, -to","jin, nin"
+察,5,14,"guess, presume, surmise, judge, understand",None,サツ,宀,roof,None,satsu
+悟,2,10,"enlightenment, perceive, discern, realize, understand",さと.る,ゴ,心,heart,sato.ru,go
+中,48,4,"in, inside, middle, mean, center","なか, うち, あた.る",チュウ,丨,line,"naka, uchi, ata.ru",chuu
+標,6,15,"signpost, seal, mark, stamp, imprint, symbol, emblem, trademark, evidence, souvenir, target","しるべ, しるし",ヒョウ,木,tree,"shirube, shirushi",hyou
+様,18,14,"Esq., way, manner, situation, polite suffix","さま, さん","ヨウ, ショウ",木,tree,"sama, san","you, shou"
+寒,3,12,cold,さむ.い,カン,宀,roof,samu.i,kan
+侍,1,8,"waiter, samurai, wait upon, serve","さむらい, はべ.る","ジ, シ",人,man,"samurai, habe.ru","ji, shi"
+障,6,14,"hinder, hurt, harm",さわ.る,ショウ,dam,mound,sawa.ru,shou
+酸,5,14,"acid, bitterness, sour, tart",す.い,サン,酉,wine,su.i,san
+岳,1,8,"point, peak, mountain",たけ,ガク,山,mountain,take,gaku
+参,8,8,"nonplussed, three (in documents), going, coming, visiting, visit, be defeated, die, be madly in love, participate, take part in","まい.る, まい-, まじわる, みつ","サン, シン",厶,private,"mai.ru, mai-, majiwaru, mitsu","san, shin"
+院,8,10,"Inst., institution, temple, mansion, school",None,イン,dam,mound,None,in
+休,19,6,"rest, day off, retire, sleep","やす.む, やす.まる, やす.める",キュウ,人,man,"yasu.mu, yasu.maru, yasu.meru",kyuu
+残,9,10,"remainder, leftover, balance","のこ.る, のこ.す, そこな.う, のこ.り","ザン, サン",歹,death,"noko.ru, noko.su, sokona.u, noko.ri","zan, san"
+金,31,8,gold,"かね, かな-, -がね","キン, コン, ゴン",金,metal,"kane, kana-, -gane","kin, kon, gon"
+酷,2,14,"cruel, severe, atrocious, unjust",ひど.い,コク,酉,wine,hido.i,koku
+照,8,13,"illuminate, shine, compare, bashful","て.る, て.らす, て.れる",ショウ,火,fire,"te.ru, te.rasu, te.reru",shou
+桟,1,10,"scaffold, cleat, frame, jetty, bolt (door)",かけはし,"サン, セン",木,tree,kakehashi,"san, sen"
+橋,4,16,bridge,はし,キョウ,木,tree,hashi,kyou
+賛,2,15,"approve, praise, title or inscription on picture, assist, agree with","たす.ける, たた.える",サン,貝,shell,"tasu.keru, tata.eru",san
+美,10,9,"beauty, beautiful",うつく.しい,"ビ, ミ",羊,sheep,utsuku.shii,"bi, mi"
+腹,6,13,"abdomen, belly, stomach",はら,フク,肉,meat,hara,fuku
+婦,5,11,"lady, woman, wife, bride",よめ,フ,女,woman,yome,fu
+科,18,9,"department, course, section",None,カ,禾,grain,None,ka
+物,58,8,"thing, object, matter","もの, もの-","ブツ, モツ",牛,cow,"mono, mono-","butsu, motsu"
+脈,3,10,"vein, pulse, hope",すじ,ミャク,肉,meat,suji,myaku
+仕,17,5,"attend, doing, official, serve",つか.える,"シ, ジ",人,man,tsuka.eru,"shi, ji"
+飼,2,13,"domesticate, raise, keep, feed",か.う,シ,食,eat,ka.u,shi
+育,12,8,"bring up, grow up, raise, rear","そだ.つ, そだ.ち, そだ.てる, はぐく.む",イク,肉,meat,"soda.tsu, soda.chi, soda.teru, haguku.mu",iku
+潮,1,15,"tide, salt water, opportunity","しお, うしお",チョウ,水,water,"shio, ushio",chou
+歯,6,12,"tooth, cog","よわい, は, よわ.い, よわい.する",シ,止,stop,"yowai, ha, yowa.i, yowai.suru",shi
+自,28,6,oneself,"みずか.ら, おの.ずから, おの.ずと","ジ, シ",自,self,"mizuka.ra, ono.zukara, ono.zuto","ji, shi"
+我,6,7,"ego, I, selfish, our, oneself","われ, わ, わ.が-, わが-",ガ,戈,spear,"ware, wa, wa.ga-, waga-",ga
+覚,13,12,"memorize, learn, remember, awake, sober up","おぼ.える, さ.ます, さ.める, さと.る",カク,見,see,"obo.eru, sa.masu, sa.meru, sato.ru",kaku
+色,14,6,color,いろ,"ショク, シキ",色,colour,iro,"shoku, shiki"
+彩,1,11,"coloring, paint, makeup",いろど.る,サイ,彡,bristle,irodo.ru,sai
+式,12,6,"style, ceremony, rite, function, method, system, form, expression",None,シキ,弋,shoot,None,shiki
+場,31,12,"location, place",ば,"ジョウ, チョウ",土,earth,ba,"jou, chou"
+軽,7,12,"lightly, trifling, unimportant","かる.い, かろ.やか, かろ.んじる","ケイ, キョウ, キン",車,cart,"karu.i, karo.yaka, karo.njiru","kei, kyou, kin"
+蔑,1,14,"ignore, despise, neglect, ridicule","ないがしろ, なみ.する, くらい, さげす.む",ベツ,艸,grass,"naigashiro, nami.suru, kurai, sagesu.mu",betsu
+経,13,11,"sutra, longitude, pass thru, expire, warp","へ.る, た.つ, たていと, はか.る, のり","ケイ, キョウ, キン",糸,silk,"he.ru, ta.tsu, tateito, haka.ru, nori","kei, kyou, kin"
+歴,4,14,"curriculum, continuation, passage of time",None,"レキ, レッキ",止,stop,None,"reki, rekki"
+路,8,13,"path, route, road, distance","-じ, みち","ロ, ル",足,foot,"-ji, michi","ro, ru"
+劇,6,15,"drama, play",None,ゲキ,刀,knife,None,geki
+激,6,16,"violent, get excited, enraged, chafe, incite",はげ.しい,ゲキ,水,water,hage.shii,geki
+励,4,7,"encourage, be diligent, inspire","はげ.む, はげ.ます",レイ,力,power,"hage.mu, hage.masu",rei
+獣,3,16,"animal, beast","けもの, けだもの",ジュウ,犬,dog,"kemono, kedamono",juu
+結,17,12,"tie, bind, contract, join, organize, do up hair, fasten","むす.ぶ, ゆ.う, ゆ.わえる","ケツ, ケチ",糸,silk,"musu.bu, yu.u, yu.waeru","ketsu, kechi"
+核,2,10,"nucleus, core, kernel",None,カク,木,tree,None,kaku
+月,25,4,"month, moon",つき,"ゲツ, ガツ",月,moon,tsuki,"getsu, gatsu"
+謝,4,17,"apologize, thank, refuse",あやま.る,シャ,言,speech,ayama.ru,sha
+勝,11,12,"victory, win, prevail, excel","か.つ, -が.ち, まさ.る, すぐ.れる, かつ",ショウ,力,power,"ka.tsu, -ga.chi, masa.ru, sugu.reru, katsu",shou
+晶,1,12,"sparkle, clear, crystal",None,ショウ,日,sun,None,shou
+束,6,7,"bundle, sheaf, ream, tie in bundles, govern, manage, control","たば, たば.ねる, つか, つか.ねる",ソク,木,tree,"taba, taba.neru, tsuka, tsuka.neru",soku
+断,15,11,"severance, decline, refuse, apologize, warn, dismiss, prohibit, decision, judgement, cutting","た.つ, ことわ.る, さだ.める",ダン,斤,axe,"ta.tsu, kotowa.ru, sada.meru",dan
+賦,1,15,"levy, ode, prose, poem, tribute, installment",None,"フ, ブ",貝,shell,None,"fu, bu"
+欠,7,4,"lack, gap, fail, yawning radical (no. 76)","か.ける, か.く","ケツ, ケン",欠,lack,"ka.keru, ka.ku","ketsu, ken"
+乏,4,4,"destitution, scarce, limited","とぼ.しい, とも.しい",ボウ,丿,slash,"tobo.shii, tomo.shii",bou
+蹴,2,19,kick,け.る,"シュク, シュウ",足,foot,ke.ru,"shuku, shuu"
+飛,8,9,"fly, skip (pages), scatter","と.ぶ, と.ばす, -と.ばす",ヒ,飛,fly,"to.bu, to.basu, -to.basu",hi
+煙,6,13,smoke,"けむ.る, けむり, けむ.い",エン,火,fire,"kemu.ru, kemuri, kemu.i",en
+家,25,10,"house, home, family, professional, expert, performer","いえ, や, うち","カ, ケ",宀,roof,"ie, ya, uchi","ka, ke"
+来,23,7,"come, due, next, cause, become","く.る, きた.る, きた.す, き.たす, き.たる, き, こ","ライ, タイ",木,tree,"ku.ru, kita.ru, kita.su, ki.tasu, ki.taru, ki, ko","rai, tai"
+下,48,3,"below, down, descend, give, low, inferior","した, しも, もと, さ.げる, さ.がる, くだ.る, くだ.り, くだ.す, -くだ.す, くだ.さる, お.ろす, お.りる","カ, ゲ",一,one,"shita, shimo, moto, sa.geru, sa.garu, kuda.ru, kuda.ri, kuda.su, -kuda.su, kuda.saru, o.rosu, o.riru","ka, ge"
+痢,1,12,diarrhea,None,リ,疒,sickness,None,ri
+威,3,9,"intimidate, dignity, majesty, menace, threaten","おど.す, おど.し, おど.かす",イ,女,woman,"odo.su, odo.shi, odo.kasu",i
+形,14,7,"shape, form, style","かた, -がた, かたち, なり","ケイ, ギョウ",彡,bristle,"kata, -gata, katachi, nari","kei, gyou"
+型,4,9,"mould, type, model","かた, -がた",ケイ,土,earth,"kata, -gata",kei
+健,5,11,"healthy, health, strength, persistence",すこ.やか,ケン,人,man,suko.yaka,ken
+検,5,12,"examination, investigate",しら.べる,ケン,木,tree,shira.beru,ken
+子,29,3,"child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac","こ, -こ, ね","シ, ス, ツ",子,child,"ko, -ko, ne","shi, su, tsu"
+元,13,4,"beginning, former time, origin",もと,"ゲン, ガン",儿,legs,moto,"gen, gan"
+首,10,9,"neck, counter for songs and poems",くび,シュ,首,head,kubi,shu
+書,27,10,write,"か.く, -が.き, -がき",ショ,曰,say,"ka.ku, -ga.ki, -gaki",sho
+懸,3,20,"state of suspension, hang, depend, consult, distant, far apart","か.ける, か.かる","ケン, ケ",心,heart,"ka.keru, ka.karu","ken, ke"
+賞,7,15,"prize, reward, praise",ほ.める,ショウ,貝,shell,ho.meru,shou
+全,19,6,"whole, entire, all, complete, fulfill","まった.く, すべ.て",ゼン,入,enter,"matta.ku, sube.te",zen
+素,16,10,"elementary, principle, naked, uncovered",もと,"ソ, ス",糸,silk,moto,"so, su"
+到,3,8,"arrival, proceed, reach, attain, result in",いた.る,トウ,刀,knife,ita.ru,tou
+動,30,11,"move, motion, change, confusion, shift, shake","うご.く, うご.かす",ドウ,力,power,"ugo.ku, ugo.kasu",dou
+的,9,8,"bull's eye, mark, target, object, adjective ending",まと,テキ,白,white,mato,teki
+尊,5,12,"revered, valuable, precious, noble, exalted","たっと.い, とうと.い, たっと.ぶ, とうと.ぶ",ソン,寸,thumb,"tatto.i, touto.i, tatto.bu, touto.bu",son
+貴,3,12,"precious, value, prize, esteem, honor","たっと.い, とうと.い, たっと.ぶ, とうと.ぶ",キ,貝,shell,"tatto.i, touto.i, tatto.bu, touto.bu",ki
+等,12,12,"etc., and so forth, class (first), quality, equal, similar","ひと.しい, など, -ら",トウ,竹,bamboo,"hito.shii, nado, -ra",tou
+堂,4,11,"public chamber, hall",None,ドウ,土,earth,None,dou
+投,6,7,"throw, discard, abandon, launch into, join, invest in, hurl, give up, sell at a loss","な.げる, -な.げ",トウ,手,hand,"na.geru, -na.ge",tou
+導,5,15,"guidance, leading, conduct, usher",みちび.く,ドウ,寸,thumb,michibi.ku,dou
+当,34,6,"hit, right, appropriate, himself","あ.たる, あ.たり, あ.てる, あ.て, まさ.に, まさ.にべし",トウ,彐,pig,"a.taru, a.tari, a.teru, a.te, masa.ni, masa.nibeshi",tou
+封,5,9,"seal, closing",None,"フウ, ホウ",寸,thumb,None,"fuu, hou"
+逃,8,9,"escape, flee, shirk, evade, set free","に.げる, に.がす, のが.す, のが.れる",トウ,辵,walk,"ni.geru, ni.gasu, noga.su, noga.reru",tou
+亡,5,3,"deceased, the late, dying, perish","な.い, な.き-, ほろ.びる, ほろ.ぶ, ほろ.ぼす","ボウ, モウ",亠,lid,"na.i, na.ki-, horo.biru, horo.bu, horo.bosu","bou, mou"
+冬,2,5,winter,ふゆ,トウ,冫,ice,fuyu,tou
+眠,6,10,"sleep, die, sleepy","ねむ.る, ねむ.い",ミン,目,eye,"nemu.ru, nemu.i",min
+盟,2,13,"alliance, oath",None,メイ,皿,dish,None,mei
+登,5,12,"ascend, climb up","のぼ.る, あ.がる","トウ, ト, ドウ, ショウ, チョウ",癶,footsteps,"nobo.ru, a.garu","tou, to, dou, shou, chou"
+録,5,16,record,"しる.す, と.る",ロク,金,metal,"shiru.su, to.ru",roku
+討,4,10,"chastise, attack, defeat, destroy, conquer",う.つ,トウ,言,speech,u.tsu,tou
+遠,10,13,"distant, far",とお.い,"エン, オン",辵,walk,too.i,"en, on"
+回,22,6,"-times, round, game, revolve, counter for occurrences","まわ.る, -まわ.る, -まわ.り, まわ.す, -まわ.す, まわ.し-, -まわ.し, もとお.る, か.える","カイ, エ",囗,enclosure,"mawa.ru, -mawa.ru, -mawa.ri, mawa.su, -mawa.su, mawa.shi-, -mawa.shi, motoo.ru, ka.eru","kai, e"
+時,20,10,"time, hour","とき, -どき",ジ,日,sun,"toki, -doki",ji
+折,9,7,"fold, break, fracture, bend, yield, submit","お.る, おり, お.り, -お.り, お.れる","セツ, シャク",手,hand,"o.ru, ori, o.ri, -o.ri, o.reru","setsu, shaku"
+研,4,9,"polish, study of, sharpen",と.ぐ,ケン,石,stone,to.gu,ken
+特,17,10,special,None,トク,牛,cow,None,toku
+技,7,7,"skill, art, craft, ability, feat, performance, vocation, arts",わざ,ギ,手,hand,waza,gi
+裁,6,12,"tailor, judge, decision, cut out (pattern)","た.つ, さば.く",サイ,衣,clothes,"ta.tsu, saba.ku",sai
+集,18,12,"gather, meet, congregate, swarm, flock","あつ.まる, あつ.める, つど.う",シュウ,隹,small,"atsu.maru, atsu.meru, tsudo.u",shuu
+占,4,5,"fortune-telling, divining, forecasting, occupy, hold, have, get, take","し.める, うらな.う",セン,卜,divination,"shi.meru, urana.u",sen
+創,5,12,"genesis, wound, injury, hurt, start, originate","つく.る, はじ.める, きず, けず.しける","ソウ, ショウ",刀,knife,"tsuku.ru, haji.meru, kizu, kezu.shikeru","sou, shou"
+派,5,9,"faction, group, party, clique, sect, school",None,ハ,水,water,None,ha
+遂,2,12,"consummate, accomplish, attain, commit (suicide)","と.げる, つい.に",スイ,辵,walk,"to.geru, tsui.ni",sui
+年,36,6,"year, counter for years",とし,ネン,干,pestle,toshi,nen
+頃,6,11,"time, about, toward","ころ, ごろ, しばら.く","ケイ, キョウ",頁,leaf,"koro, goro, shibara.ku","kei, kyou"
+締,7,15,"tighten, tie, shut, lock, fasten","し.まる, し.まり, し.める, -し.め, -じ.め",テイ,糸,silk,"shi.maru, shi.mari, shi.meru, -shi.me, -ji.me",tei
+途,8,10,"route, way, road",みち,ト,辵,walk,michi,to
+土,12,3,"soil, earth, ground, Turkey",つち,"ド, ト",土,earth,tsuchi,"do, to"
+台,10,5,"pedestal, a stand, counter for machines and vehicles","うてな, われ, つかさ","ダイ, タイ",口,mouth,"utena, ware, tsukasa","dai, tai"
+絶,8,12,"discontinue, sever, cut off, abstain, interrupt, suppress, be beyond, without match, peerless, unparalleled","た.える, た.やす, た.つ",ゼツ,糸,silk,"ta.eru, ta.yasu, ta.tsu",zetsu
+許,5,11,"permit, approve","ゆる.す, もと",キョ,言,speech,"yuru.su, moto",kyo
+突,13,8,"stab, protruding, thrust, pierce, prick, collision, sudden",つ.く,"トツ, カ",穴,cave,tsu.ku,"totsu, ka"
+如,1,6,"likeness, like, such as, as if, better, best, equal",ごと.し,"ジョ, ニョ",女,woman,goto.shi,"jo, nyo"
+破,11,10,"rend, rip, tear, break, destroy, defeat, frustrate","やぶ.る, やぶ.れる, わ.れる",ハ,石,stone,"yabu.ru, yabu.reru, wa.reru",ha
+届,3,8,"deliver, reach, arrive, report, notify, forward","とど.ける, -とど.け, とど.く",カイ,尸,corpse,"todo.keru, -todo.ke, todo.ku",kai
+滞,5,13,"stagnate, be delayed, overdue, arrears",とどこお.る,"タイ, テイ",水,water,todokoo.ru,"tai, tei"
+整,8,16,"organize, arranging, tune, tone, meter, key (music)","ととの.える, ととの.う",セイ,攴,rap,"totono.eru, totono.u",sei
+止,17,4,"stop, halt","と.まる, -ど.まり, と.める, -と.める, -ど.め, とど.める, とど.め, とど.まる, や.める, や.む, -や.む, よ.す, -さ.す, -さ.し",シ,止,stop,"to.maru, -do.mari, to.meru, -to.meru, -do.me, todo.meru, todo.me, todo.maru, ya.meru, ya.mu, -ya.mu, yo.su, -sa.su, -sa.shi",shi
+唱,2,11,"chant, recite, call upon, yell",とな.える,ショウ,口,mouth,tona.eru,shou
+殿,5,13,"Mr., hall, mansion, palace, temple, lord","との, -どの","デン, テン",殳,weapon,"tono, -dono","den, ten"
+俵,1,10,"bag, bale, sack, counter for bags",たわら,ヒョウ,人,man,tawara,hyou
+扉,1,12,"front door, title page, front page",とびら,ヒ,戶,door,tobira,hi
+溝,2,13,"gutter, ditch, sewer, drain, 10**32",みぞ,コウ,水,water,mizo,kou
+徒,2,10,"on foot, junior, emptiness, vanity, futility, uselessness, ephemeral thing, gang, set, party, people","いたずら, あだ",ト,彳,step,"itazura, ada",to
+歩,10,8,"walk, counter for steps","ある.く, あゆ.む","ホ, ブ, フ",止,stop,"aru.ku, ayu.mu","ho, bu, fu"
+木,11,4,"tree, wood","き, こ-","ボク, モク",木,tree,"ki, ko-","boku, moku"
+富,4,12,"wealth, enrich, abundant","と.む, とみ","フ, フウ",宀,roof,"to.mu, tomi","fu, fuu"
+共,12,6,"together, both, neither, all, and, alike, with","とも, とも.に, -ども",キョウ,八,eight,"tomo, tomo.ni, -domo",kyou
+稼,2,15,"earnings, work, earn money",かせ.ぐ,カ,禾,grain,kase.gu,ka
+伴,1,7,"consort, accompany, bring with, companion",ともな.う,"ハン, バン",人,man,tomona.u,"han, ban"
+働,4,13,"work, (kokuji)",はたら.く,ドウ,人,man,hatara.ku,dou
+取,34,8,"take, fetch, take up","と.る, と.り, と.り-, とり, -ど.り",シュ,又,right,"to.ru, to.ri, to.ri-, tori, -do.ri",shu
+扱,4,6,"handle, entertain, thresh, strip","あつか.い, あつか.う, あつか.る, こ.く","ソウ, キュウ",手,hand,"atsuka.i, atsuka.u, atsuka.ru, ko.ku","sou, kyuu"
+鳥,4,11,"bird, chicken",とり,チョウ,鳥,bird,tori,chou
+替,10,12,"exchange, spare, substitute, per-","か.える, か.え-, か.わる",タイ,曰,say,"ka.eru, ka.e-, ka.waru",tai
+組,11,11,"association, braid, plait, construct, assemble, unite, cooperate, grapple","く.む, くみ, -ぐみ",ソ,糸,silk,"ku.mu, kumi, -gumi",so
+次,7,6,"next, order, sequence","つ.ぐ, つぎ","ジ, シ",欠,lack,"tsu.gu, tsugi","ji, shi"
+引,35,4,"pull, tug, jerk, admit, install, quote, refer to","ひ.く, ひ.ける",イン,弓,bow,"hi.ku, hi.keru",in
+巻,4,9,"scroll, volume, book, part, roll up, wind up, tie, coil, counter for texts (or book scrolls)","ま.く, まき, ま.き","カン, ケン",己,oneself,"ma.ku, maki, ma.ki","kan, ken"
+戻,4,7,"re-, return, revert, resume, restore, go backwards","もど.す, もど.る",レイ,戶,door,"modo.su, modo.ru",rei
+寄,14,11,"draw near, stop in, bring near, gather, collect, send, forward","よ.る, -よ.り, よ.せる",キ,宀,roof,"yo.ru, -yo.ri, yo.seru",ki
+副,3,11,"vice-, assistant, aide, duplicate, copy",None,フク,刀,knife,None,fuku
+鈍,4,12,"dull, slow, foolish, blunt","にぶ.い, にぶ.る, にぶ-, なま.る, なまく.ら",ドン,金,metal,"nibu.i, nibu.ru, nibu-, nama.ru, namaku.ra",don
+感,25,13,"emotion, feeling, sensation",None,カン,心,heart,None,kan
+度,28,9,"degrees, occurrence, time, counter for occurrences, consider, attitude","たび, -た.い","ド, ト, タク",广,house,"tabi, -ta.i","do, to, taku"
+忘,3,7,forget,わす.れる,ボウ,心,heart,wasu.reru,bou
+問,12,11,"question, ask, problem","と.う, と.い, とん",モン,口,mouth,"to.u, to.i, ton",mon
+屋,12,9,"roof, house, shop, dealer, seller",や,オク,尸,corpse,ya,oku
+内,16,4,"inside, within, between, among, house, home",うち,"ナイ, ダイ",冂,open,uchi,"nai, dai"
+閣,1,14,"tower, tall building, palace",None,カク,門,gate,None,kaku
+乃,1,2,"from, possessive particle, whereupon, accordingly","の, すなわ.ち, なんじ","ナイ, ダイ, ノ, アイ",丿,slash,"no, sunawa.chi, nanji","nai, dai, no, ai"
+至,3,6,"climax, arrive, proceed, reach, attain, result in",いた.る,シ,至,arrive,ita.ru,shi
+緒,4,14,"thong, beginning, inception, end, cord, strap, mental or emotional state","お, いとぐち","ショ, チョ",糸,silk,"o, itoguchi","sho, cho"
+蔵,7,15,"storehouse, hide, own, have, possess","くら, おさ.める, かく.れる","ゾウ, ソウ",艸,grass,"kura, osa.meru, kaku.reru","zou, sou"
+部,19,11,"section, bureau, dept, class, copy, part, portion, counter for copies of a newspaper or magazine",-べ,ブ,town,town,-be,bu
+乱,6,7,"riot, war, disorder, disturb","みだ.れる, みだ.る, みだ.す, みだ, おさ.める, わた.る","ラン, ロン",乛,second,"mida.reru, mida.ru, mida.su, mida, osa.meru, wata.ru","ran, ron"
+陸,5,11,"land, six",おか,"リク, ロク",dam,mound,oka,"riku, roku"
+苗,1,8,"seedling, sapling, shoot","なえ, なわ-","ビョウ, ミョウ",艸,grass,"nae, nawa-","byou, myou"
+流,17,10,"current, a sink, flow, forfeit","なが.れる, なが.れ, なが.す, -なが.す","リュウ, ル",水,water,"naga.reru, naga.re, naga.su, -naga.su","ryuu, ru"
+長,26,8,"long, leader, superior, senior","なが.い, おさ",チョウ,長,long,"naga.i, osa",chou
+程,10,12,"extent, degree, law, formula, distance, limits, amount","ほど, -ほど",テイ,禾,grain,"hodo, -hodo",tei
+渚,1,11,"strand, beach, shore",なぎさ,ショ,水,water,nagisa,sho
+嘆,1,13,"sigh, lament, moan, grieve, sigh of admiration","なげ.く, なげ.かわしい",タン,口,mouth,"nage.ku, nage.kawashii",tan
+仲,5,6,"go-between, relationship",なか,チュウ,人,man,naka,chuu
+和,15,8,"harmony, Japanese style, peace, soften, Japan","やわ.らぐ, やわ.らげる, なご.む, なご.やか, あ.える","ワ, オ, カ",口,mouth,"yawa.ragu, yawa.rageru, nago.mu, nago.yaka, a.eru","wa, o, ka"
+名,39,6,"name, noted, distinguished, reputation","な, -な","メイ, ミョウ",口,mouth,"na, -na","mei, myou"
+情,18,11,"feelings, emotion, passion, sympathy, circumstances, facts",なさ.け,"ジョウ, セイ",心,heart,nasa.ke,"jou, sei"
+無,40,12,"nothingness, none, ain't, nothing, nil, not",な.い,"ム, ブ",火,fire,na.i,"mu, bu"
+深,8,11,"deep, heighten, intensify, strengthen","ふか.い, -ぶか.い, ふか.まる, ふか.める, み-",シン,水,water,"fuka.i, -buka.i, fuka.maru, fuka.meru, mi-",shin
+詰,6,13,"packed, close, pressed, reprove, rebuke, blame","つ.める, つ.め, -づ.め, つ.まる, つ.む","キツ, キチ",言,speech,"tsu.meru, tsu.me, -zu.me, tsu.maru, tsu.mu","kitsu, kichi"
+雪,3,11,snow,ゆき,セツ,雨,rain,yuki,setsu
+崩,4,11,"crumble, die, demolish, level","くず.れる, -くず.れ, くず.す",ホウ,山,mountain,"kuzu.reru, -kuzu.re, kuzu.su",hou
+懐,2,16,"feelings, heart, yearn, miss someone, become attached to, bosom, breast, pocket","ふところ, なつ.かしい, なつ.かしむ, なつ.く, なつ.ける, なず.ける, いだ.く, おも.う","カイ, エ",心,heart,"futokoro, natsu.kashii, natsu.kashimu, natsu.ku, natsu.keru, nazu.keru, ida.ku, omo.u","kai, e"
+何,12,7,what,"なに, なん, なに-, なん-",カ,人,man,"nani, nan, nani-, nan-",ka
+札,4,5,"tag, paper money, counter for bonds, placard, bid",ふだ,サツ,木,tree,fuda,satsu
+臭,3,9,"stinking, ill-smelling, suspicious looking, odor, savor, fragrance, be fragrant, stink, glow, be bright","くさ.い, -くさ.い, にお.う, にお.い",シュウ,自,self,"kusa.i, -kusa.i, nio.u, nio.i",shuu
+温,15,12,warm,"あたた.か, あたた.かい, あたた.まる, あたた.める, ぬく",オン,水,water,"atata.ka, atata.kai, atata.maru, atata.meru, nuku",on
+身,20,7,"somebody, person, one's station in life",み,シン,身,body,mi,shin
+鉛,2,13,lead,なまり,エン,金,metal,namari,en
+嘗,1,14,"once, before, formerly, ever, never, ex-, lick, lap up, burn up, taste, undergo, underrate, despise","かつ.て, こころ.みる, な.める","ショウ, ジョウ",口,mouth,"katsu.te, kokoro.miru, na.meru","shou, jou"
+悩,4,10,"trouble, worry, in pain, distress, illness","なや.む, なや.ます, なや.ましい, なやみ",ノウ,心,heart,"naya.mu, naya.masu, naya.mashii, nayami",nou
+並,9,8,"row, and, besides, as well as, line up, rank with, rival, equal","な.み, なみ, なら.べる, なら.ぶ, なら.びに","ヘイ, ホウ",一,one,"na.mi, nami, nara.beru, nara.bu, nara.bini","hei, hou"
+慣,8,14,"accustomed, get used to, become experienced","な.れる, な.らす",カン,心,heart,"na.reru, na.rasu",kan
+馴,3,13,"get used to, experienced, tamed","な.れる, な.らす, したが.う","ジュン, シュン, クン",馬,horse,"na.reru, na.rasu, shitaga.u","jun, shun, kun"
+荷,3,10,"baggage, shoulder-pole load, bear (a burden), shoulder (a gun), load, cargo, freight",に,カ,艸,grass,ni,ka
+似,6,7,"becoming, resemble, counterfeit, imitate, suitable","に.る, ひ.る",ジ,人,man,"ni.ru, hi.ru",ji
+通,40,10,"traffic, pass through, avenue, commute, counter for letters, notes, documents, etc.","とお.る, とお.り, -とお.り, -どお.り, とお.す, とお.し, -どお.し, かよ.う","ツウ, ツ",辵,walk,"too.ru, too.ri, -too.ri, -doo.ri, too.su, too.shi, -doo.shi, kayo.u","tsuu, tsu"
+賑,1,14,"flourish, be bustling, prosperity","にぎ.わい, にぎ.やか, にぎ.わす, にぎ.わう",シン,貝,shell,"nigi.wai, nigi.yaka, nigi.wasu, nigi.wau",shin
+憎,4,14,"hate, detest","にく.む, にく.い, にく.らしい, にく.しみ",ゾウ,心,heart,"niku.mu, niku.i, niku.rashii, niku.shimi",zou
+肉,8,6,meat,しし,ニク,肉,meat,shishi,niku
+親,14,16,"parent, intimacy, relative, familiarity, dealer (cards)","おや, おや-, した.しい, した.しむ",シン,見,see,"oya, oya-, shita.shii, shita.shimu",shin
+体,35,7,"body, substance, object, reality, counter for images","からだ, かたち","タイ, テイ",人,man,"karada, katachi","tai, tei"
+西,6,6,"west, Spain",にし,"セイ, サイ, ス",西,west,nishi,"sei, sai, su"
+日,83,4,"day, sun, Japan, counter for days","ひ, -び, -か","ニチ, ジツ",日,sun,"hi, -bi, -ka","nichi, jitsu"
+滲,1,14,imbued with,"し.みる, にじ.む",シン,水,water,"shi.miru, niji.mu",shin
+夜,15,8,"night, evening","よ, よる",ヤ,夕,evening,"yo, yoru",ya
+造,9,10,"create, make, structure, physique","つく.る, つく.り, -づく.り",ゾウ,辵,walk,"tsuku.ru, tsuku.ri, -zuku.ri",zou
+担,6,8,"shouldering, carry, raise, bear","かつ.ぐ, にな.う",タン,手,hand,"katsu.gu, nina.u",tan
+関,14,14,"connection, barrier, gateway, involve, concerning","せき, -ぜき, かか.わる, からくり, かんぬき",カン,門,gate,"seki, -zeki, kaka.waru, karakuri, kannuki",kan
+浴,5,10,"bathe, be favored with, bask in","あ.びる, あ.びせる",ヨク,水,water,"a.biru, a.biseru",yoku
+尿,2,7,urine,"ゆばり, いばり, しと",ニョウ,尸,corpse,"yubari, ibari, shito",nyou
+識,6,19,"discriminating, know, write","し.る, しる.す",シキ,言,speech,"shi.ru, shiru.su",shiki
+妊,1,7,pregnancy,"はら.む, みごも.る","ニン, ジン",女,woman,"hara.mu, migomo.ru","nin, jin"
+娠,1,10,"with child, pregnancy",None,シン,女,woman,None,shin
+任,10,6,"responsibility, duty, term, entrust to, appoint","まか.せる, まか.す",ニン,人,man,"maka.seru, maka.su",nin
+務,14,11,"task, duties",つと.める,ム,力,power,tsuto.meru,mu
+命,15,8,"fate, command, decree, destiny, life, appoint",いのち,"メイ, ミョウ",口,mouth,inochi,"mei, myou"
+抜,5,7,"slip out, extract, pull out, pilfer, quote, remove, omit","ぬ.く, -ぬ.く, ぬ.き, ぬ.ける, ぬ.かす, ぬ.かる","バツ, ハツ, ハイ",手,hand,"nu.ku, -nu.ku, nu.ki, nu.keru, nu.kasu, nu.karu","batsu, hatsu, hai"
+主,26,5,"lord, chief, master, main thing, principal","ぬし, おも, あるじ","シュ, ス, シュウ",丶,dot,"nushi, omo, aruji","shu, su, shuu"
+沼,1,8,"marsh, lake, bog, swamp, pond",ぬま,ショウ,水,water,numa,shou
+音,12,9,"sound, noise","おと, ね","オン, イン, -ノン",音,sound,"oto, ne","on, in, -non"
+値,7,10,"price, cost, value","ね, あたい",チ,人,man,"ne, atai",chi
+打,11,5,"strike, hit, knock, pound, dozen","う.つ, う.ち-, ぶ.つ","ダ, ダース",手,hand,"u.tsu, u.chi-, bu.tsu","da, daーsu"
+寝,9,13,"lie down, sleep, rest, bed, remain unsold","ね.る, ね.かす, い.ぬ, みたまや, や.める",シン,宀,roof,"ne.ru, ne.kasu, i.nu, mitamaya, ya.meru",shin
+捩,2,10,"screw, twist, wrench, distort","よじ.る, ね.じる, ねじ.れる, もじ.る","レイ, レツ",手,hand,"yoji.ru, ne.jiru, neji.reru, moji.ru","rei, retsu"
+妬,2,8,"jealous, envy","ねた.む, そね.む, つも.る, ふさ.ぐ","ト, ツ",女,woman,"neta.mu, sone.mu, tsumo.ru, fusa.gu","to, tsu"
+湯,6,12,"hot water, bath, hot spring",ゆ,トウ,水,water,yu,tou
+量,8,12,"quantity, measure, weight, amount, consider, estimate, surmise",はか.る,リョウ,里,village,haka.ru,ryou
+粘,2,11,"sticky, glutinous, greasy, persevere",ねば.る,ネン,米,rice,neba.ru,nen
+練,4,14,"practice, gloss, train, drill, polish, refine","ね.る, ね.り",レン,糸,silk,"ne.ru, ne.ri",ren
+念,7,8,"wish, sense, idea, thought, feeling, desire, attention",None,ネン,心,heart,None,nen
+賀,2,12,"congratulations, joy",None,ガ,貝,shell,None,ga
+願,5,19,"petition, request, vow, wish, hope","ねが.う, -ねがい",ガン,頁,leaf,"nega.u, -negai",gan
+号,6,5,"nickname, number, item, title, pseudonym, name, call","さけ.ぶ, よびな",ゴウ,口,mouth,"sake.bu, yobina",gou
+燃,4,16,"burn, blaze, glow","も.える, も.やす, も.す",ネン,火,fire,"mo.eru, mo.yasu, mo.su",nen
+焼,5,12,"bake, burning","や.く, や.き, や.き-, -や.き, や.ける",ショウ,火,fire,"ya.ku, ya.ki, ya.ki-, -ya.ki, ya.keru",shou
+輪,5,15,"wheel, ring, circle, link, loop, counter for wheels and flowers",わ,リン,車,cart,wa,rin
+農,10,13,"agriculture, farmers",None,ノウ,辰,morning,None,nou
+納,5,10,"settlement, obtain, reap, pay, supply, store","おさ.める, -おさ.める, おさ.まる","ノウ, ナッ, ナ, ナン, トウ",糸,silk,"osa.meru, -osa.meru, osa.maru","nou, na, na, nan, tou"
+軒,3,10,"flats, counter for houses, eaves",のき,ケン,車,cart,noki,ken
+望,13,11,"ambition, full moon, hope, desire, aspire to, expect","のぞ.む, もち","ボウ, モウ",月,moon,"nozo.mu, mochi","bou, mou"
+乗,11,9,"ride, power, multiplication, record, counter for vehicles, board, mount, join","の.る, -の.り, の.せる","ジョウ, ショウ",丿,slash,"no.ru, -no.ri, no.seru","jou, shou"
+罵,1,15,"abuse, insult",ののし.る,バ,网,net,nonoshi.ru,ba
+延,5,8,"prolong, stretching","の.びる, の.べる, の.べ, の.ばす",エン,廴,long,"no.biru, no.beru, no.be, no.basu",en
+飲,5,12,"drink, smoke, take","の.む, -の.み","イン, オン",食,eat,"no.mu, -no.mi","in, on"
+刃,1,3,"blade, sword, edge","は, やいば, き.る","ジン, ニン",刀,knife,"ha, yaiba, ki.ru","jin, nin"
+把,1,7,"grasp, faggot, bunch, counter for bundles",None,"ハ, ワ",手,hand,None,"ha, wa"
+握,3,12,"grip, hold, mould sushi, bribe",にぎ.る,アク,手,hand,nigi.ru,aku
+廃,3,12,"abolish, obsolete, cessation, discarding, abandon","すた.れる, すた.る",ハイ,广,house,"suta.reru, suta.ru",hai
+棄,3,13,"abandon, throw away, discard, resign, reject, sacrifice",す.てる,キ,木,tree,su.teru,ki
+配,14,10,"distribute, spouse, exile, rationing",くば.る,ハイ,酉,wine,kuba.ru,hai
+給,10,12,"salary, wage, gift, allow, grant, bestow on","たま.う, たも.う, -たま.え",キュウ,糸,silk,"tama.u, tamo.u, -tama.e",kyuu
+偶,5,11,"accidentally, even number, couple, man & wife, same kind",たま,グウ,人,man,tama,guu
+者,18,8,"someone, person",もの,シャ,老,old,mono,sha
+拝,5,8,"worship, adore, pray to","おが.む, おろが.む",ハイ,手,hand,"oga.mu, oroga.mu",hai
+啓,1,11,"disclose, open, say","ひら.く, さと.す",ケイ,口,mouth,"hira.ku, sato.su",kei
+背,7,9,"stature, height, back, behind, disobey, defy, go back on, rebel","せ, せい, そむ.く, そむ.ける",ハイ,肉,meat,"se, sei, somu.ku, somu.keru",hai
+景,6,12,"scenery, view",None,ケイ,日,sun,None,kei
+借,4,10,"borrow, rent",か.りる,シャク,人,man,ka.riru,shaku
+排,2,11,"repudiate, exclude, expel, reject, line up, arrange",None,ハイ,手,hand,None,hai
+賠,1,15,"compensation, indemnify",None,バイ,貝,shell,None,bai
+償,3,17,"reparation, make up for, recompense, redeem",つぐな.う,ショウ,人,man,tsuguna.u,shou
+敗,6,11,"failure, defeat, reversal",やぶ.れる,ハイ,攴,rap,yabu.reru,hai
+置,10,13,"placement, put, set, deposit, leave behind, keep, employ, pawn","お.く, -お.き",チ,网,net,"o.ku, -o.ki",chi
+布,9,5,"linen, cloth, spread, distribute","ぬの, し.く, きれ","フ, ホ",巾,turban,"nuno, shi.ku, kire","fu, ho"
+分,48,4,"part, minute of time, segment, share, degree, one's lot, duty, understand, know, rate, 1%, chances, shaku/100","わ.ける, わ.け, わ.かれる, わ.かる, わ.かつ","ブン, フン, ブ",刀,knife,"wa.keru, wa.ke, wa.kareru, wa.karu, wa.katsu","bun, fun, bu"
+北,4,5,north,きた,ホク,匕,spoon,kita,hoku
+倍,2,10,"double, twice, times, fold",None,バイ,人,man,None,bai
+慮,3,15,"prudence, thought, concern, consider, deliberate, fear","おもんぱく.る, おもんぱか.る",リョ,心,heart,"omonpaku.ru, omonpaka.ru",ryo
+列,8,6,"file, row, rank, tier, column",None,"レツ, レ",刀,knife,None,"retsu, re"
+壊,4,16,"demolition, break, destroy","こわ.す, こわ.れる, やぶ.る","カイ, エ",土,earth,"kowa.su, kowa.reru, yabu.ru","kai, e"
+一,63,1,"one, one radical (no.1)","ひと-, ひと.つ","イチ, イツ",一,one,"hito-, hito.tsu","ichi, itsu"
+概,6,14,"outline, condition, approximation, generally",おおむ.ね,ガイ,木,tree,oomu.ne,gai
+著,6,11,"renowned, publish, write, remarkable, phenomenal, put on, don, wear, arrival, finish (race), counter for suits of clothing, literary work","あらわ.す, いちじる.しい","チョ, チャク",艸,grass,"arawa.su, ichijiru.shii","cho, chaku"
+面,28,9,"mask, face, features, surface","おも, おもて, つら","メン, ベン",面,face,"omo, omote, tsura","men, ben"
+目,39,5,"eye, class, look, insight, experience, care, favor","め, -め, ま-","モク, ボク",目,eye,"me, -me, ma-","moku, boku"
+律,3,9,"rhythm, law, regulation, gauge, control",None,"リツ, リチ, レツ",彳,step,None,"ritsu, richi, retsu"
+括,2,9,"fasten, tie up, arrest, constrict",くく.る,カツ,手,hand,kuku.ru,katsu
+挙,3,10,"raise, plan, project, behavior, actions","あ.げる, あ.がる, こぞ.る",キョ,手,hand,"a.geru, a.garu, kozo.ru",kyo
+変,12,9,"unusual, change, strange","か.わる, か.わり, か.える",ヘン,夂,go,"ka.waru, ka.wari, ka.eru",hen
+営,5,12,"camp, perform, build, conduct (business)","いとな.む, いとな.み",エイ,口,mouth,"itona.mu, itona.mi",ei
+挑,2,9,"challenge, contend for, make love to",いど.む,チョウ,手,hand,ido.mu,chou
+稲,2,14,rice plant,"いね, いな-","トウ, テ",禾,grain,"ine, ina-","tou, te"
+祈,2,8,"pray, wish",いの.る,キ,示,sign,ino.ru,ki
+今,16,4,now,いま,"コン, キン",人,man,ima,"kon, kin"
+更,6,7,"grow late, night watch, sit up late, of course, renew, renovate, again, more and more, further","さら, さら.に, ふ.ける, ふ.かす",コウ,曰,say,"sara, sara.ni, fu.keru, fu.kasu",kou
+未,10,5,"un-, not yet, hitherto, still, even now, sign of the ram, 1-3PM, eighth sign of Chinese zodiac","いま.だ, ま.だ, ひつじ","ミ, ビ",木,tree,"ima.da, ma.da, hitsuji","mi, bi"
+移,6,11,"shift, move, change, drift, catch (cold, fire), pass into","うつ.る, うつ.す",イ,禾,grain,"utsu.ru, utsu.su",i
+民,14,5,"people, nation, subjects",たみ,ミン,氏,clan,tami,min
+嫌,7,13,"dislike, detest, hate","きら.う, きら.い, いや","ケン, ゲン",女,woman,"kira.u, kira.i, iya","ken, gen"
+卑,2,9,"lowly, base, vile, vulgar, despise","いや.しい, いや.しむ, いや.しめる",ヒ,十,ten,"iya.shii, iya.shimu, iya.shimeru",hi
+欲,7,11,"longing, covetousness, greed, passion, desire, craving","ほっ.する, ほ.しい",ヨク,欠,lack,"ho.suru, ho.shii",yoku
+衣,6,6,"garment, clothes, dressing","ころも, きぬ, -ぎ","イ, エ",衣,clothes,"koromo, kinu, -gi","i, e"
+類,9,18,"sort, kind, variety, class, genus",たぐ.い,ルイ,頁,leaf,tagu.i,rui
+異,9,11,"uncommon, different, queerness, strangeness, wonderful, curious, unusual","こと, こと.なる, け",イ,田,field,"koto, koto.naru, ke",i
+印,7,6,"stamp, seal, mark, imprint, symbol, emblem, trademark, evidence, souvenir, India","しるし, -じるし, しる.す",イン,卩,kneel,"shirushi, -jirushi, shiru.su",in
+鑑,4,23,"specimen, take warning from, learn from","かんが.みる, かがみ",カン,金,metal,"kanga.miru, kagami",kan
+陰,4,11,"shade, yin, negative, sex organs, secret, shadow","かげ, かげ.る",イン,dam,mound,"kage, kage.ru",in
+隠,3,14,"conceal, hide, cover","かく.す, かく.し, かく.れる, よ.る","イン, オン",dam,mound,"kaku.su, kaku.shi, kaku.reru, yo.ru","in, on"
+受,17,8,"accept, undergo, answer (phone), take, get, catch, receive","う.ける, -う.け, う.かる",ジュ,又,right,"u.keru, -u.ke, u.karu",ju
+継,6,13,"inherit, succeed, continue, patch, graft (tree)","つ.ぐ, まま-",ケイ,糸,silk,"tsu.gu, mama-",kei
+持,12,9,"hold, have","も.つ, -も.ち, も.てる",ジ,手,hand,"mo.tsu, -mo.chi, mo.teru",ji
+埋,6,10,"bury, be filled up, embedded","う.める, う.まる, う.もれる, うず.める, うず.まる, い.ける",マイ,土,earth,"u.meru, u.maru, u.moreru, uzu.meru, uzu.maru, i.keru",mai
+嘘,2,14,"lie, falsehood","うそ, ふ.く","キョ, コ",口,mouth,"uso, fu.ku","kyo, ko"
+消,15,10,"extinguish, blow out, turn off, neutralize, cancel","き.える, け.す",ショウ,水,water,"ki.eru, ke.su",shou
+扇,4,10,"fan, folding fan",おうぎ,セン,戶,door,ougi,sen
+訳,10,11,"translate, reason, circumstance, case",わけ,ヤク,言,speech,wake,yaku
+写,9,5,"copy, be photographed, describe","うつ.す, うつ.る, うつ-, うつ.し","シャ, ジャ",冖,cover,"utsu.su, utsu.ru, utsu-, utsu.shi","sha, ja"
+訴,3,12,"accusation, sue, complain of pain, appeal to",うった.える,ソ,言,speech,utta.eru,so
+空,20,8,"empty, sky, void, vacant, vacuum","そら, あ.く, あ.き, あ.ける, から, す.く, す.かす, むな.しい",クウ,穴,cave,"sora, a.ku, a.ki, a.keru, kara, su.ku, su.kasu, muna.shii",kuu
+器,18,15,"utensil, vessel, receptacle, implement, instrument, ability, container, tool, set",うつわ,キ,口,mouth,utsuwa,ki
+腕,2,12,"arm, ability, talent",うで,ワン,肉,meat,ude,wan
+前,25,9,"in front, before","まえ, -まえ",ゼン,刀,knife,"mae, -mae",zen
+雨,6,8,rain,"あめ, あま-, -さめ",ウ,雨,rain,"ame, ama-, -same",u
+天,15,4,"heavens, sky, imperial","あまつ, あめ, あま-",テン,大,big,"amatsu, ame, ama-",ten
+促,3,9,"stimulate, urge, press, demand, incite",うなが.す,ソク,人,man,unaga.su,soku
+梅,4,10,plum,うめ,バイ,木,tree,ume,bai
+干,6,3,"dry, parch, ebb, recede, interfere, intercede","ほ.す, ほ.し-, -ぼ.し, ひ.る",カン,干,pestle,"ho.su, ho.shi-, -bo.shi, hi.ru",kan
+裏,5,13,"back, amidst, in, reverse, inside, palm, sole, rear, lining, wrong side",うら,リ,衣,clothes,ura,ri
+返,15,7,"return, answer, fade, repay","かえ.す, -かえ.す, かえ.る, -かえ.る",ヘン,辵,walk,"kae.su, -kae.su, kae.ru, -kae.ru",hen
+潤,2,15,"wet, be watered, profit by, receive benefits, favor, charm, steep","うるお.う, うるお.す, うる.む",ジュン,水,water,"uruo.u, uruo.su, uru.mu",jun
+浮,5,10,"floating, float, rise to surface","う.く, う.かれる, う.かぶ, う.かべる",フ,水,water,"u.ku, u.kareru, u.kabu, u.kaberu",fu
+植,6,12,plant,"う.える, う.わる",ショク,木,tree,"u.eru, u.waru",shoku
+運,17,12,"carry, luck, destiny, fate, lot, transport, progress, advance",はこ.ぶ,ウン,辵,walk,hako.bu,un
+送,12,9,"escort, send",おく.る,ソウ,辵,walk,oku.ru,sou
+賃,3,13,"fare, fee, hire, rent, wages, charge",None,チン,貝,shell,None,chin
+云,1,4,say,"い.う, ここに",ウン,二,two,"i.u, kokoni",un
+搬,1,13,"conveyor, carry, transport",None,ハン,手,hand,None,han
+輸,5,16,"transport, send, be inferior",None,"ユ, シュ",車,cart,None,"yu, shu"
+英,6,8,"England, English, hero, outstanding, calyx",はなぶさ,エイ,艸,grass,hanabusa,ei
+字,16,6,"character, letter, word, section of village","あざ, あざな, -な",ジ,子,child,"aza, azana, -na",ji
+映,8,9,"reflect, reflection, projection","うつ.る, うつ.す, は.える, -ば.え",エイ,日,sun,"utsu.ru, utsu.su, ha.eru, -ba.e",ei
+雄,2,12,"masculine, male, hero, leader, superiority, excellence","お-, おす, おん",ユウ,隹,small,"o-, osu, on",yuu
+液,4,11,"fluid, liquid, juice, sap, secretion",None,エキ,水,water,None,eki
+閲,1,15,"review, inspection, revision",けみ.する,エツ,門,gate,kemi.suru,etsu
+覧,5,17,"perusal, see",み.る,ラン,見,see,mi.ru,ran
+獲,3,16,"seize, get, find, earn, acquire, can, may, able to",え.る,カク,犬,dog,e.ru,kaku
+襟,1,18,"collar, neck, lapel, one's inner feelings",えり,キン,衣,clothes,eri,kin
+円,9,4,"circle, yen, round","まる.い, まる, まど, まど.か, まろ.やか",エン,冂,open,"maru.i, maru, mado, mado.ka, maro.yaka",en
+縁,5,15,"affinity, relation, connection, edge, border, verge, brink","ふち, ふち.どる, ゆかり, よすが, へり, えにし","エン, -ネン",糸,silk,"fuchi, fuchi.doru, yukari, yosuga, heri, enishi","en, -nen"
+側,4,11,"side, lean, oppose, regret","かわ, がわ, そば",ソク,人,man,"kawa, gawa, soba",soku
+沿,4,8,"run alongside, follow along, run along, lie along","そ.う, -ぞ.い",エン,水,water,"so.u, -zo.i",en
+岸,3,8,beach,きし,ガン,山,mountain,kishi,gan
+婉,1,11,graceful,"うつく.しい, したが.う",エン,女,woman,"utsuku.shii, shitaga.u",en
+曲,6,6,"bend, music, melody, composition, pleasure, injustice, fault, curve, crooked, perverse, lean","ま.がる, ま.げる, くま",キョク,曰,say,"ma.garu, ma.geru, kuma",kyoku
+演,12,14,"performance, act, play, render, stage",None,エン,水,water,None,en
+線,16,15,"line, track",すじ,セン,糸,silk,suji,sen
+方,31,4,"direction, person, alternative","かた, -かた, -がた",ホウ,方,square,"kata, -kata, -gata",hou
+満,10,12,"full, fullness, enough, satisfy","み.ちる, み.つ, み.たす","マン, バン",水,water,"mi.chiru, mi.tsu, mi.tasu","man, ban"
+追,10,9,"chase, drive away, follow, pursue, meanwhile",お.う,ツイ,辵,walk,o.u,tsui
+於,1,8,"at, in, on, as for","おい.て, お.ける, ああ, より","オ, ヨ",方,square,"oi.te, o.keru, aa, yori","o, yo"
+老,5,6,"old man, old age, grow old","お.いる, ふ.ける",ロウ,老,old,"o.iru, fu.keru",rou
+応,14,7,"apply, answer, yes, OK, reply, accept","あた.る, まさに, こた.える","オウ, ヨウ, -ノウ",心,heart,"ata.ru, masani, kota.eru","ou, you, -nou"
+急,14,9,"hurry, emergency, sudden, steep","いそ.ぐ, いそ.ぎ, せ.く",キュウ,心,heart,"iso.gu, iso.gi, se.ku",kyuu
+黄,3,11,yellow,"き, こ-","コウ, オウ",黃,yellow,"ki, ko-","kou, ou"
+往,2,8,"journey, travel, chase away, let go, going, before, formerly","い.く, いにしえ, さき.に, ゆ.く",オウ,彳,step,"i.ku, inishie, saki.ni, yu.ku",ou
+診,7,12,"checkup, seeing, diagnose, examine",み.る,シン,言,speech,mi.ru,shin
+大,63,3,"large, big","おお-, おお.きい, -おお.いに","ダイ, タイ",大,big,"oo-, oo.kii, -oo.ini","dai, tai"
+筋,5,12,"muscle, sinew, tendon, fiber, plot, plan, descent",すじ,キン,竹,bamboo,suji,kin
+幅,2,12,"hanging scroll, width",はば,フク,巾,turban,haba,fuku
+犯,4,5,"crime, sin, offense",おか.す,"ハン, ボン",犬,dog,oka.su,"han, bon"
+侵,3,9,"encroach, invade, raid, trespass, violate",おか.す,シン,人,man,oka.su,shin
+臆,1,17,"timidity, heart, mind, fear, cowardly","むね, おくする","オク, ヨク",肉,meat,"mune, okusuru","oku, yoku"
+病,7,10,"ill, sick","や.む, -や.み, やまい","ビョウ, ヘイ",疒,sickness,"ya.mu, -ya.mi, yamai","byou, hei"
+遅,7,12,"slow, late, back, later","おく.れる, おく.らす, おそ.い",チ,辵,walk,"oku.reru, oku.rasu, oso.i",chi
+収,13,4,"income, obtain, reap, pay, supply, store","おさ.める, おさ.まる",シュウ,又,right,"osa.meru, osa.maru",shuu
+治,9,8,"reign, be at peace, calm down, subdue, quell, govt, cure, heal, rule, conserve","おさ.める, おさ.まる, なお.る, なお.す","ジ, チ",水,water,"osa.meru, osa.maru, nao.ru, nao.su","ji, chi"
+押,7,8,"push, stop, check, subdue, attach, seize, weight, shove, press, seal, do in spite of","お.す, お.し-, お.っ-, お.さえる, おさ.える",オウ,手,hand,"o.su, o.shi-, o.-, o.saeru, osa.eru",ou
+惜,2,11,"pity, be sparing of, frugal, stingy, regret","お.しい, お.しむ",セキ,心,heart,"o.shii, o.shimu",seki
+御,11,12,"honorable, manipulate, govern","おん-, お-, み-","ギョ, ゴ",彳,step,"on-, o-, mi-","gyo, go"
+世,15,5,"generation, world, society, public",よ,"セイ, セ, ソウ",一,one,yo,"sei, se, sou"
+辞,8,13,"resign, word, term, expression","や.める, いな.む",ジ,辛,bitter,"ya.meru, ina.mu",ji
+襲,2,22,"attack, advance on, succeed to, pile, heap","おそ.う, かさ.ね",シュウ,衣,clothes,"oso.u, kasa.ne",shuu
+恐,7,10,"fear, dread, awe","おそ.れる, おそ.る, おそ.ろしい, こわ.い, こわ.がる",キョウ,心,heart,"oso.reru, oso.ru, oso.roshii, kowa.i, kowa.garu",kyou
+落,16,12,"fall, drop, come down, village, hamlet","お.ちる, お.ち, お.とす",ラク,艸,grass,"o.chiru, o.chi, o.tosu",raku
+着,28,12,"don, arrive, wear, counter for suits of clothing","き.る, き.せる, つ.く, つ.ける","チャク, ジャク",目,eye,"ki.ru, ki.seru, tsu.ku, tsu.keru","chaku, jaku"
+葉,7,12,"leaf, plane, lobe, needle, blade, spear, counter for flat things, fragment, piece",は,ヨウ,艸,grass,ha,you
+乙,1,1,"the latter, duplicate, strange, witty, fishhook radical (no. 5)","おと-, きのと","オツ, イツ",乛,second,"oto-, kinoto","otsu, itsu"
+使,8,8,"use, send on a mission, order, messenger, envoy, ambassador, cause","つか.う, つか.い, -つか.い, -づか.い",シ,人,man,"tsuka.u, tsuka.i, -tsuka.i, -zuka.i",shi
+脅,4,10,"threaten, coerce","おびや.かす, おど.す, おど.かす",キョウ,肉,meat,"obiya.kasu, odo.su, odo.kasu",kyou
+訪,3,11,"call on, visit, look up, offer sympathy","おとず.れる, たず.ねる, と.う",ホウ,言,speech,"otozu.reru, tazu.neru, to.u",hou
+供,5,8,"submit, offer, present, serve (meal), accompany","そな.える, とも, -ども","キョウ, ク, クウ, グ",人,man,"sona.eru, tomo, -domo","kyou, ku, kuu, gu"
+衰,2,10,"decline, wane, weaken",おとろ.える,スイ,衣,clothes,otoro.eru,sui
+怯,2,8,"cowardice, wince, flinch, hesitate, waver","ひる.む, おびえ.る, おじる, おび.える, おそ.れる","キョウ, コウ",心,heart,"hiru.mu, obie.ru, ojiru, obi.eru, oso.reru","kyou, kou"
+帯,11,10,"sash, belt, obi, zone, region","お.びる, おび",タイ,巾,turban,"o.biru, obi",tai
+袋,5,11,"sack, bag, pouch",ふくろ,"タイ, ダイ",衣,clothes,fukuro,"tai, dai"
+宮,2,10,"Shinto shrine, constellations, palace, princess",みや,"キュウ, グウ, ク, クウ",宀,roof,miya,"kyuu, guu, ku, kuu"
+思,15,9,think,"おも.う, おもえら.く, おぼ.す",シ,心,heart,"omo.u, omoera.ku, obo.su",shi
+趣,3,15,"purport, gist, elegance, interest, proceed to, tend, become","おもむき, おもむ.く",シュ,走,run,"omomuki, omomu.ku",shu
+赴,2,9,"proceed, get, become, tend",おもむ.く,フ,走,run,omomu.ku,fu
+重,26,9,"heavy, important, esteem, respect, heap up, pile up, nest of boxes, -fold","え, おも.い, おも.り, おも.なう, かさ.ねる, かさ.なる, おも","ジュウ, チョウ",里,village,"e, omo.i, omo.ri, omo.nau, kasa.neru, kasa.naru, omo","juu, chou"
+父,13,4,father,ちち,フ,父,father,chichi,fu
+及,5,3,"reach out, exert, exercise, cause","およ.ぶ, およ.び, および, およ.ぼす",キュウ,又,right,"oyo.bu, oyo.bi, oyobi, oyo.bosu",kyuu
+檻,1,19,"pen, corral, cell, jail","おり, おばしま, てすり",カン,木,tree,"ori, obashima, tesuri",kan
+織,3,18,"weave, fabric","お.る, お.り, おり, -おり, -お.り","ショク, シキ",糸,silk,"o.ru, o.ri, ori, -ori, -o.ri","shoku, shiki"
+俺,1,10,"I, myself","おれ, われ",エン,人,man,"ore, ware",en
+愚,2,13,"foolish, folly, absurdity, stupid",おろ.か,グ,心,heart,oro.ka,gu
+界,4,9,"world, boundary",None,カイ,田,field,None,kai
+街,5,12,"boulevard, street, town",まち,"ガイ, カイ",行,go,machi,"gai, kai"
+改,13,7,"reformation, change, modify, mend, renew, examine, inspect, search","あらた.める, あらた.まる",カイ,攴,rap,"arata.meru, arata.maru",kai
+悪,10,11,"bad, vice, rascal, false, evil, wrong","わる.い, わる-, あ.し, にく.い, -にく.い, ああ, いずくに, いずくんぞ, にく.む","アク, オ",心,heart,"waru.i, waru-, a.shi, niku.i, -niku.i, aa, izukuni, izukunzo, niku.mu","aku, o"
+海,12,9,"sea, ocean",うみ,カイ,水,water,umi,kai
+外,30,5,outside,"そと, ほか, はず.す, はず.れる, と-","ガイ, ゲ",夕,evening,"soto, hoka, hazu.su, hazu.reru, to-","gai, ge"
+革,6,9,"leather, skin, reform, become serious",かわ,カク,革,leather,kawa,kaku
+貝,3,7,shellfish,かい,バイ,貝,shell,kai,bai
+殻,3,11,"husk, nut shell","から, がら","カク, コク, バイ",殳,weapon,"kara, gara","kaku, koku, bai"
+観,14,18,"outlook, look, appearance, condition, view","み.る, しめ.す",カン,見,see,"mi.ru, shime.su",kan
+階,5,12,"storey, stair, counter for storeys of a building",きざはし,カイ,dam,mound,kizahashi,kai
+級,8,9,"class, rank, grade",None,キュウ,糸,silk,None,kyuu
+峡,1,9,"gorge, ravine",はざま,"キョウ, コウ",山,mountain,hazama,"kyou, kou"
+介,5,4,"jammed in, shellfish, mediate, concern oneself with",None,カイ,人,man,None,kai
+開,14,12,"open, unfold, unseal","ひら.く, ひら.き, -びら.き, ひら.ける, あ.く, あ.ける",カイ,門,gate,"hira.ku, hira.ki, -bira.ki, hira.keru, a.ku, a.keru",kai
+催,5,13,"sponsor, hold (a meeting), give (a dinner)","もよう.す, もよお.す",サイ,人,man,"moyou.su, moyoo.su",sai
+修,11,10,"discipline, conduct oneself well, study, master","おさ.める, おさ.まる","シュウ, シュ",人,man,"osa.meru, osa.maru","shuu, shu"
+怪,2,8,"suspicious, mystery, apparition","あや.しい, あや.しむ","カイ, ケ",心,heart,"aya.shii, aya.shimu","kai, ke"
+解,19,13,"unravel, notes, key, explanation, understanding, untie, undo, solve, answer, cancel, absolve, explain, minute","と.く, と.かす, と.ける, ほど.く, ほぐ.す, わか.る, さと.る","カイ, ゲ",角,horn,"to.ku, to.kasu, to.keru, hodo.ku, hogu.su, waka.ru, sato.ru","kai, ge"
+相,18,9,"inter-, mutual, together, each other, minister of state, councillor, aspect, phase, physiognomy",あい-,"ソウ, ショウ",目,eye,ai-,"sou, shou"
+説,11,14,"opinion, theory, explanation, rumor",と.く,"セツ, ゼイ",言,speech,to.ku,"setsu, zei"
+層,4,14,"stratum, social class, layer, story, floor",None,ソウ,尸,corpse,None,sou
+拓,1,8,"clear (the land), open, break up (land)",ひら.く,タク,手,hand,hira.ku,taku
+訂,2,9,"revise, correct, decide",ただ.す,テイ,言,speech,tada.su,tei
+道,19,12,"road-way, street, district, journey, course, moral, teachings","みち, いう","ドウ, トウ",辵,walk,"michi, iu","dou, tou"
+該,1,13,"above-stated, the said, that specific",None,ガイ,言,speech,None,gai
+抱,6,8,"embrace, hug, hold in arms","だ.く, いだ.く, かか.える",ホウ,手,hand,"da.ku, ida.ku, kaka.eru",hou
+剖,1,10,divide,None,ボウ,刀,knife,None,bou
+略,7,11,"abbreviation, omission, outline, shorten, capture, plunder","ほぼ, はぶ.く, おか.す, おさ.める, はかりごと, はか.る",リャク,田,field,"hobo, habu.ku, oka.su, osa.meru, hakarigoto, haka.ru",ryaku
+良,10,7,"good, pleasing, skilled","よ.い, -よ.い, い.い, -い.い",リョウ,艮,stopping,"yo.i, -yo.i, i.i, -i.i",ryou
+省,8,9,"government ministry, conserve, omit","かえり.みる, はぶ.く","セイ, ショウ",目,eye,"kaeri.miru, habu.ku","sei, shou"
+顧,1,21,"look back, review, examine oneself, turn around",かえり.みる,コ,頁,leaf,kaeri.miru,ko
+顔,3,18,"face, expression",かお,ガン,頁,leaf,kao,gan
+課,8,15,"chapter, lesson, section, department, division, counter for chapters (of a book)",None,カ,言,speech,None,ka
+掲,3,11,"put up (a notice), put up, hoist, display, hang out, publish, describe",かか.げる,ケイ,手,hand,kaka.geru,kei
+掻,3,11,"scratch, rake, comb, paddle, behead",か.く,ソウ,手,hand,ka.ku,sou
+画,11,8,"brush-stroke, picture","えが.く, かく.する, かぎ.る, はかりごと, はか.る","ガ, カク, エ, カイ",田,field,"ega.ku, kaku.suru, kagi.ru, hakarigoto, haka.ru","ga, kaku, e, kai"
+芸,8,7,"technique, art, craft, performance, acting, trick, stunt","う.える, のり, わざ","ゲイ, ウン",艸,grass,"u.eru, nori, waza","gei, un"
+格,14,10,"status, rank, capacity, character, case (law, grammar)",None,"カク, コウ, キャク, ゴウ",木,tree,None,"kaku, kou, kyaku, gou"
+拡,4,8,"broaden, extend, expand, enlarge","ひろ.がる, ひろ.げる, ひろ.める","カク, コウ",手,hand,"hiro.garu, hiro.geru, hiro.meru","kaku, kou"
+散,8,12,"scatter, disperse, spend, squander","ち.る, ち.らす, -ち.らす, ち.らかす, ち.らかる, ち.らばる, ばら, ばら.ける",サン,攴,rap,"chi.ru, chi.rasu, -chi.rasu, chi.rakasu, chi.rakaru, chi.rabaru, bara, bara.keru",san
+士,7,3,"gentleman, scholar, samurai, samurai radical (no. 33)",さむらい,シ,士,scholar,samurai,shi
+各,5,6,"each, every, either",おのおの,カク,口,mouth,onoono,kaku
+種,8,14,"species, kind, class, variety, seed","たね, -ぐさ",シュ,禾,grain,"tane, -gusa",shu
+隔,5,13,"isolate, alternate, distance, separate, gulf","へだ.てる, へだ.たる",カク,dam,mound,"heda.teru, heda.taru",kaku
+週,9,11,week,None,シュウ,辵,walk,None,shuu
+確,13,15,"assurance, firm, tight, hard, solid, confirm, clear, evident","たし.か, たし.かめる","カク, コウ",石,stone,"tashi.ka, tashi.kameru","kaku, kou"
+信,11,9,"faith, truth, fidelity, trust",None,シン,人,man,None,shin
+新,12,13,new,"あたら.しい, あら.た, あら-, にい-",シン,斤,axe,"atara.shii, ara.ta, ara-, nii-",shin
+譜,1,19,"musical score, music, note, staff, table, genealogy",None,フ,言,speech,None,fu
+保,13,9,"protect, guarantee, keep, preserve, sustain, support",たも.つ,"ホ, ホウ",人,man,tamo.tsu,"ho, hou"
+賭,2,15,"gamble, wager, bet","か.ける, かけ",ト,貝,shell,"ka.keru, kake",to
+崖,1,11,"cliff, bluff, precipice","がけ, きし, はて","ガイ, ゲ, ギ",山,mountain,"gake, kishi, hate","gai, ge, gi"
+駆,3,14,"drive, run, gallop, advance, inspire, impel","か.ける, か.る",ク,馬,horse,"ka.keru, ka.ru",ku
+足,18,7,"leg, foot, be sufficient, counter for pairs of footwear","あし, た.りる, た.る, た.す",ソク,足,foot,"ashi, ta.riru, ta.ru, ta.su",soku
+計,15,9,"plot, plan, scheme, measure","はか.る, はか.らう",ケイ,言,speech,"haka.ru, haka.rau",kei
+加,14,5,"add, addition, increase, join, include, Canada","くわ.える, くわ.わる",カ,力,power,"kuwa.eru, kuwa.waru",ka
+化,16,4,"change, take the form of, influence, enchant, delude, -ization","ば.ける, ば.かす, ふ.ける, け.する","カ, ケ",匕,spoon,"ba.keru, ba.kasu, fu.keru, ke.suru","ka, ke"
+箇,2,14,counter for articles,None,"カ, コ",竹,bamboo,None,"ka, ko"
+条,4,7,"article, clause, counter for articles, clauses, paragraphs, etc., twig, item, stripe, streak","えだ, すじ","ジョウ, チョウ, デキ",木,tree,"eda, suji","jou, chou, deki"
+微,7,13,"delicate, minuteness, insignificance",かす.か,ビ,彳,step,kasu.ka,bi
+霞,1,17,"be hazy, grow dim, blurred","かすみ, かす.む","カ, ゲ",雨,rain,"kasumi, kasu.mu","ka, ge"
+擦,5,17,"grate, rub, scratch, scrape, chafe, scour","す.る, す.れる, -ず.れ, こす.る, こす.れる",サツ,手,hand,"su.ru, su.reru, -zu.re, kosu.ru, kosu.reru",satsu
+火,14,4,fire,"ひ, -び, ほ-",カ,火,fire,"hi, -bi, ho-",ka
+星,5,9,"star, spot, dot, mark","ほし, -ぼし","セイ, ショウ",日,sun,"hoshi, -boshi","sei, shou"
+石,9,5,stone,いし,"セキ, シャク, コク",石,stone,ishi,"seki, shaku, koku"
+河,4,8,river,かわ,カ,水,water,kawa,ka
+川,2,3,"stream, river, river or three-stroke river radical (no. 47)",かわ,セン,巛,river,kawa,sen
+繊,2,17,"slender, fine, thin kimono",None,セン,糸,silk,None,sen
+過,16,12,"overdo, exceed, go beyond, error","す.ぎる, す.ごす, あやま.ち, あやま.つ, よぎ.る, よ.ぎる",カ,辵,walk,"su.giru, su.gosu, ayama.chi, ayama.tsu, yogi.ru, yo.giru",ka
+疎,1,12,"alienate, rough, neglect, shun, sparse, penetrate","うと.い, うと.む, まば.ら","ソ, ショ",疋,bolt,"uto.i, uto.mu, maba.ra","so, sho"
+片,9,4,"one-sided, leaf, sheet, right-side kata radical (no. 91)","かた-, かた",ヘン,片,slice,"kata-, kata",hen
+傾,5,13,"lean, incline, tilt, trend, wane, sink, ruin, bias","かたむ.く, かたむ.ける, かたぶ.く, かた.げる, かし.げる",ケイ,人,man,"katamu.ku, katamu.keru, katabu.ku, kata.geru, kashi.geru",kei
+傍,1,12,"bystander, side, besides, while, nearby, third person","かたわ.ら, わき, おか-, はた, そば",ボウ,人,man,"katawa.ra, waki, oka-, hata, soba",bou
+花,11,7,flower,はな,"カ, ケ",艸,grass,hana,"ka, ke"
+壇,1,16,"podium, stage, rostrum, terrace",None,"ダン, タン",土,earth,None,"dan, tan"
+畜,4,10,"livestock, domestic fowl and animals",None,チク,田,field,None,chiku
+且,1,5,"moreover, also, furthermore",か.つ,"ショ, ソ, ショウ",一,one,ka.tsu,"sho, so, shou"
+致,3,10,"doth, do, send, forward, cause, exert, incur, engage",いた.す,チ,至,arrive,ita.su,chi
+活,11,9,"lively, resuscitation, being helped, living","い.きる, い.かす, い.ける",カツ,水,water,"i.kiru, i.kasu, i.keru",katsu
+併,1,8,"join, get together, unite, collective",あわ.せる,ヘイ,人,man,awa.seru,hei
+叶,2,5,"grant, answer","かな.える, かな.う",キョウ,口,mouth,"kana.eru, kana.u",kyou
+槌,1,13,"hammer, mallet",つち,ツイ,木,tree,tsuchi,tsui
+予,15,4,"beforehand, previous, myself, I",あらかじ.め,"ヨ, シャ",亅,hook,arakaji.me,"yo, sha"
+庇,1,7,"protect, shield, defend, eaves, canopy, penthouse, visor","ひさし, おお.う, かば.う",ヒ,广,house,"hisashi, oo.u, kaba.u",hi
+株,2,10,"stocks, stump, shares, stock, counter for small plants",かぶ,シュ,木,tree,kabu,shu
+幣,2,15,"cash, bad habit, humble prefix, gift, Shinto offerings of cloth, rope, cut paper",ぬさ,ヘイ,巾,turban,nusa,hei
+噛,2,15,"chew, bite, gnaw","か.む, か.じる","コウ, ゴウ",口,mouth,"ka.mu, ka.jiru","kou, gou"
+粥,1,12,rice gruel,"かゆ, かい, ひさ.ぐ","イク, シュク, ジュク",米,rice,"kayu, kai, hisa.gu","iku, shuku, juku"
+絡,2,12,"entwine, coil around, get caught in","から.む, から.まる",ラク,糸,silk,"kara.mu, kara.maru",raku
+労,7,7,"labor, thank for, reward for, toil, trouble","ろう.する, いたわ.る, いた.ずき, ねぎら, つか.れる, ねぎら.う",ロウ,力,power,"rou.suru, itawa.ru, ita.zuki, negira, tsuka.reru, negira.u",rou
+簡,4,18,"simplicity, brevity","えら.ぶ, ふだ","カン, ケン",竹,bamboo,"era.bu, fuda","kan, ken"
+易,6,8,"easy, ready to, simple, fortune-telling, divination","やさ.しい, やす.い","エキ, イ",日,sun,"yasa.shii, yasu.i","eki, i"
+灌,1,20,pour,そそ.ぐ,カン,水,water,soso.gu,kan
+漑,1,15,pour,そそ.ぐ,"ガイ, カイ",水,water,soso.gu,"gai, kai"
+眼,4,11,eyeball,"まなこ, め","ガン, ゲン",目,eye,"manako, me","gan, gen"
+球,6,11,"ball, sphere",たま,キュウ,jade,jade,tama,kyuu
+玩,1,8,"play, take pleasure in, trifle with, make sport of","もちあそ.ぶ, もてあそ.ぶ",ガン,jade,jade,"mochiaso.bu, moteaso.bu",gan
+具,13,8,"tool, utensil, means, possess, ingredients, counter for armor, suits, sets of furniture","そな.える, つぶさ.に",グ,八,eight,"sona.eru, tsubusa.ni",gu
+潔,3,15,"undefiled, pure, clean, righteous, gallant",いさぎよ.い,ケツ,水,water,isagiyo.i,ketsu
+還,3,16,"send back, return",かえ.る,カン,辵,walk,kae.ru,kan
+看,4,9,"watch over, see",み.る,カン,目,eye,mi.ru,kan
+漢,3,13,"Sino-, China",None,カン,水,water,None,kan
+頑,3,13,"stubborn, foolish, firmly",かたく.な,ガン,頁,leaf,kataku.na,gan
+勧,3,13,"persuade, recommend, advise, encourage, offer",すす.める,"カン, ケン",力,power,susu.meru,"kan, ken"
+換,8,12,"interchange, period, change, convert, replace, renew","か.える, -か.える, か.わる",カン,手,hand,"ka.eru, -ka.eru, ka.waru",kan
+監,2,15,"oversee, official, govt office, rule, administer",None,カン,皿,dish,None,kan
+視,8,11,"inspection, regard as, see, look at",み.る,シ,見,see,mi.ru,shi
+衆,6,12,"masses, great numbers, multitude, populace",おお.い,"シュウ, シュ",血,blood,oo.i,"shuu, shu"
+丈,4,3,"length, ten shaku, measure, Mr., Ms., height, stature, all (one has), only, that's all, merely","たけ, だけ",ジョウ,一,one,"take, dake",jou
+触,4,13,"contact, touch, feel, hit, proclaim, announce, conflict","ふ.れる, さわ.る, さわ",ショク,角,horn,"fu.reru, sawa.ru, sawa",shoku
+肝,2,7,"liver, pluck, nerve, chutzpah",きも,カン,肉,meat,kimo,kan
+腎,1,13,kidney,None,ジン,肉,meat,None,jin
+税,7,12,"tax, duty",None,ゼイ,禾,grain,None,zei
+岩,3,8,"boulder, rock, cliff",いわ,ガン,山,mountain,iwa,gan
+染,6,9,"dye, color, paint, stain, print","そ.める, そ.まる, し.みる, し.み",セン,木,tree,"so.meru, so.maru, shi.miru, shi.mi",sen
+幹,4,13,"tree trunk, main part, talent, capability",みき,カン,干,pestle,miki,kan
+完,4,7,"perfect, completion, end",None,カン,宀,roof,None,kan
+勘,4,11,"intuition, perception, check, compare, sixth sense",None,カン,力,power,None,kan
+弁,9,5,"valve, petal, braid, speech, dialect, discrimination, dispose of, distinguish, conical cap","かんむり, わきま.える, わ.ける, はなびら, あらそ.う","ベン, ヘン",廾,two,"kanmuri, wakima.eru, wa.keru, hanabira, araso.u","ben, hen"
+誘,4,14,"entice, lead, tempt, invite, ask, call for, seduce, allure","さそ.う, いざな.う",ユウ,言,speech,"saso.u, izana.u",yuu
+与,5,3,"bestow, participate in, give, award, impart, provide, cause, gift, godsend","あた.える, あずか.る, くみ.する, ともに",ヨ,一,one,"ata.eru, azuka.ru, kumi.suru, tomoni",yo
+寛,1,13,"tolerant, leniency, generosity, relax, feel at home, be at ease, broadminded","くつろ.ぐ, ひろ.い, ゆる.やか",カン,宀,roof,"kutsuro.gu, hiro.i, yuru.yaka",kan
+容,11,10,"contain, form, looks",い.れる,ヨウ,宀,roof,i.reru,you
+例,10,8,"example, custom, usage, precedent",たと.える,レイ,人,man,tato.eru,rei
+貫,2,11,"pierce, 8 1/3lbs, penetrate, brace","つらぬ.く, ぬ.く, ぬき",カン,貝,shell,"tsuranu.ku, nu.ku, nuki",kan
+禄,1,12,"fief, allowance, pension, grant, happiness","さいわ.い, ふち",ロク,示,sign,"saiwa.i, fuchi",roku
+緩,5,15,"slacken, loosen, relax, lessen, be moderate, ease","ゆる.い, ゆる.やか, ゆる.む, ゆる.める",カン,糸,silk,"yuru.i, yuru.yaka, yuru.mu, yuru.meru",kan
+案,10,10,"plan, suggestion, draft, ponder, fear, proposition, idea, expectation, worry, table, bench",つくえ,アン,木,tree,tsukue,an
+危,6,6,"dangerous, fear, uneasy","あぶ.ない, あや.うい, あや.ぶむ",キ,卩,kneel,"abu.nai, aya.ui, aya.bumu",ki
+企,2,6,"undertake, scheme, design, attempt, plan","くわだ.てる, たくら.む",キ,人,man,"kuwada.teru, takura.mu",ki
+規,12,11,"standard, measure",None,キ,見,see,None,ki
+飾,7,13,"decorate, ornament, adorn, embellish","かざ.る, かざ.り",ショク,食,eat,"kaza.ru, kaza.ri",shoku
+機,16,16,"loom, mechanism, machine, airplane, opportunity, potency, efficacy, occasion",はた,キ,木,tree,hata,ki
+聞,5,14,"hear, ask, listen","き.く, き.こえる","ブン, モン",耳,ear,"ki.ku, ki.koeru","bun, mon"
+帰,7,10,"homecoming, arrive at, lead to, result in","かえ.る, かえ.す, おく.る, とつ.ぐ",キ,巾,turban,"kae.ru, kae.su, oku.ru, totsu.gu",ki
+京,2,8,"capital, 10**16",みやこ,"キョウ, ケイ, キン",亠,lid,miyako,"kyou, kei, kin"
+戯,1,15,"frolic, play, sport","たわむ.れる, ざ.れる, じゃ.れる","ギ, ゲ",戈,spear,"tawamu.reru, za.reru, ja.reru","gi, ge"
+基,8,11,"fundamentals, radical (chem), counter for machines, foundation","もと, もとい",キ,土,earth,"moto, motoi",ki
+喜,3,12,"rejoice, take pleasure in","よろこ.ぶ, よろこ.ばす",キ,口,mouth,"yoroko.bu, yoroko.basu",ki
+既,2,10,"previously, already, long ago",すで.に,キ,无,perish,sude.ni,ki
+婚,6,11,marriage,None,コン,女,woman,None,kon
+記,15,10,"scribe, account, narrative",しる.す,キ,言,speech,shiru.su,ki
+載,4,13,"ride, board, get on, place, spread, 10**44, record, publish","の.せる, の.る",サイ,車,cart,"no.seru, no.ru",sai
+兆,2,6,"portent, 10**12, trillion, sign, omen, symptoms","きざ.す, きざ.し",チョウ,儿,legs,"kiza.su, kiza.shi",chou
+質,15,15,"substance, quality, matter, temperament","たち, ただ.す, もと, わりふ","シツ, シチ, チ",貝,shell,"tachi, tada.su, moto, warifu","shitsu, shichi, chi"
+期,17,12,"period, time, date, term",None,"キ, ゴ",月,moon,None,"ki, go"
+象,7,12,"elephant, pattern after, imitate, image, shape, sign (of the times)",かたど.る,"ショウ, ゾウ",豕,pig,katado.ru,"shou, zou"
+傷,7,13,"wound, hurt, injure, impair, pain, injury, cut, gash, scar, weak point","きず, いた.む, いた.める",ショウ,人,man,"kizu, ita.mu, ita.meru",shou
+犠,1,17,sacrifice,いけにえ,"ギ, キ",牛,cow,ikenie,"gi, ki"
+牲,1,9,"animal sacrifice, offering",None,セイ,牛,cow,None,sei
+汽,2,7,"vapor, steam",None,キ,水,water,None,ki
+船,7,11,"ship, boat","ふね, ふな-",セン,舟,boat,"fune, funa-",sen
+贈,3,18,"presents, send, give to, award to, confer on, presenting something",おく.る,"ゾウ, ソウ",貝,shell,oku.ru,"zou, sou"
+偽,1,11,"falsehood, lie, deceive, pretend, counterfeit, forgery","いつわ.る, にせ, いつわ.り","ギ, カ",人,man,"itsuwa.ru, nise, itsuwa.ri","gi, ka"
+族,3,11,"tribe, family",None,ゾク,方,square,None,zoku
+題,11,18,"topic, subject",None,ダイ,頁,leaf,None,dai
+鍛,1,17,"forge, discipline, train",きた.える,タン,金,metal,kita.eru,tan
+几,1,2,"table, table enclosure, table or windy radical (no. 16)",きにょう,キ,几,table,kinyou,ki
+帳,4,11,"notebook, account book, album, curtain, veil, net, tent",とばり,チョウ,巾,turban,tobari,chou
+起,8,10,"rouse, wake up, get up","お.きる, お.こる, お.こす, おこ.す, た.つ",キ,走,run,"o.kiru, o.koru, o.kosu, oko.su, ta.tsu",ki
+軌,1,9,"rut, wheel, track, model, way of doing",None,キ,車,cart,None,ki
+能,15,10,"ability, talent, skill, capacity","よ.く, あた.う",ノウ,肉,meat,"yo.ku, ata.u",nou
+範,3,15,"pattern, example, model",None,ハン,竹,bamboo,None,han
+風,16,9,"wind, air, style, manner","かぜ, かざ-","フウ, フ",風,wind,"kaze, kaza-","fuu, fu"
+伏,2,6,"prostrated, bend down, bow, cover, lay (pipes)","ふ.せる, ふ.す",フク,人,man,"fu.seru, fu.su",fuku
+模,6,14,"imitation, copy, mock",None,"モ, ボ",木,tree,None,"mo, bo"
+真,25,10,"true, reality, Buddhist sect","ま, ま-, まこと",シン,目,eye,"ma, ma-, makoto",shin
+末,9,5,"end, close, tip, powder, posterity","すえ, うら, うれ","マツ, バツ",木,tree,"sue, ura, ure","matsu, batsu"
+脚,4,11,"skids, leg, undercarriage, lower part, base",あし,"キャク, キャ, カク",肉,meat,ashi,"kyaku, kya, kaku"
+転,21,11,"revolve, turn around, change","ころ.がる, ころ.げる, ころ.がす, ころ.ぶ, まろ.ぶ, うたた, うつ.る, くる.めく",テン,車,cart,"koro.garu, koro.geru, koro.gasu, koro.bu, maro.bu, utata, utsu.ru, kuru.meku",ten
+華,4,10,"splendor, flower, petal, shine, luster, ostentatious, showy, gay, gorgeous",はな,"カ, ケ",艸,grass,hana,"ka, ke"
+奢,1,12,"extravagance, luxury","おご.る, おご.り",シャ,大,big,"ogo.ru, ogo.ri",sha
+客,7,9,"guest, visitor, customer, client",None,"キャク, カク",宀,roof,None,"kyaku, kaku"
+救,5,11,"salvation, save, help, rescue, reclaim",すく.う,キュウ,攴,rap,suku.u,kyuu
+援,4,12,"abet, help, save",None,エン,手,hand,None,en
+究,3,7,"research, study",きわ.める,"キュウ, ク",穴,cave,kiwa.meru,"kyuu, ku"
+窮,2,15,"hard up, destitute, suffer, perplexed, cornered","きわ.める, きわ.まる, きわ.まり, きわ.み","キュウ, キョウ",穴,cave,"kiwa.meru, kiwa.maru, kiwa.mari, kiwa.mi","kyuu, kyou"
+屈,4,8,"yield, bend, flinch, submit","かが.む, かが.める",クツ,尸,corpse,"kaga.mu, kaga.meru",kutsu
+済,7,11,"settle (debt, etc.), relieve (burden), finish, come to an end, excusable, need not","す.む, -ず.み, -ずみ, す.まない, す.ます, -す.ます, すく.う, な.す, わたし, わた.る","サイ, セイ",水,water,"su.mu, -zu.mi, -zumi, su.manai, su.masu, -su.masu, suku.u, na.su, watashi, wata.ru","sai, sei"
+食,20,9,"eat, food","く.う, く.らう, た.べる, は.む","ショク, ジキ",食,eat,"ku.u, ku.rau, ta.beru, ha.mu","shoku, jiki"
+旧,3,5,"old times, old things, old friend, former, ex-","ふる.い, もと",キュウ,日,sun,"furu.i, moto",kyuu
+知,17,8,"know, wisdom","し.る, し.らせる",チ,矢,arrow,"shi.ru, shi.raseru",chi
+狂,2,7,"lunatic, insane, crazy, confuse","くる.う, くる.おしい, くるお.しい",キョウ,犬,dog,"kuru.u, kuru.oshii, kuruo.shii",kyou
+驚,4,22,"wonder, be surprised, frightened, amazed","おどろ.く, おどろ.かす",キョウ,馬,horse,"odoro.ku, odoro.kasu",kyou
+教,18,11,"teach, faith, doctrine","おし.える, おそ.わる",キョウ,攴,rap,"oshi.eru, oso.waru",kyou
+協,6,8,"co-, cooperation",None,キョウ,十,ten,None,kyou
+境,5,14,"boundary, border, region",さかい,"キョウ, ケイ",土,earth,sakai,"kyou, kei"
+遇,2,12,"meet, encounter, interview, treat, entertain, receive, deal with",あ.う,グウ,辵,walk,a.u,guu
+訓,3,10,"instruction, Japanese character reading, explanation, read","おし.える, よ.む, くん.ずる","クン, キン",言,speech,"oshi.eru, yo.mu, kun.zuru","kun, kin"
+硬,4,12,"stiff, hard",かた.い,コウ,石,stone,kata.i,kou
+材,7,7,"lumber, log, timber, wood, materials, ingredients, talent",None,ザイ,木,tree,None,zai
+凶,1,4,"villain, evil, bad luck, disaster",None,キョウ,凵,container,None,kyou
+郷,5,11,"home town, village, native place, district",さと,"キョウ, ゴウ",town,town,sato,"kyou, gou"
+愁,1,13,"distress, grieve, lament, be anxious","うれ.える, うれ.い",シュウ,心,heart,"ure.eru, ure.i",shuu
+職,11,18,"post, employment, work",None,"ショク, ソク",耳,ear,None,"shoku, soku"
+制,14,8,"system, law, rule",None,セイ,刀,knife,None,sei
+績,5,17,"exploits, achievements, unreeling cocoons",None,セキ,糸,silk,None,seki
+存,9,6,"exist, suppose, be aware of, believe, feel","ながら.える, あ.る, たも.つ, と.う","ソン, ゾン",子,child,"nagara.eru, a.ru, tamo.tsu, to.u","son, zon"
+迫,4,8,"urge, force, imminent, spur on",せま.る,ハク,辵,walk,sema.ru,haku
+鳴,6,14,"chirp, cry, bark, sound, ring, echo, honk","な.く, な.る, な.らす",メイ,鳥,bird,"na.ku, na.ru, na.rasu",mei
+里,2,7,"ri, village, parent's home, league",さと,リ,里,village,sato,ri
+烈,2,10,"ardent, violent, vehement, furious, severe, extreme",はげ.しい,レツ,火,fire,hage.shii,retsu
+局,5,7,"bureau, board, office, affair, conclusion, court lady, lady-in-waiting, her apartment",つぼね,キョク,尸,corpse,tsubone,kyoku
+端,5,14,"edge, origin, end, point, border, verge, cape","はし, は, はた, -ばた, はな",タン,立,stand,"hashi, ha, hata, -bata, hana",tan
+住,10,7,"dwell, reside, live, inhabit","す.む, す.まう, -ず.まい","ジュウ, ヂュウ, チュウ",人,man,"su.mu, su.mau, -zu.mai","juu, zyuu, chuu"
+拒,2,8,"repel, refuse, reject, decline",こば.む,"キョ, ゴ",手,hand,koba.mu,"kyo, go"
+漁,4,14,"fishing, fishery",あさ.る,"ギョ, リョウ",水,water,asa.ru,"gyo, ryou"
+村,3,7,"village, town",むら,ソン,木,tree,mura,son
+否,4,7,"negate, no, noes, refuse, decline, deny","いな, いや",ヒ,口,mouth,"ina, iya",hi
+清,9,11,"pure, purify, cleanse, exorcise, Manchu dynasty","きよ.い, きよ.まる, きよ.める","セイ, ショウ, シン",水,water,"kiyo.i, kiyo.maru, kiyo.meru","sei, shou, shin"
+義,7,13,"righteousness, justice, morality, honor, loyalty, meaning",None,ギ,羊,sheep,None,gi
+理,26,11,"logic, arrangement, reason, justice, truth",ことわり,リ,jade,jade,kotowari,ri
+疑,4,14,"doubt, distrust, be suspicious, question",うたが.う,ギ,疋,bolt,utaga.u,gi
+惑,4,12,"beguile, delusion, perplexity",まど.う,ワク,心,heart,mado.u,waku
+近,16,7,"near, early, akin, tantamount",ちか.い,"キン, コン",辵,walk,chika.i,"kin, kon"
+緊,2,15,"tense, solid, hard, reliable, tight","し.める, し.まる",キン,糸,silk,"shi.meru, shi.maru",kin
+郊,2,9,"outskirts, suburbs, rural area",None,コウ,town,town,None,kou
+均,2,7,"level, average",なら.す,キン,土,earth,nara.su,kin
+衡,1,16,"equilibrium, measuring rod, scale",None,コウ,行,go,None,kou
+禁,4,13,"prohibition, ban, forbid",None,キン,示,sign,None,kin
+勤,10,12,"diligence, become employed, serve","つと.める, -づと.め, つと.まる, いそ.しむ","キン, ゴン",力,power,"tsuto.meru, -zuto.me, tsuto.maru, iso.shimu","kin, gon"
+勉,2,10,"exertion, endeavour, encourage, strive, make effort, diligent",つと.める,ベン,力,power,tsuto.meru,ben
+吟,2,7,"versify, singing, recital",None,ギン,口,mouth,None,gin
+味,22,8,"flavor, taste","あじ, あじ.わう",ミ,口,mouth,"aji, aji.wau",mi
+違,12,13,"difference, differ","ちが.う, ちが.い, ちが.える, -ちが.える, たが.う, たが.える",イ,辵,walk,"chiga.u, chiga.i, chiga.eru, -chiga.eru, taga.u, taga.eru",i
+間,40,12,"interval, space","あいだ, ま, あい","カン, ケン",門,gate,"aida, ma, ai","kan, ken"
+区,9,4,"ward, district",None,"ク, オウ, コウ",匸,hiding,None,"ku, ou, kou"
+茎,1,8,"stalk, stem",くき,"ケイ, キョウ",艸,grass,kuki,"kei, kyou"
+痴,1,13,"stupid, foolish","し.れる, おろか",チ,疒,sickness,"shi.reru, oroka",chi
+嘴,1,16,"beak, bill","くちばし, はし",シ,口,mouth,"kuchibashi, hashi",shi
+朽,1,6,"decay, rot, remain in seclusion",く.ちる,キュウ,木,tree,ku.chiru,kyuu
+覆,3,18,"capsize, cover, shade, mantle, be ruined","おお.う, くつがえ.す, くつがえ.る",フク,西,west,"oo.u, kutsugae.su, kutsugae.ru",fuku
+玄,2,5,"mysterious, occultness, black, deep, profound","くろ, くろ.い",ゲン,玄,dark,"kuro, kuro.i",gen
+黒,5,11,black,"くろ, くろ.ずむ, くろ.い",コク,黑,black,"kuro, kuro.zumu, kuro.i",koku
+軍,6,9,"army, force, troops, war, battle",いくさ,グン,車,cart,ikusa,gun
+艦,1,21,warship,None,カン,舟,boat,None,kan
+君,4,7,"mister, you, ruler, male name suffix","きみ, -ぎみ",クン,口,mouth,"kimi, -gimi",kun
+群,5,13,"flock, group, crowd, herd, swarm, cluster","む.れる, む.れ, むら, むら.がる",グン,羊,sheep,"mu.reru, mu.re, mura, mura.garu",gun
+備,11,12,"equip, provision, preparation","そな.える, そな.わる, つぶさ.に",ビ,人,man,"sona.eru, sona.waru, tsubusa.ni",bi
+服,10,8,"clothing, admit, obey, discharge",None,フク,月,moon,None,fuku
+警,6,19,"admonish, commandment",いまし.める,ケイ,言,speech,imashi.meru,kei
+戒,1,7,commandment,いまし.める,カイ,戈,spear,imashi.meru,kai
+敬,5,12,"awe, respect, honor, revere",うやま.う,"ケイ, キョウ",攴,rap,uyama.u,"kei, kyou"
+斜,4,11,"diagonal, slanting, oblique","なな.め, はす",シャ,斗,dipper,"nana.me, hasu",sha
+勢,8,13,"forces, energy, military strength","いきお.い, はずみ","セイ, ゼイ",力,power,"ikio.i, hazumi","sei, zei"
+刑,4,6,"punish, penalty, sentence, punishment",None,ケイ,刀,knife,None,kei
+罰,4,14,"penalty, punishment",ばっ.する,"バツ, バチ, ハツ",网,net,ba.suru,"batsu, bachi, hatsu"
+電,17,13,electricity,None,デン,雨,rain,None,den
+才,2,3,"genius, years old, cubic shaku",None,サイ,手,hand,None,sai
+展,6,10,"unfold, expand",None,テン,尸,corpse,None,ten
+示,5,5,"show, indicate, point out, express, display",しめ.す,"ジ, シ",示,sign,shime.su,"ji, shi"
+伝,15,6,"transmit, go along, walk along, follow, report, communicate, legend, tradition","つた.わる, つた.える, つた.う, つだ.う, -づた.い, つて","デン, テン",人,man,"tsuta.waru, tsuta.eru, tsuta.u, tsuda.u, -zuta.i, tsute","den, ten"
+達,10,12,"accomplished, reach, arrive, attain",-たち,"タツ, ダ",辵,walk,-tachi,"tatsu, da"
+胴,1,10,"trunk, torso, hull (ship), hub of wheel",None,ドウ,肉,meat,None,dou
+員,13,10,"employee, member, number, the one in charge",None,イン,口,mouth,None,in
+陶,1,11,"pottery, porcelain",すえ,トウ,dam,mound,sue,tou
+校,15,10,"exam, school, printing, proof, correction",None,"コウ, キョウ",木,tree,None,"kou, kyou"
+統,9,12,"overall, relationship, ruling, governing",す.べる,トウ,糸,silk,su.beru,tou
+資,9,13,"assets, resources, capital, funds, data, be conducive to, contribute to",None,シ,貝,shell,None,shi
+選,7,15,"elect, select, choose, prefer","えら.ぶ, え.る, よ.る",セン,辵,walk,"era.bu, e.ru, yo.ru",sen
+走,3,7,run,はし.る,ソウ,走,run,hashi.ru,sou
+軸,1,12,"axis, pivot, stem, stalk, counter for book scrolls",None,ジク,車,cart,None,jiku
+死,7,6,"death, die","し.ぬ, し.に-",シ,歹,death,"shi.nu, shi.ni-",shi
+湿,6,12,"damp, wet, moist","しめ.る, しめ.す, うるお.う, うるお.す","シツ, シュウ",水,water,"shime.ru, shime.su, uruo.u, uruo.su","shitsu, shuu"
+施,4,9,"give, bestow, perform, alms",ほどこ.す,"シ, セ",方,square,hodoko.su,"shi, se"
+嗜,1,13,"like, taste, modest","たしな.む, たしな.み, この.む, この.み",シ,口,mouth,"tashina.mu, tashina.mi, kono.mu, kono.mi",shi
+項,2,12,"paragraph, nape of neck, clause, item, term (expression)",うなじ,コウ,頁,leaf,unaji,kou
+刻,6,8,"engrave, cut fine, chop, hash, mince, time, carving","きざ.む, きざ.み",コク,刀,knife,"kiza.mu, kiza.mi",koku
+表,12,8,"surface, table, chart, diagram","おもて, -おもて, あらわ.す, あらわ.れる, あら.わす",ヒョウ,衣,clothes,"omote, -omote, arawa.su, arawa.reru, ara.wasu",hyou
+獄,1,14,"prison, jail",None,ゴク,犬,dog,None,goku
+刺,9,8,"thorn, pierce, stab, prick, sting, calling card","さ.す, さ.さる, さ.し, さし, とげ",シ,刀,knife,"sa.su, sa.saru, sa.shi, sashi, toge",shi
+繍,1,17,"sew, figured cloth",ぬいとり,シュウ,糸,silk,nuitori,shuu
+市,6,5,"market, city, town",いち,シ,巾,turban,ichi,shi
+雫,1,11,"drop, trickle, dripping, (kokuji)",しずく,ダ,雨,rain,shizuku,da
+沈,5,7,"sink, be submerged, subside, be depressed, aloes","しず.む, しず.める","チン, ジン",水,water,"shizu.mu, shizu.meru","chin, jin"
+設,8,11,"establishment, provision, prepare",もう.ける,セツ,言,speech,mou.keru,setsu
+息,10,10,"breath, respiration, son, interest (on money), rest, coming to an end",いき,ソク,心,heart,iki,soku
+続,14,13,"continue, series, sequel","つづ.く, つづ.ける, つぐ.ない","ゾク, ショク, コウ, キョウ",糸,silk,"tsuzu.ku, tsuzu.keru, tsugu.nai","zoku, shoku, kou, kyou"
+慕,1,14,"pining, yearn for, love dearly, adore",した.う,ボ,心,heart,shita.u,bo
+愛,9,13,"love, affection, favourite","いと.しい, かな.しい, め.でる, お.しむ, まな",アイ,心,heart,"ito.shii, kana.shii, me.deru, o.shimu, mana",ai
+敢,2,12,"daring, brave, bold, sad, tragic, pitiful","あ.えて, あ.えない, あ.えず",カン,攴,rap,"a.ete, a.enai, a.ezu",kan
+仰,2,6,"face-up, look up, depend, seek, respect, revere, drink, take","あお.ぐ, おお.せ, お.っしゃる, おっしゃ.る","ギョウ, コウ",人,man,"ao.gu, oo.se, o.ssharu, ossha.ru","gyou, kou"
+垢,1,9,"dirt, grime, earwax","あか, はじ","コウ, ク",土,earth,"aka, haji","kou, ku"
+赤,8,7,red,"あか, あか-, あか.い, あか.らむ, あか.らめる","セキ, シャク",赤,red,"aka, aka-, aka.i, aka.ramu, aka.rameru","seki, shaku"
+諦,2,16,"truth, clarity, abandon, give up","あきら.める, つまびらか, まこと","テイ, タイ",言,speech,"akira.meru, tsumabiraka, makoto","tei, tai"
+顎,1,18,"jaw, chin, gill","あご, あぎと",ガク,頁,leaf,"ago, agito",gaku
+憧,2,15,"yearn after, long for, aspire to, admire, adore",あこが.れる,"ショウ, トウ, ドウ",心,heart,akoga.reru,"shou, tou, dou"
+麻,3,11,"hemp, flax, numb",あさ,"マ, マア",麻,hemp,asa,"ma, maa"
+浅,2,9,"shallow, superficial, frivolous, wretched, shameful",あさ.い,セン,水,water,asa.i,sen
+鮮,2,17,"fresh, vivid, clear, brilliant, Korea",あざ.やか,セン,魚,fish,aza.yaka,sen
+嘲,1,15,"ridicule, insult",あざけ.る,"チョウ, トウ",口,mouth,azake.ru,"chou, tou"
+笑,6,10,laugh,"わら.う, え.む",ショウ,竹,bamboo,"wara.u, e.mu",shou
+呆,3,7,"be amazed, disgusted, shocked","ほけ.る, ぼ.ける, あき.れる, おろか",ホウ,口,mouth,"hoke.ru, bo.keru, aki.reru, oroka",hou
+斡,1,14,"go around, rule, administer","めぐ.る, めぐ.らす","アツ, カン, ワツ",斗,dipper,"megu.ru, megu.rasu","atsu, kan, watsu"
+旋,1,11,"rotation, go around","め.ぐる, いばり",セン,方,square,"me.guru, ibari",sen
+圧,7,5,"pressure, push, overwhelm, oppress, dominate","お.す, へ.す, おさ.える, お.さえる","アツ, エン, オウ",土,earth,"o.su, he.su, osa.eru, o.saeru","atsu, en, ou"
+倒,6,10,"overthrow, fall, collapse, drop, break down","たお.れる, -だお.れ, たお.す, さかさま, さかさ, さかしま",トウ,人,man,"tao.reru, -dao.re, tao.su, sakasama, sakasa, sakashima",tou
+宛,3,8,"address, just like, fortunately","あ.てる, -あて, -づつ, あたか.も",エン,宀,roof,"a.teru, -ate, -zutsu, ataka.mo",en
+跡,5,13,"tracks, mark, print, impression",あと,セキ,足,foot,ato,seki
+絵,4,12,"picture, drawing, painting, sketch",None,"カイ, エ",糸,silk,None,"kai, e"
+甘,4,5,"sweet, coax, pamper, be content, sugary","あま.い, あま.える, あま.やかす, うま.い",カン,甘,sweet,"ama.i, ama.eru, ama.yakasu, uma.i",kan
+網,2,14,"netting, network",あみ,モウ,糸,silk,ami,mou
+操,4,16,"maneuver, manipulate, operate, steer, chastity, virginity, fidelity","みさお, あやつ.る","ソウ, サン",手,hand,"misao, ayatsu.ru","sou, san"
+荒,5,9,"laid waste, rough, rude, wild","あ.らす, あ.れる, あら.い, すさ.ぶ, すさ.む, あ.らし",コウ,艸,grass,"a.rasu, a.reru, ara.i, susa.bu, susa.mu, a.rashi",kou
+霰,1,20,"hail, hailstones, small cubes",あられ,"セン, サン",雨,rain,arare,"sen, san"
+暗,7,13,"darkness, disappear, shade, informal, grow dark, be blinded","くら.い, くら.む, くれ.る",アン,日,sun,"kura.i, kura.mu, kure.ru",an
+安,10,6,"relax, cheap, low, quiet, rested, contented, peaceful","やす.い, やす.まる, やす, やす.らか",アン,宀,roof,"yasu.i, yasu.maru, yasu, yasu.raka",an
+静,6,14,quiet,"しず-, しず.か, しず.まる, しず.める","セイ, ジョウ",青,blue,"shizu-, shizu.ka, shizu.maru, shizu.meru","sei, jou"
+斐,1,12,"beautiful, patterned",None,"ヒ, イ",文,script,None,"hi, i"
+幾,3,12,"how many, how much, how far, how long, some, several","いく-, いく.つ, いく.ら",キ,幺,short,"iku-, iku.tsu, iku.ra",ki
+多,8,6,"many, frequent, much","おお.い, まさ.に, まさ.る",タ,夕,evening,"oo.i, masa.ni, masa.ru",ta
+装,10,12,"attire, dress, pretend, disguise, profess","よそお.う, よそお.い","ソウ, ショウ",衣,clothes,"yosoo.u, yosoo.i","sou, shou"
+遺,1,15,"bequeath, leave behind, reserve",のこ.す,"イ, ユイ",辵,walk,noko.su,"i, yui"
+依,3,8,"reliant, depend on, consequently, therefore, due to",よ.る,"イ, エ",人,man,yo.ru,"i, e"
+委,2,8,"committee, entrust to, leave to, devote, discard",ゆだ.ねる,イ,女,woman,yuda.neru,i
+託,1,10,"consign, requesting, entrusting with, pretend, hint","かこつ.ける, かこ.つ, かこ.つける",タク,言,speech,"kakotsu.keru, kako.tsu, kako.tsukeru",taku
+脳,3,11,"brain, memory",のうずる,"ノウ, ドウ",肉,meat,nouzuru,"nou, dou"
+守,6,6,"guard, protect, defend, obey","まも.る, まも.り, もり, -もり, かみ","シュ, ス",宀,roof,"mamo.ru, mamo.ri, mori, -mori, kami","shu, su"
+法,16,8,"method, law, rule, principle, model, system",のり,"ホウ, ハッ, ホッ, フラン",水,water,nori,"hou, ha, ho, furan"
+樹,2,16,"timber, trees, wood, establish, set up",き,ジュ,木,tree,ki,ju
+準,7,13,"semi-, correspond to, proportionate to, conform, imitate","じゅん.じる, じゅん.ずる, なぞら.える, のり, ひと.しい, みずもり",ジュン,水,water,"jun.jiru, jun.zuru, nazora.eru, nori, hito.shii, mizumori",jun
+署,4,13,"signature, govt office, police station",None,ショ,网,net,None,sho
+症,2,10,"symptoms, illness",None,ショウ,疒,sickness,None,shou
+証,5,12,"evidence, proof, certificate",あかし,ショウ,言,speech,akashi,shou
+嬢,2,16,"lass, girl, Miss, daughter",むすめ,ジョウ,女,woman,musume,jou
+位,7,7,"rank, grade, throne, crown, about, some","くらい, ぐらい",イ,人,man,"kurai, gurai",i
+城,2,9,castle,しろ,"ジョウ, セイ",土,earth,shiro,"jou, sei"
+去,5,5,"gone, past, quit, leave, elapse, eliminate, divorce","さ.る, -さ.る","キョ, コ",厶,private,"sa.ru, -sa.ru","kyo, ko"
+衝,2,15,"collide, brunt, highway, opposition (astronomy), thrust, pierce, stab, prick",つ.く,ショウ,行,go,tsu.ku,shou
+撃,6,15,"beat, attack, defeat, conquer",う.つ,ゲキ,手,hand,u.tsu,geki
+詳,2,13,"detailed, full, minute, accurate, well-informed","くわ.しい, つまび.らか",ショウ,言,speech,"kuwa.shii, tsumabi.raka",shou
+昇,3,8,rise up,のぼ.る,ショウ,日,sun,nobo.ru,shou
+称,2,10,"appellation, praise, admire, name, title, fame","たた.える, とな.える, あ.げる, かな.う, はか.り, はか.る, ほめ.る",ショウ,禾,grain,"tata.eru, tona.eru, a.geru, kana.u, haka.ri, haka.ru, home.ru",shou
+承,5,8,"acquiesce, hear, listen to, be informed, receive","うけたまわ.る, う.ける","ショウ, ジョウ",手,hand,"uketamawa.ru, u.keru","shou, jou"
+諾,1,15,"consent, assent, agreement",None,ダク,言,speech,None,daku
+徴,3,14,"indications, sign, omen, symptom, collect, seek, refer to, question",しるし,"チョウ, チ",彳,step,shirushi,"chou, chi"
+譲,2,20,"defer, turnover, transfer, convey",ゆず.る,ジョウ,言,speech,yuzu.ru,jou
+利,15,7,"profit, advantage, benefit",き.く,リ,刀,knife,ki.ku,ri
+蒸,8,13,"steam, heat, sultry, foment, get musty","む.す, む.れる, む.らす","ジョウ, セイ",艸,grass,"mu.su, mu.reru, mu.rasu","jou, sei"
+溜,5,13,"collect, gather, be in arrears","た.まる, たま.る, た.める, したた.る, たまり, ため",リュウ,水,water,"ta.maru, tama.ru, ta.meru, shitata.ru, tamari, tame",ryuu
+奨,2,13,"exhort, urge, encourage",すす.める,"ショウ, ソウ",大,big,susu.meru,"shou, sou"
+諸,2,15,"various, many, several, together",もろ,ショ,言,speech,moro,sho
+助,11,7,"help, rescue, assist","たす.ける, たす.かる, す.ける, すけ",ジョ,力,power,"tasu.keru, tasu.karu, su.keru, suke",jo
+徐,2,10,"gradually, slowly, deliberately, gently",おもむ.ろに,ジョ,彳,step,omomu.roni,jo
+所,25,8,"place, extent","ところ, -ところ, どころ, とこ",ショ,戶,door,"tokoro, -tokoro, dokoro, toko",sho
+属,5,12,"belong, genus, subordinate official, affiliated","さかん, つく, やから","ゾク, ショク",尸,corpse,"sakan, tsuku, yakara","zoku, shoku"
+処,5,5,"dispose, manage, deal with, sentence, condemn, act, behave, place","ところ, -こ, お.る",ショ,几,table,"tokoro, -ko, o.ru",sho
+初,10,7,"first time, beginning","はじ.め, はじ.めて, はつ, はつ-, うい-, -そ.める, -ぞ.め",ショ,刀,knife,"haji.me, haji.mete, hatsu, hatsu-, ui-, -so.meru, -zo.me",sho
+版,5,8,"printing block, printing plate, edition, impression, label",None,ハン,片,slice,None,han
+庶,2,11,"commoner, all, bastard",None,ショ,广,house,None,sho
+令,2,5,"orders, laws, command, decree, good",None,レイ,人,man,None,rei
+陣,1,10,"camp, battle array, ranks, position, sudden, brief time",None,ジン,dam,mound,None,jin
+審,4,15,"hearing, judge, trial","つまび.らか, つぶさ.に",シン,宀,roof,"tsumabi.raka, tsubusa.ni",shin
+査,5,9,investigate,None,サ,木,tree,None,sa
+紳,1,11,"sire, good belt, gentleman",None,シン,糸,silk,None,shin
+実,32,8,"reality, truth, seed, fruit, nut","み, みの.る, まこと, みの, みち.る","ジツ, シツ",宀,roof,"mi, mino.ru, makoto, mino, michi.ru","jitsu, shitsu"
+珠,1,10,"pearl, gem, jewel",たま,シュ,jade,jade,tama,shu
+神,9,9,"gods, mind, soul","かみ, かん-, こう-","シン, ジン",示,sign,"kami, kan-, kou-","shin, jin"
+聖,2,13,"holy, saint, sage, master, priest",ひじり,"セイ, ショウ",耳,ear,hijiri,"sei, shou"
+迅,1,6,"swift, fast",None,ジン,辵,walk,None,jin
+速,11,10,"quick, fast","はや.い, はや-, はや.める, すみ.やか",ソク,辵,walk,"haya.i, haya-, haya.meru, sumi.yaka",soku
+築,3,16,"fabricate, build, construct",きず.く,チク,竹,bamboo,kizu.ku,chiku
+呈,1,7,"display, offer, present, send, exhibit",None,テイ,口,mouth,None,tei
+振,12,10,"shake, wave, wag, swing","ふ.る, ふ.れる, ふ.るう",シン,手,hand,"fu.ru, fu.reru, fu.ruu",shin
+秘,3,10,"secret, conceal","ひ.める, ひそ.か, かく.す",ヒ,禾,grain,"hi.meru, hiso.ka, kaku.su",hi
+療,3,17,"heal, cure",None,リョウ,疒,sickness,None,ryou
+粋,3,10,"chic, style, purity, essence, pith, cream, elite, choice",いき,スイ,米,rice,iki,sui
+推,6,11,"conjecture, infer, guess, suppose, support, push (for)",お.す,スイ,手,hand,o.su,sui
+吹,3,7,"blow, breathe, puff, emit, smoke",ふ.く,スイ,口,mouth,fu.ku,sui
+奏,2,9,"play music, speak to a ruler, complete",かな.でる,ソウ,大,big,kana.deru,sou
+測,6,12,"fathom, plan, scheme, measure",はか.る,ソク,水,water,haka.ru,soku
+田,6,5,"rice field, rice paddy",た,デン,田,field,ta,den
+数,22,13,"number, strength, fate, law, figures","かず, かぞ.える, しばしば, せ.める, わずらわ.しい","スウ, ス, サク, ソク, シュ",攴,rap,"kazu, kazo.eru, shibashiba, se.meru, wazurawa.shii","suu, su, saku, soku, shu"
+詞,13,12,"part of speech, words, poetry",ことば,シ,言,speech,kotoba,shi
+崇,1,11,"adore, respect, revere, worship",あが.める,スウ,山,mountain,aga.meru,suu
+据,2,11,"set, lay a foundation, install, equip, squat down, sit down","す.える, す.わる",キョ,手,hand,"su.eru, su.waru",kyo
+濯,3,17,"laundry, wash, pour on, rinse","すす.ぐ, ゆす.ぐ",タク,水,water,"susu.gu, yusu.gu",taku
+裾,1,13,"cuff, hem, foot of mountain",すそ,"キョ, コ",衣,clothes,suso,"kyo, ko"
+早,7,6,"early, fast","はや.い, はや, はや-, はや.まる, はや.める, さ-","ソウ, サッ",日,sun,"haya.i, haya, haya-, haya.maru, haya.meru, sa-","sou, sa"
+澄,2,15,"lucidity, be clear, clear, clarify, settle, strain, look grave","す.む, す.ます, -す.ます",チョウ,水,water,"su.mu, su.masu, -su.masu",chou
+果,10,8,"fruit, reward, carry out, achieve, complete, end, finish, succeed","は.たす, はた.す, -は.たす, は.てる, -は.てる, は.て",カ,木,tree,"ha.tasu, hata.su, -ha.tasu, ha.teru, -ha.teru, ha.te",ka
+正,24,5,"correct, justice, righteous, 10**40","ただ.しい, ただ.す, まさ, まさ.に","セイ, ショウ",止,stop,"tada.shii, tada.su, masa, masa.ni","sei, shou"
+策,4,12,"scheme, plan, policy, step, means",None,サク,竹,bamboo,None,saku
+誠,3,13,"sincerity, admonish, warn, prohibit, truth, fidelity",まこと,セイ,言,speech,makoto,sei
+熟,3,15,"mellow, ripen, mature, acquire skill",う.れる,ジュク,火,fire,u.reru,juku
+青,7,8,"blue, green","あお, あお-, あお.い","セイ, ショウ",青,blue,"ao, ao-, ao.i","sei, shou"
+春,2,9,"springtime, spring (season)",はる,シュン,日,sun,haru,shun
+純,4,10,"genuine, purity, innocence, net (profit)",None,ジュン,糸,silk,None,jun
+常,9,11,"usual, ordinary, normal, common, regular, continually, always, long-lasting","つね, とこ-",ジョウ,巾,turban,"tsune, toko-",jou
+盛,9,11,"boom, prosper, copulate","も.る, さか.る, さか.ん","セイ, ジョウ",皿,dish,"mo.ru, saka.ru, saka.n","sei, jou"
+濁,2,16,"voiced, uncleanness, wrong, nigori, impurity","にご.る, にご.す","ダク, ジョク",水,water,"nigo.ru, nigo.su","daku, joku"
+製,7,14,"made in..., manufacture",None,セイ,衣,clothes,None,sei
+鉄,9,13,iron,くろがね,テツ,金,metal,kurogane,tetsu
+晴,6,12,clear up,"は.れる, は.れ, は.れ-, -ば.れ, は.らす",セイ,日,sun,"ha.reru, ha.re, ha.re-, -ba.re, ha.rasu",sei
+征,1,8,"subjugate, attack the rebellious, collect taxes",None,セイ,彳,step,None,sei
+精,5,14,"refined, ghost, fairy, energy, vitality, semen, excellence, purity, skill","しら.げる, くわ.しい","セイ, ショウ",米,rice,"shira.geru, kuwa.shii","sei, shou"
+伜,1,6,"son, my son",せがれ,"サイ, ソツ, ソチ",人,man,segare,"sai, sotsu, sochi"
+責,3,11,"blame, condemn, censure",せ.める,セキ,貝,shell,se.meru,seki
+是,2,9,"just so, this, right, justice","これ, この, ここ","ゼ, シ",日,sun,"kore, kono, koko","ze, shi"
+接,12,11,"touch, contact, adjoin, piece together",つ.ぐ,"セツ, ショウ",手,hand,tsu.gu,"setsu, shou"
+衷,1,9,"inmost, heart, mind, inside",None,チュウ,衣,clothes,None,chuu
+攻,5,7,"aggression, attack, criticize, polish",せ.める,コウ,攴,rap,se.meru,kou
+先,23,6,"before, ahead, previous, future, precedence","さき, ま.ず",セン,儿,legs,"saki, ma.zu",sen
+維,2,14,"fiber, tie, rope",None,イ,糸,silk,None,i
+宣,4,9,"proclaim, say, announce",のたま.う,セン,宀,roof,notama.u,sen
+専,6,9,"specialty, exclusive, mainly, solely",もっぱ.ら,セン,寸,thumb,moppa.ra,sen
+術,7,11,"art, technique, skill, means, trick, resources, magic",すべ,ジュツ,行,go,sube,jutsu
+潜,3,15,"submerge, conceal, hide, lower (voice), hush","ひそ.む, もぐ.る, かく.れる, くぐ.る, ひそ.める",セン,水,water,"hiso.mu, mogu.ru, kaku.reru, kugu.ru, hiso.meru",sen
+提,6,12,"propose, take along, carry in hand",さ.げる,"テイ, チョウ, ダイ",手,hand,sa.geru,"tei, chou, dai"
+闘,2,18,"fight, war","たたか.う, あらそ.う",トウ,門,gate,"tataka.u, araso.u",tou
+舶,1,11,"liner, ship",None,ハク,舟,boat,None,haku
+滅,6,13,"destroy, ruin, overthrow, perish","ほろ.びる, ほろ.ぶ, ほろ.ぼす",メツ,水,water,"horo.biru, horo.bu, horo.bosu",metsu
+領,10,14,"jurisdiction, dominion, territory, fief, reign",えり,リョウ,頁,leaf,eri,ryou
+総,4,14,"general, whole, all, full, total","す.べて, すべ.て, ふさ",ソウ,糸,silk,"su.bete, sube.te, fusa",sou
+刊,5,5,"publish, carve, engrave",None,カン,刀,knife,None,kan
+増,10,14,"increase, add, augment, gain, promote","ま.す, ま.し, ふ.える, ふ.やす",ゾウ,土,earth,"ma.su, ma.shi, fu.eru, fu.yasu",zou
+捜,3,10,"search, look for, locate",さが.す,"ソウ, シュ, シュウ",手,hand,saga.su,"sou, shu, shuu"
+索,3,10,"cord, rope, searching, inquiring",None,サク,糸,silk,None,saku
+対,21,7,"vis-a-vis, opposite, even, equal, versus, anti-, compare","あいて, こた.える, そろ.い, つれあ.い, なら.ぶ, むか.う","タイ, ツイ",寸,thumb,"aite, kota.eru, soro.i, tsurea.i, nara.bu, muka.u","tai, tsui"
+壮,1,6,"robust, manhood, prosperity",さかん,ソウ,士,scholar,sakan,sou
+騒,7,18,"boisterous, make noise, clamor, disturb, excite","さわ.ぐ, うれい, さわ.がしい",ソウ,馬,horse,"sawa.gu, urei, sawa.gashii",sou
+遭,2,14,"encounter, meet, party, association, interview, join","あ.う, あ.わせる",ソウ,辵,walk,"a.u, a.waseru",sou
+難,11,18,"difficult, impossible, trouble, accident, defect","かた.い, -がた.い, むずか.しい, むづか.しい, むつか.しい, -にく.い",ナン,隹,small,"kata.i, -gata.i, muzuka.shii, muzuka.shii, mutsuka.shii, -niku.i",nan
+添,2,11,"annexed, accompany, marry, suit, meet, satisfy, attach, append, garnish, imitate","そ.える, そ.う",テン,水,water,"so.eru, so.u",ten
+即,2,7,"instant, namely, as is, conform, agree, adapt","つ.く, つ.ける, すなわ.ち",ソク,卩,kneel,"tsu.ku, tsu.keru, sunawa.chi",soku
+縛,2,16,"truss, arrest, bind, tie, restrain",しば.る,バク,糸,silk,shiba.ru,baku
+損,6,13,"damage, loss, disadvantage, hurt, injure","そこ.なう, そこな.う, -そこ.なう, そこ.ねる, -そこ.ねる",ソン,手,hand,"soko.nau, sokona.u, -soko.nau, soko.neru, -soko.neru",son
+阻,2,8,"thwart, separate from, prevent, obstruct, deter, impede",はば.む,ソ,dam,mound,haba.mu,so
+訟,1,11,"sue, accuse",None,ショウ,言,speech,None,shou
+措,1,11,"set aside, give up, suspend, discontinue, lay aside, except",お.く,ソ,手,hand,o.ku,so
+聳,1,17,"rise, tower",そび.える,ショウ,耳,ear,sobi.eru,shou
+朴,1,6,"crude, simple, plain, docile","ほう, ほお, えのき",ボク,木,tree,"hou, hoo, enoki",boku
+反,17,4,anti-,"そ.る, そ.らす, かえ.す, かえ.る, -かえ.る","ハン, ホン, タン, ホ",又,right,"so.ru, so.rasu, kae.su, kae.ru, -kae.ru","han, hon, tan, ho"
+揃,4,12,"be complete, uniform, all present","そろ.える, そろ.う, そろ.い, き.る",セン,手,hand,"soro.eru, soro.u, soro.i, ki.ru",sen
+失,12,5,"lose, error, fault, disadvantage, loss","うしな.う, う.せる",シツ,大,big,"ushina.u, u.seru",shitsu
+待,12,9,"wait, depend on","ま.つ, -ま.ち",タイ,彳,step,"ma.tsu, -ma.chi",tai
+験,5,18,"verification, effect, testing","あかし, しるし, ため.す, ためし","ケン, ゲン",馬,horse,"akashi, shirushi, tame.su, tameshi","ken, gen"
+態,5,14,"attitude, condition, figure, appearance, voice (of verbs)",わざ.と,タイ,心,heart,waza.to,tai
+胆,1,9,"gall bladder, courage, pluck, nerve",きも,タン,肉,meat,kimo,tan
+比,7,4,"compare, race, ratio, Philippines",くら.べる,ヒ,比,compare,kura.beru,hi
+便,12,9,"convenience, facility, excrement, feces, letter, chance",たよ.り,"ベン, ビン",人,man,tayo.ri,"ben, bin"
+怠,3,9,"neglect, laziness","おこた.る, なま.ける",タイ,心,heart,"okota.ru, nama.keru",tai
+慢,3,14,"ridicule, laziness",None,マン,心,heart,None,man
+話,16,13,"tale, talk","はな.す, はなし",ワ,言,speech,"hana.su, hanashi",wa
+耐,1,9,"-proof, enduring",た.える,タイ,而,beard,ta.eru,tai
+堪,2,12,"withstand, endure, support, resist","た.える, たま.る, こら.える, こた.える","カン, タン",土,earth,"ta.eru, tama.ru, kora.eru, kota.eru","kan, tan"
+焚,2,12,"burn, kindle, build a fire, boil, cook","た.く, や.く, やきがり","フン, ホン, ハン",火,fire,"ta.ku, ya.ku, yakigari","fun, hon, han"
+妥,3,7,"gentle, peace, satisfactory, appropriate",None,ダ,女,woman,None,da
+駄,4,14,"burdensome, pack horse, horse load, send by horse, trivial, worthless",None,"ダ, タ",馬,horse,None,"da, ta"
+携,3,13,"portable, carry (in hand), armed with, bring along","たずさ.える, たずさ.わる",ケイ,手,hand,"tazusa.eru, tazusa.waru",kei
+漂,1,14,"drift, float (on liquid)",ただよ.う,ヒョウ,水,water,tadayo.u,hyou
+脱,5,11,"undress, removing, escape from, get rid of, be left out, take off","ぬ.ぐ, ぬ.げる",ダツ,肉,meat,"nu.gu, nu.geru",datsu
+奉,2,8,"observance, offer, present, dedicate","たてまつ.る, まつ.る, ほう.ずる","ホウ, ブ",大,big,"tatematsu.ru, matsu.ru, hou.zuru","hou, bu"
+他,6,5,"other, another, the others",ほか,タ,人,man,hoka,ta
+辿,2,6,"follow (road), pursue","たど.る, たどり",テン,辵,walk,"tado.ru, tadori",ten
+忙,2,6,"busy, occupied, restless","いそが.しい, せわ.しい, おそ.れる, うれえるさま","ボウ, モウ",心,heart,"isoga.shii, sewa.shii, oso.reru, ureerusama","bou, mou"
+魂,1,14,"soul, spirit","たましい, たま",コン,鬼,ghost,"tamashii, tama",kon
+賜,1,15,"grant, gift, boon, results","たまわ.る, たま.う, たも.う",シ,貝,shell,"tamawa.ru, tama.u, tamo.u",shi
+弛,2,6,"slacken, relax","たる.む, たる.める, たゆ.む, ゆる.む, ゆる.み","チ, シ",弓,bow,"taru.mu, taru.meru, tayu.mu, yuru.mu, yuru.mi","chi, shi"
+垂,2,8,"droop, suspend, hang, slouch","た.れる, た.らす, た.れ, -た.れ, なんなんと.す",スイ,土,earth,"ta.reru, ta.rasu, ta.re, -ta.re, nannanto.su",sui
+単,10,9,"simple, one, single, merely",ひとえ,タン,十,ten,hitoe,tan
+短,11,12,"short, brevity, fault, defect, weak point",みじか.い,タン,矢,arrow,mijika.i,tan
+歌,7,14,"song, sing","うた, うた.う",カ,欠,lack,"uta, uta.u",ka
+架,2,9,"erect, frame, mount, support, shelf, construct","か.ける, か.かる",カ,木,tree,"ka.keru, ka.karu",ka
+探,3,11,"grope, search, look for","さぐ.る, さが.す",タン,手,hand,"sagu.ru, saga.su",tan
+縮,8,17,"shrink, contract, shrivel, wrinkle, reduce","ちぢ.む, ちぢ.まる, ちぢ.める, ちぢ.れる, ちぢ.らす",シュク,糸,silk,"chizi.mu, chizi.maru, chizi.meru, chizi.reru, chizi.rasu",shuku
+炭,3,9,"charcoal, coal",すみ,タン,火,fire,sumi,tan
+旦,2,5,"daybreak, dawn, morning","あき.らか, あきら, ただし, あさ, あした","タン, ダン",日,sun,"aki.raka, akira, tadashi, asa, ashita","tan, dan"
+那,1,7,what?,"なに, なんぞ, いかん","ナ, ダ",town,town,"nani, nanzo, ikan","na, da"
+波,4,8,"waves, billows, Poland",なみ,ハ,水,water,nami,ha
+蛋,1,11,"barbarian, egg",None,タン,虫,insect,None,tan
+弾,6,12,"bullet, twang, flip, snap","ひ.く, -ひ.き, はず.む, たま, はじ.く, はじ.ける, ただ.す, はじ.きゆみ","ダン, タン",弓,bow,"hi.ku, -hi.ki, hazu.mu, tama, haji.ku, haji.keru, tada.su, haji.kiyumi","dan, tan"
+蓄,3,13,"amass, raise, hoard, store",たくわ.える,チク,艸,grass,takuwa.eru,chiku
+積,9,16,"volume, product (x*y), acreage, contents, pile up, stack, load, amass","つ.む, -づ.み, つ.もる, つ.もり",セキ,禾,grain,"tsu.mu, -zu.mi, tsu.moru, tsu.mori",seki
+乳,2,8,"milk, breasts","ちち, ち",ニュウ,乛,second,"chichi, chi",nyuu
+秩,1,10,"regularity, salary, order",None,チツ,禾,grain,None,chitsu
+序,2,7,"preface, beginning, order, precedence, occasion, chance, incidentally","つい.で, ついで",ジョ,广,house,"tsui.de, tsuide",jo
+窒,1,11,"plug up, obstruct",None,チツ,穴,cave,None,chitsu
+席,7,10,"seat, mat, occasion, place",むしろ,セキ,巾,turban,mushiro,seki
+宙,2,8,"mid-air, air, space, sky, memorization, interval of time",None,チュウ,宀,roof,None,chuu
+忠,1,8,"loyalty, fidelity, faithfulness",None,チュウ,心,heart,None,chuu
+枢,1,8,"hinge, pivot, door, center of things","とぼそ, からくり","スウ, シュ",木,tree,"toboso, karakuri","suu, shu"
+抽,2,8,"pluck, pull, extract, excel",ひき-,チュウ,手,hand,hiki-,chuu
+毒,5,8,"poison, virus, venom, germ, harm, injury, spite",None,ドク,毋,mother,None,doku
+腸,1,13,"intestines, guts, bowels, viscera","はらわた, わた",チョウ,肉,meat,"harawata, wata",chou
+蝶,1,15,butterfly,None,チョウ,虫,insect,None,chou
+超,4,12,"transcend, super-, ultra-","こ.える, こ.す",チョウ,走,run,"ko.eru, ko.su",chou
+聴,3,17,"listen, headstrong, naughty, careful inquiry","き.く, ゆる.す","チョウ, テイ",耳,ear,"ki.ku, yuru.su","chou, tei"
+官,5,8,"bureaucrat, the government, organ",None,カン,宀,roof,None,kan
+停,7,11,"halt, stopping","と.める, と.まる",テイ,人,man,"to.meru, to.maru",tei
+複,6,14,"duplicate, double, compound, multiple",None,フク,衣,clothes,None,fuku
+編,5,15,"compilation, knit, plait, braid, twist, editing, completed poem, part of a book","あ.む, -あ.み",ヘン,糸,silk,"a.mu, -a.mi",hen
+宝,3,8,"treasure, wealth, valuables",たから,ホウ,宀,roof,takara,hou
+直,23,8,"straightaway, honesty, frankness, fix, repair","ただ.ちに, なお.す, -なお.す, なお.る, なお.き, す.ぐ","チョク, ジキ, ジカ",目,eye,"tada.chini, nao.su, -nao.su, nao.ru, nao.ki, su.gu","choku, jiki, jika"
+貯,3,12,"savings, store, lay in, keep, wear mustache","た.める, たくわ.える",チョ,貝,shell,"ta.meru, takuwa.eru",cho
+塵,5,14,"dust, trash, garbage","ちり, ごみ","チン, ジン",土,earth,"chiri, gomi","chin, jin"
+没,3,7,"drown, sink, hide, fall into, disappear, die","おぼ.れる, しず.む, ない","ボツ, モツ",水,water,"obo.reru, shizu.mu, nai","botsu, motsu"
+黙,2,15,"silence, become silent, stop speaking, leave as is","だま.る, もだ.す","モク, ボク",黑,black,"dama.ru, moda.su","moku, boku"
+陳,1,11,"exhibit, state, relate, explain",ひ.ねる,チン,dam,mound,hi.neru,chin
+放,13,8,"set free, release, fire, shoot, emit, banish, liberate","はな.す, -っぱな.し, はな.つ, はな.れる, こ.く, ほう.る",ホウ,攴,rap,"hana.su, -ppana.shi, hana.tsu, hana.reru, ko.ku, hou.ru",hou
+墜,1,15,"crash, fall (down)","お.ちる, お.つ",ツイ,土,earth,"o.chiru, o.tsu",tsui
+痛,6,12,"pain, hurt, damage, bruise","いた.い, いた.む, いた.ましい, いた.める",ツウ,疒,sickness,"ita.i, ita.mu, ita.mashii, ita.meru",tsuu
+杖,1,7,"staff, cane",つえ,ジョウ,木,tree,tsue,jou
+司,4,5,"director, official, govt office, rule, administer",つかさど.る,シ,口,mouth,tsukasado.ru,shi
+尽,2,6,"exhaust, use up, run out of, deplete, befriend, serve","つ.きる, つ.くす, つ.かす, -づ.く, -ず.く, ことごと.く","ジン, サン",尸,corpse,"tsu.kiru, tsu.kusu, tsu.kasu, -zu.ku, -zu.ku, kotogoto.ku","jin, san"
+繕,2,18,"darning, repair, mend, trim, tidy up, adjust",つくろ.う,ゼン,糸,silk,tsukuro.u,zen
+筒,3,12,"cylinder, pipe, tube, gun barrel, sleeve",つつ,トウ,竹,bamboo,tsutsu,tou
+謹,1,17,"discreet, reverently, humbly",つつし.む,キン,言,speech,tsutsushi.mu,kin
+努,3,7,"toil, diligent, as much as possible",つと.める,ド,力,power,tsuto.meru,do
+津,1,9,"haven, port, harbor, ferry",つ,シン,水,water,tsu,shin
+角,13,7,"angle, corner, square, horn, antlers","かど, つの",カク,角,horn,"kado, tsuno",kaku
+唾,1,11,"saliva, sputum","つば, つばき","ダ, タ",口,mouth,"tsuba, tsubaki","da, ta"
+呟,1,8,"mutter, grumble, murmur",つぶや.く,ゲン,口,mouth,tsubuya.ku,gen
+壷,1,11,"jar, pot, hinge knuckle, one's aim",つぼ,コ,士,scholar,tsubo,ko
+蕾,1,16,"bud (plants, mushrooms not yet opened)",つぼみ,ライ,艸,grass,tsubomi,rai
+釣,4,11,"angling, fish, catch, allure, ensnare","つ.る, つ.り, つ.り-",チョウ,金,metal,"tsu.ru, tsu.ri, tsu.ri-",chou
+鐘,3,20,"bell, gong, chimes",かね,ショウ,金,metal,kane,shou
+吊,3,6,"suspend, hang, wear (sword)","つ.る, つる.す",チョウ,口,mouth,"tsu.ru, tsuru.su",chou
+邸,1,8,"residence, mansion",やしき,テイ,town,town,yashiki,tei
+宅,7,6,"home, house, residence, our house, my husband",None,タク,宀,roof,None,taku
+堤,1,12,"dike, bank, embankment",つつみ,テイ,土,earth,tsutsumi,tei
+適,10,14,"suitable, occasional, rare, qualified, capable",かな.う,テキ,辵,walk,kana.u,teki
+宜,2,8,"best regards, good","よろ.しい, よろ.しく",ギ,宀,roof,"yoro.shii, yoro.shiku",gi
+際,5,14,"occasion, side, edge, verge, dangerous, adventurous, indecent, time, when","きわ, -ぎわ",サイ,dam,mound,"kiwa, -giwa",sai
+順,8,12,"obey, order, turn, right, docility, occasion",None,ジュン,頁,leaf,None,jun
+錠,1,16,"lock, fetters, shackles",None,ジョウ,金,metal,None,jou
+鋼,1,16,steel,はがね,コウ,金,metal,hagane,kou
+徹,3,15,"penetrate, clear, pierce, strike home, sit up (all night)",None,テツ,彳,step,None,tetsu
+棒,3,12,"rod, stick, cane, pole, club, line",None,ボウ,木,tree,None,bou
+掌,2,12,"palm of hand, rule, administer, conduct","てのひら, たなごころ",ショウ,手,hand,"tenohira, tanagokoro",shou
+筈,1,12,"notch of an arrow, ought, must, should be, expected","はず, やはず",カツ,竹,bamboo,"hazu, yahazu",katsu
+園,7,13,"park, garden, yard, farm",その,エン,囗,enclosure,sono,en
+邦,1,7,"home country, country, Japan",くに,ホウ,town,town,kuni,hou
+朗,4,10,"melodious, clear, bright, serene, cheerful","ほが.らか, あき.らか",ロウ,月,moon,"hoga.raka, aki.raka",rou
+浪,1,10,"wandering, waves, billows, reckless, unrestrained",None,ロウ,水,water,None,rou
+露,3,21,"dew, tears, expose, Russia",つゆ,"ロ, ロウ",雨,rain,tsuyu,"ro, rou"
+煩,1,13,"anxiety, trouble, worry, pain, ill, annoy, nuisance, irksome","わずら.う, わずら.わす, うるさ.がる, うるさ.い","ハン, ボン",火,fire,"wazura.u, wazura.wasu, urusa.garu, urusa.i","han, bon"
+渡,5,12,"transit, ford, ferry, cross, import, deliver, diameter, migrate","わた.る, -わた.る, わた.す",ト,水,water,"wata.ru, -wata.ru, wata.su",to
+詫,2,13,apologize,"わび, わび.しい, かこつ, わ.びる, わび.る",タ,言,speech,"wabi, wabi.shii, kakotsu, wa.biru, wabi.ru",ta
+藁,1,17,straw,わら,コウ,艸,grass,wara,kou
+割,12,12,"proportion, comparatively, divide, cut, separate, split","わ.る, わり, わ.り, わ.れる, さ.く",カツ,刀,knife,"wa.ru, wari, wa.ri, wa.reru, sa.ku",katsu
+捗,1,10,make progress,はかど.る,"チョク, ホ",手,hand,hakado.ru,"choku, ho"
+剥,5,10,"come off, peel, fade, discolor","へ.ぐ, へず.る, む.く, む.ける, は.がれる, は.ぐ, は.げる, は.がす","ハク, ホク",刀,knife,"he.gu, hezu.ru, mu.ku, mu.keru, ha.gareru, ha.gu, ha.geru, ha.gasu","haku, hoku"
+薄,4,16,"dilute, thin, weak (tea), pampas grass","うす.い, うす-, -うす, うす.める, うす.まる, うす.らぐ, うす.ら-, うす.れる, すすき",ハク,艸,grass,"usu.i, usu-, -usu, usu.meru, usu.maru, usu.ragu, usu.ra-, usu.reru, susuki",haku
+弱,8,10,"weak, frail","よわ.い, よわ.る, よわ.まる, よわ.める",ジャク,弓,bow,"yowa.i, yowa.ru, yowa.maru, yowa.meru",jaku
+状,5,7,"status quo, conditions, circumstances, form, appearance",None,ジョウ,犬,dog,None,jou
+漠,2,13,"vague, obscure, desert, wide",None,バク,水,water,None,baku
+暴,6,15,"outburst, rave, fret, force, violence, cruelty, outrage","あば.く, あば.れる","ボウ, バク",日,sun,"aba.ku, aba.reru","bou, baku"
+遣,6,13,"dispatch, despatch, send, give, donate, do, undertake","つか.う, -つか.い, -づか.い, つか.わす, や.る",ケン,辵,walk,"tsuka.u, -tsuka.i, -zuka.i, tsuka.wasu, ya.ru",ken
+恥,4,10,"shame, dishonor","は.じる, はじ, は.じらう, は.ずかしい",チ,心,heart,"ha.jiru, haji, ha.jirau, ha.zukashii",chi
+叩,2,5,"strike, beat, kow tow, hit, thrash, criticize","たた.く, はた.く, すぎ",コウ,口,mouth,"tata.ku, hata.ku, sugi",kou
+裸,2,13,"naked, nude, uncovered, partially clothed",はだか,ラ,衣,clothes,hadaka,ra
+蜂,1,13,"bee, wasp, hornet",はち,ホウ,虫,insect,hachi,hou
+蜜,1,14,"honey, nectar, molasses",None,"ミツ, ビツ",虫,insect,None,"mitsu, bitsu"
+芽,2,8,"bud, sprout, spear, germ",め,ガ,艸,grass,me,ga
+躾,2,16,"training, (kokuji)","しつ.ける, しつけ",None,身,body,"shitsu.keru, shitsuke",None
+践,1,13,"tread, step on, trample, practice, carry through",ふ.む,セン,足,foot,fu.mu,sen
+嫉,1,13,"jealous, envy","そね.む, ねた.む, にく.む",シツ,女,woman,"sone.mu, neta.mu, niku.mu",shitsu
+摘,2,14,"pinch, pick, pluck, trim, clip, summarize",つ.む,テキ,手,hand,tsu.mu,teki
+淑,1,11,"graceful, gentle, pure",しと.やか,シュク,水,water,shito.yaka,shuku
+萎,2,11,"wither, droop, lame","な, しお.れる, しな.びる, しぼ.む, な.える",イ,艸,grass,"na, shio.reru, shina.biru, shibo.mu, na.eru",i
+屎,1,9,"shit, excrement",くそ,"シ, キ",尸,corpse,kuso,"shi, ki"
+凌,1,10,"endure, keep (rain)out, stave off, tide over, defy, slight, surpass",しの.ぐ,リョウ,冫,ice,shino.gu,ryou
+芝,3,6,"turf, lawn",しば,シ,艸,grass,shiba,shi
+始,12,8,"commence, begin","はじ.める, -はじ.める, はじ.まる",シ,女,woman,"haji.meru, -haji.meru, haji.maru",shi
+耳,3,6,ear,みみ,ジ,耳,ear,mimi,ji
+鼻,2,14,"nose, snout",はな,ビ,鼻,nose,hana,bi
+私,7,7,"private, I, me","わたくし, わたし",シ,禾,grain,"watakushi, watashi",shi
+野,9,11,"plains, field, rustic, civilian life","の, の-","ヤ, ショ",里,village,"no, no-","ya, sho"
+社,13,7,"company, firm, office, association, shrine",やしろ,シャ,示,sign,yashiro,sha
+若,3,8,"young, if, perhaps, possibly, low number, immature","わか.い, わか-, も.しくわ, も.し, も.しくは, ごと.し","ジャク, ニャク, ニャ",艸,grass,"waka.i, waka-, mo.shikuwa, mo.shi, mo.shikuha, goto.shi","jaku, nyaku, nya"
+三,7,3,three,"み, み.つ, みっ.つ","サン, ゾウ",一,one,"mi, mi.tsu, mi.tsu","san, zou"
+砂,4,9,sand,すな,"サ, シャ",石,stone,suna,"sa, sha"
+洒,3,9,"wash, sprinkle","すす.ぐ, あら.う","シャ, ソン, サイ, セン, セイ",水,water,"susu.gu, ara.u","sha, son, sai, sen, sei"
+宗,2,8,"religion, sect, denomination, main point, origin, essence",むね,"シュウ, ソウ",宀,roof,mune,"shuu, sou"
+益,3,10,"benefit, gain, profit, advantage",ま.す,"エキ, ヤク",皿,dish,ma.su,"eki, yaku"
+周,5,8,"circumference, circuit, lap",まわ.り,シュウ,口,mouth,mawa.ri,shuu
+就,4,12,"concerning, settle, take position, depart, study, per","つ.く, つ.ける","シュウ, ジュ",尢,lame,"tsu.ku, tsu.keru","shuu, ju"
+従,6,10,"accompany, obey, submit to, comply, follow, secondary, incidental, subordinate","したが.う, したが.える, より","ジュウ, ショウ, ジュ",彳,step,"shitaga.u, shitaga.eru, yori","juu, shou, ju"
+終,9,11,"end, finish","お.わる, -お.わる, おわ.る, お.える, つい, つい.に",シュウ,糸,silk,"o.waru, -o.waru, owa.ru, o.eru, tsui, tsui.ni",shuu
+充,3,6,"allot, fill","あ.てる, み.たす",ジュウ,儿,legs,"a.teru, mi.tasu",juu
+十,8,2,ten,"とお, と, そ","ジュウ, ジッ, ジュッ",十,ten,"too, to, so","juu, ji, ju"
+執,3,11,"tenacious, take hold, grasp, take to heart",と.る,"シツ, シュウ",土,earth,to.ru,"shitsu, shuu"
+柔,3,9,"tender, weakness, gentleness, softness","やわ.らか, やわ.らかい, やわ, やわ.ら","ジュウ, ニュウ",木,tree,"yawa.raka, yawa.rakai, yawa, yawa.ra","juu, nyuu"
+軟,2,11,soft,"やわ.らか, やわ.らかい",ナン,車,cart,"yawa.raka, yawa.rakai",nan
+塾,1,14,"cram school, private school",None,ジュク,土,earth,None,juku
+祝,5,9,"celebrate, congratulate",いわ.う,"シュク, シュウ",示,sign,iwa.u,"shuku, shuu"
+宿,6,11,"inn, lodging, relay station, dwell, lodge, be pregnant, home, dwelling","やど, やど.る, やど.す",シュク,宀,roof,"yado, yado.ru, yado.su",shuku
+旨,2,6,"delicious, relish, show a liking for, purport, will, clever, expert","むね, うま.い",シ,日,sun,"mune, uma.i",shi
+昼,8,9,"daytime, noon",ひる,チュウ,日,sun,hiru,chuu
+飯,7,12,"meal, boiled rice",めし,ハン,食,eat,meshi,han
+疲,3,10,"exhausted, tire, weary","つか.れる, -づか.れ, つか.らす",ヒ,疒,sickness,"tsuka.reru, -zuka.re, tsuka.rasu",hi
+敏,1,10,"cleverness, agile, alert",さとい,ビン,攴,rap,satoi,bin
+貧,4,11,"poverty, poor",まず.しい,"ヒン, ビン",貝,shell,mazu.shii,"hin, bin"
+困,3,7,"quandary, become distressed, annoyed",こま.る,コン,囗,enclosure,koma.ru,kon
+頻,1,17,"repeatedly, recur",しき.りに,ヒン,頁,leaf,shiki.rini,hin
+繁,4,16,"luxuriant, thick, overgrown, frequency, complexity, trouble","しげ.る, しげ.く",ハン,糸,silk,"shige.ru, shige.ku",han
+不,34,4,"negative, non-, bad, ugly, clumsy",None,"フ, ブ",一,one,None,"fu, bu"
+鎖,3,18,"chain, irons, connection","くさり, とざ.す",サ,金,metal,"kusari, toza.su",sa
+車,19,7,car,くるま,シャ,車,cart,kuruma,sha
+俗,2,9,"vulgar, customs, manners, worldliness, mundane things",None,ゾク,人,man,None,zoku
+可,10,5,"can, passable, approval","-べ.き, -べ.し","カ, コク",口,mouth,"-be.ki, -be.shi","ka, koku"
+吉,1,6,"good luck, joy, congratulations",よし,"キチ, キツ",口,mouth,yoshi,"kichi, kitsu"
+巾,2,3,"towel, hanging scroll, width, cloth radical (no. 50)","おお.い, ちきり, きれ","キン, フク",巾,turban,"oo.i, chikiri, kire","kin, fuku"
+福,3,13,"blessing, fortune, luck, wealth",None,フク,示,sign,None,fuku
+祉,1,8,"welfare, happiness",None,シ,示,sign,None,shi
+膨,5,16,"swell, get fat, thick","ふく.らむ, ふく.れる",ボウ,肉,meat,"fuku.ramu, fuku.reru",bou
+耽,1,10,"addicted, absorbed in",ふけ.る,タン,耳,ear,fuke.ru,tan
+豪,2,14,"overpowering, great, powerful, excelling, Australia",えら.い,ゴウ,豕,pig,era.i,gou
+負,9,9,"defeat, negative, -, minus, bear, owe, assume a responsibility","ま.ける, ま.かす, お.う",フ,貝,shell,"ma.keru, ma.kasu, o.u",fu
+債,1,13,"bond, loan, debt",None,サイ,人,man,None,sai
+侮,1,8,"scorn, despise, make light of, contempt","あなど.る, あなず.る",ブ,人,man,"anado.ru, anazu.ru",bu
+辱,1,10,"embarrass, humiliate, shame",はずかし.める,ジョク,辰,morning,hazukashi.meru,joku
+武,4,8,"warrior, military, chivalry, arms","たけ, たけ.し","ブ, ム",止,stop,"take, take.shi","bu, mu"
+復,6,12,"restore, return to, revert, resume",また,フク,彳,step,mata,fuku
+仏,2,4,"Buddha, the dead, France",ほとけ,"ブツ, フツ",人,man,hotoke,"butsu, futsu"
+沸,3,8,"seethe, boil, ferment, uproar, breed","わ.く, わ.かす",フツ,水,water,"wa.ku, wa.kasu",futsu
+騰,1,20,"leaping up, jumping up, rising, advancing, going","あが.る, のぼ.る",トウ,馬,horse,"aga.ru, nobo.ru",tou
+腐,2,14,"rot, decay, sour","くさ.る, -くさ.る, くさ.れる, くさ.れ, くさ.らす, くさ.す",フ,肉,meat,"kusa.ru, -kusa.ru, kusa.reru, kusa.re, kusa.rasu, kusa.su",fu
+普,4,12,"universal, wide(ly), generally, Prussia","あまね.く, あまねし",フ,日,sun,"amane.ku, amaneshi",fu
+遍,2,12,"everywhere, times, widely, generally",あまね.く,ヘン,辵,walk,amane.ku,hen
+踏,4,15,"step, trample, carry through, appraise, evade payment","ふ.む, ふ.まえる",トウ,足,foot,"fu.mu, fu.maeru",tou
+門,4,8,"gate, counter for cannons","かど, と",モン,門,gate,"kado, to",mon
+扶,1,7,"aid, help, assist",たす.ける,フ,手,hand,tasu.keru,fu
+養,8,15,"foster, bring up, rear, develop, nurture",やしな.う,"ヨウ, リョウ",食,eat,yashina.u,"you, ryou"
+震,3,15,"quake, shake, tremble, quiver, shiver","ふる.う, ふる.える, ふる.わせる, ふる.わす",シン,雨,rain,"furu.u, furu.eru, furu.waseru, furu.wasu",shin
+礼,5,5,"salute, bow, ceremony, thanks, remuneration",None,"レイ, ライ",示,sign,None,"rei, rai"
+憤,1,15,"aroused, resent, be indignant, anger",いきどお.る,フン,心,heart,ikidoo.ru,fun
+慨,1,13,"rue, be sad, sigh, lament",なげ.く,ガイ,心,heart,nage.ku,gai
+紛,4,10,"distract, be mistaken for, go astray, divert","まぎ.れる, -まぎ.れ, まぎ.らす, まぎ.らわす, まぎ.らわしい",フン,糸,silk,"magi.reru, -magi.re, magi.rasu, magi.rawasu, magi.rawashii",fun
+噴,3,15,"erupt, spout, emit, flush out",ふ.く,フン,口,mouth,fu.ku,fun
+奮,2,16,"stirred up, be invigorated, flourish",ふる.う,フン,大,big,furu.u,fun
+母,13,5,mother,"はは, も",ボ,毋,mother,"haha, mo",bo
+離,4,19,"detach, separation, disjoin, digress","はな.れる, はな.す",リ,隹,small,"hana.reru, hana.su",ri
+裂,4,12,"split, rend, tear","さ.く, さ.ける, -ぎ.れ",レツ,衣,clothes,"sa.ku, sa.keru, -gi.re",retsu
+兵,3,7,"soldier, private, troops, army, warfare, strategy, tactics",つわもの,"ヘイ, ヒョウ",八,eight,tsuwamono,"hei, hyou"
+閉,6,11,"closed, shut","と.じる, と.ざす, し.める, し.まる, た.てる",ヘイ,門,gate,"to.jiru, to.zasu, shi.meru, shi.maru, ta.teru",hei
+平,17,5,"even, flat, peace","たい.ら, たい.らげる, ひら","ヘイ, ビョウ, ヒョウ",干,pestle,"tai.ra, tai.rageru, hira","hei, byou, hyou"
+辟,1,13,"false, punish, crime, law","きみ, ひら.く, め.す","ヘキ, ヒ",辛,bitter,"kimi, hira.ku, me.su","heki, hi"
+偏,1,11,"partial, side, left-side radical, inclining, biased",かたよ.る,ヘン,人,man,katayo.ru,hen
+遷,1,15,"transition, move, change","うつ.る, うつ.す, みやこがえ",セン,辵,walk,"utsu.ru, utsu.su, miyakogae",sen
+答,7,12,"solution, answer","こた.える, こた.え",トウ,竹,bamboo,"kota.eru, kota.e",tou
+穂,1,15,"ear, ear (grain), head, crest (wave)",ほ,スイ,禾,grain,ho,sui
+妨,2,7,"disturb, prevent, hamper, obstruct",さまた.げる,ボウ,女,woman,samata.geru,bou
+豊,3,13,"bountiful, excellent, rich","ゆた.か, とよ","ホウ, ブ",豆,bean,"yuta.ka, toyo","hou, bu"
+射,7,10,"shoot, shine into, onto, archery","い.る, さ.す, う.つ",シャ,寸,thumb,"i.ru, sa.su, u.tsu",sha
+報,9,12,"report, news, reward, retribution",むく.いる,ホウ,土,earth,muku.iru,hou
+酬,1,13,"repay, reward, retribution",むく.いる,"シュウ, シュ, トウ",酉,wine,muku.iru,"shuu, shu, tou"
+紡,1,10,spinning,つむ.ぐ,ボウ,糸,silk,tsumu.gu,bou
+廷,1,7,"courts, imperial court, government office",None,テイ,廴,long,None,tei
+冒,2,9,"risk, face, defy, dare, damage, assume (a name)",おか.す,ボウ,冂,open,oka.su,bou
+褒,2,15,"praise, extol",ほ.める,ホウ,衣,clothes,ho.meru,hou
+葬,2,12,"interment, bury, shelve",ほうむ.る,ソウ,艸,grass,houmu.ru,sou
+飽,3,13,"sated, tired of, bored, satiate","あ.きる, あ.かす, あ.く",ホウ,食,eat,"a.kiru, a.kasu, a.ku",hou
+捕,8,10,"catch, capture","と.らえる, と.らわれる, と.る, とら.える, とら.われる, つか.まえる, つか.まる",ホ,手,hand,"to.raeru, to.rawareru, to.ru, tora.eru, tora.wareru, tsuka.maeru, tsuka.maru",ho
+管,5,14,"pipe, tube, wind instrument, drunken talk, control, jurisdiction",くだ,カン,竹,bamboo,kuda,kan
+補,8,12,"supplement, supply, make good, offset, compensate, assistant, learner",おぎな.う,ホ,衣,clothes,ogina.u,ho
+牧,4,8,"breed, care for, shepherd, feed, pasture",まき,ボク,牛,cow,maki,boku
+師,5,10,"expert, teacher, master, model, exemplar, army (incl. counter), war",いくさ,シ,巾,turban,ikusa,shi
+鯨,1,19,whale,くじら,ゲイ,魚,fish,kujira,gei
+惚,1,11,"fall in love with, admire, grow senile","ほけ.る, ぼ.ける, ほ.れる",コツ,心,heart,"hoke.ru, bo.keru, ho.reru",kotsu
+険,4,11,"precipitous, inaccessible place, impregnable position, steep place, sharp eyes",けわ.しい,ケン,dam,mound,kewa.shii,ken
+綻,1,14,"be rent, ripped, unravel, run, begin to open, smile",ほころ.びる,タン,糸,silk,hokoro.biru,tan
+舗,1,15,"shop, store, pave",None,ホ,人,man,None,ho
+墓,2,13,"grave, tomb",はか,ボ,土,earth,haka,bo
+虜,1,13,"captive, barbarian, low epithet for the enemy","とりこ, とりく","リョ, ロ",虍,tiger,"toriko, toriku","ryo, ro"
+館,9,16,"building, mansion, large building, palace","やかた, たて",カン,食,eat,"yakata, tate",kan
+舞,6,15,"dance, flit, circle, wheel","ま.う, -ま.う, まい",ブ,舛,opposite,"ma.u, -ma.u, mai",bu
+賄,1,13,"bribe, board, supply, finance",まかな.う,ワイ,貝,shell,makana.u,wai
+酔,3,11,"drunk, feel sick, poisoned, elated, spellbound","よ.う, よ.い, よ",スイ,酉,wine,"yo.u, yo.i, yo",sui
+二,7,2,"two, two radical (no. 7)","ふた, ふた.つ, ふたたび","ニ, ジ",二,two,"futa, futa.tsu, futatabi","ni, ji"
+纏,2,21,"wear, wrap, tie, follow around, collect","まつ.わる, まと.う, まと.める, まと.まる, まと.い","テン, デン",糸,silk,"matsu.waru, mato.u, mato.meru, mato.maru, mato.i","ten, den"
+免,5,8,"excuse, dismissal","まぬか.れる, まぬが.れる",メン,儿,legs,"manuka.reru, manuga.reru",men
+招,3,8,"beckon, invite, summon, engage",まね.く,ショウ,手,hand,mane.ku,shou
+瞬,3,18,"wink, blink, twinkle","またた.く, まじろ.ぐ",シュン,目,eye,"matata.ku, majiro.gu",shun
+痺,1,13,"palsy, become numb, paralysed",しび.れる,ヒ,疒,sickness,shibi.reru,hi
+眉,1,9,eyebrow,まゆ,"ビ, ミ",目,eye,mayu,"bi, mi"
+鞠,1,17,ball,まり,"キク, キュウ",革,leather,mari,"kiku, kyuu"
+丸,7,3,"round, full (month), perfection, -ship, pills, make round, roll up, curl up, seduce, explain away","まる, まる.める, まる.い",ガン,丶,dot,"maru, maru.meru, maru.i",gan
+苦,12,8,"suffering, trial, worry, hardship, feel bitter, scowl","くる.しい, -ぐる.しい, くる.しむ, くる.しめる, にが.い, にが.る",ク,艸,grass,"kuru.shii, -guru.shii, kuru.shimu, kuru.shimeru, niga.i, niga.ru",ku
+峰,1,10,"summit, peak","みね, ね",ホウ,山,mountain,"mine, ne",hou
+婿,1,12,"bridegroom, son-in-law",むこ,セイ,女,woman,muko,sei
+邪,4,8,"wicked, injustice, wrong",よこし.ま,ジャ,town,town,yokoshi.ma,ja
+闇,2,17,"get dark, gloom, disorder","やみ, くら.い","アン, オン",門,gate,"yami, kura.i","an, on"
+斑,1,12,"spot, blemish, speck, patches","ふ, まだら",ハン,文,script,"fu, madara",han
+簿,1,19,"register, record book",None,ボ,竹,bamboo,None,bo
+誉,1,13,"reputation, praise, honor, glory","ほま.れ, ほ.める",ヨ,言,speech,"homa.re, ho.meru",yo
+瞭,1,17,clear,あきらか,リョウ,目,eye,akiraka,ryou
+恵,5,10,"favor, blessing, grace, kindness","めぐ.む, めぐ.み","ケイ, エ",心,heart,"megu.mu, megu.mi","kei, e"
+召,2,5,"seduce, call, send for, wear, put on, ride in, buy, eat, drink, catch (cold)",め.す,ショウ,口,mouth,me.su,shou
+雌,1,14,"feminine, female","め-, めす, めん",シ,隹,small,"me-, mesu, men",shi
+申,12,5,"have the honor to, sign of the monkey, 3-5PM, ninth sign of Chinese zodiac","もう.す, もう.し-, さる",シン,田,field,"mou.su, mou.shi-, saru",shin
+盲,1,8,"blind, blind man, ignoramus",めくら,モウ,目,eye,mekura,mou
+猛,1,11,"fierce, rave, rush, become furious, wildness, strength",None,モウ,犬,dog,None,mou
+倣,2,10,"emulate, imitate",なら.う,ホウ,人,man,nara.u,hou
+股,2,8,"thigh, crotch","また, もも",コ,肉,meat,"mata, momo",ko
+腿,1,13,"thigh, femur",もも,タイ,肉,meat,momo,tai
+漏,3,14,"leak, escape, time","も.る, も.れる, も.らす",ロウ,水,water,"mo.ru, mo.reru, mo.rasu",rou
+脆,1,10,"brittle, fragile, easy to beat, sentimental, susceptible","もろ.い, よわい","ゼイ, セイ, セツ",肉,meat,"moro.i, yowai","zei, sei, setsu"
+矢,2,5,"dart, arrow",や,シ,矢,arrow,ya,shi
+薬,6,16,"medicine, chemical, enamel, gunpowder, benefit",くすり,ヤク,艸,grass,kusuri,yaku
+役,11,7,"duty, war, campaign, drafted labor, office, service, role",None,"ヤク, エキ",彳,step,None,"yaku, eki"
+敷,5,15,"spread, pave, sit, promulgate","し.く, -し.き",フ,攴,rap,"shi.ku, -shi.ki",fu
+奴,1,5,"guy, slave, manservant, fellow","やつ, やっこ",ド,女,woman,"yatsu, yakko",do
+優,12,17,"tenderness, excel, surpass, actor, superiority, gentleness","やさ.しい, すぐ.れる, まさ.る","ユウ, ウ",人,man,"yasa.shii, sugu.reru, masa.ru","yuu, u"
+憂,1,15,"melancholy, grieve, lament, be anxious, sad, unhappy","うれ.える, うれ.い, う.い, う.き",ユウ,心,heart,"ure.eru, ure.i, u.i, u.ki",yuu
+鬱,1,29,"gloom, depression, melancholy, luxuriant","うっ.する, ふさ.ぐ, しげ.る",ウツ,鬯,herbs,"u.suru, fusa.gu, shige.ru",utsu
+越,8,12,"surpass, cross over, move to, exceed, Vietnam","こ.す, -こ.す, -ご.し, こ.える, -ご.え","エツ, オツ",走,run,"ko.su, -ko.su, -go.shi, ko.eru, -go.e","etsu, otsu"
+勇,3,9,"courage, cheer up, be in high spirits, bravery, heroism",いさ.む,ユウ,力,power,isa.mu,yuu
+夕,7,3,evening,ゆう,セキ,夕,evening,yuu,seki
+暮,5,14,"evening, twilight, season's end, livelihood, make a living, spend time","く.れる, く.らす",ボ,日,sun,"ku.reru, ku.rasu",bo
+融,3,16,"dissolve, melt","と.ける, と.かす",ユウ,虫,insect,"to.keru, to.kasu",yuu
+遊,4,12,play,"あそ.ぶ, あそ.ばす","ユウ, ユ",辵,walk,"aso.bu, aso.basu","yuu, yu"
+幽,1,9,"seclude, confine to a room, deep, profound, secluded, faint, dark, tranquil, calm","ふか.い, かす.か, くら.い, しろ.い",ユウ,幺,short,"fuka.i, kasu.ka, kura.i, shiro.i",yuu
+霊,1,15,"spirits, soul",たま,"レイ, リョウ",雨,rain,tama,"rei, ryou"
+歪,2,9,"warp, bend, strained, distort","いが.む, いびつ, ひず.む, ゆが.む","ワイ, エ",止,stop,"iga.mu, ibitsu, hizu.mu, yuga.mu","wai, e"
+揺,4,12,"swing, shake, sway, rock, tremble, vibrate","ゆ.れる, ゆ.る, ゆ.らぐ, ゆ.るぐ, ゆ.する, ゆ.さぶる, ゆ.すぶる, うご.く",ヨウ,手,hand,"yu.reru, yu.ru, yu.ragu, yu.rugu, yu.suru, yu.saburu, yu.suburu, ugo.ku",you
+弓,1,3,"bow, bow (archery, violin)",ゆみ,キュウ,弓,bow,yumi,kyuu
+要,15,9,"need, main point, essence, pivot, key to","い.る, かなめ",ヨウ,西,west,"i.ru, kaname",you
+因,3,6,"cause, factor, be associated with, depend on, be limited to","よ.る, ちな.む",イン,囗,enclosure,"yo.ru, china.mu",in
+溶,7,13,"melt, dissolve, thaw","と.ける, と.かす, と.く",ヨウ,水,water,"to.keru, to.kasu, to.ku",you
+件,4,6,"affair, case, matter, item",くだん,ケン,人,man,kudan,ken
+紙,9,10,paper,かみ,シ,糸,silk,kami,shi
+請,3,15,"solicit, invite, ask","こ.う, う.ける","セイ, シン, ショウ",言,speech,"ko.u, u.keru","sei, shin, shou"
+洋,7,9,"ocean, sea, foreign, Western style",None,ヨウ,水,water,None,you
+余,11,7,"too much, myself, surplus, other, remainder","あま.る, あま.り, あま.す, あんま.り",ヨ,人,man,"ama.ru, ama.ri, ama.su, anma.ri",yo
+暇,3,13,"spare time, rest, leisure, time, leave of absence","ひま, いとま",カ,日,sun,"hima, itoma",ka
+預,4,13,"deposit, custody, leave with, entrust to","あず.ける, あず.かる",ヨ,頁,leaf,"azu.keru, azu.karu",yo
+抑,2,7,"repress, well, now, in the first place, push, shove, press, seal, do in spite of",おさ.える,ヨク,手,hand,osa.eru,yoku
+室,9,9,"room, apartment, chamber, greenhouse, cellar",むろ,シツ,宀,roof,muro,shitsu
+避,3,16,"evade, avoid, avert, ward off, shirk, shun","さ.ける, よ.ける",ヒ,辵,walk,"sa.keru, yo.keru",hi
+横,4,15,"sideways, side, horizontal, width, woof, unreasonable, perverse",よこ,オウ,木,tree,yoko,ou
+綱,2,14,"hawser, class (genus), rope, cord, cable",つな,コウ,糸,silk,tsuna,kou
+汚,5,6,"dirty, pollute, disgrace, rape, defile","けが.す, けが.れる, けが.らわしい, よご.す, よご.れる, きたな.い",オ,水,water,"kega.su, kega.reru, kega.rawashii, yogo.su, yogo.reru, kitana.i",o
+党,4,10,"party, faction, clique","なかま, むら",トウ,儿,legs,"nakama, mura",tou
+呼,5,8,"call, call out to, invite",よ.ぶ,コ,口,mouth,yo.bu,ko
+酪,1,13,"dairy products, whey, broth, fruit juice",None,ラク,酉,wine,None,raku
+濫,2,18,"excessive, overflow, spread out","みだ.りに, みだ.りがましい",ラン,水,water,"mida.rini, mida.rigamashii",ran
+奪,2,14,"rob, take by force, snatch away, dispossess, plunder, usurp",うば.う,ダツ,大,big,uba.u,datsu
+域,4,11,"range, region, limits, stage, level",None,イキ,土,earth,None,iki
+了,4,2,"complete, finish",None,リョウ,亅,hook,None,ryou
+両,7,6,"both, old Japanese coin, counter for carriages (e.g., in a train), two","てる, ふたつ",リョウ,一,one,"teru, futatsu",ryou
+旅,5,10,"trip, travel",たび,リョ,方,square,tabi,ryo
+券,4,8,ticket,None,ケン,刀,knife,None,ken
+履,2,15,"perform, complete, footgear, shoes, boots, put on (the feet)",は.く,リ,尸,corpse,ha.ku,ri
+林,4,8,"grove, forest",はやし,リン,木,tree,hayashi,rin
+冷,14,7,"cool, cold (beer, person), chill","つめ.たい, ひ.える, ひ.や, ひ.ややか, ひ.やす, ひ.やかす, さ.める, さ.ます",レイ,冫,ice,"tsume.tai, hi.eru, hi.ya, hi.yayaka, hi.yasu, hi.yakasu, sa.meru, sa.masu",rei
+淡,2,11,"thin, faint, pale, fleeting",あわ.い,タン,水,water,awa.i,tan
+甚,2,9,"tremendously, very, great, exceedingly","はなは.だ, はなは.だしい",ジン,甘,sweet,"hanaha.da, hanaha.dashii",jin
+浜,2,10,"seacoast, beach, seashore",はま,ヒン,水,water,hama,hin
+辺,4,5,"environs, boundary, border, vicinity","あた.り, ほと.り, -べ",ヘン,辵,walk,"ata.ri, hoto.ri, -be",hen
+遥,1,12,"far off, distant, long ago",はる.か,ヨウ,辵,walk,haru.ka,you
+腫,1,13,"tumor, swelling","は.れる, は.れ, は.らす, はれもの","シュ, ショウ",肉,meat,"ha.reru, ha.re, ha.rasu, haremono","shu, shou"
+響,4,20,"echo, sound, resound, ring, vibrate",ひび.く,キョウ,音,sound,hibi.ku,kyou
+判,10,7,"judgement, judgment, signature, stamp, seal",わか.る,"ハン, バン",刀,knife,waka.ru,"han, ban"
+殖,2,12,"augment, increase, multiply, raise","ふ.える, ふ.やす",ショク,歹,death,"fu.eru, fu.yasu",shoku
+万,6,3,"ten thousand, 10,000",よろず,"マン, バン",一,one,yorozu,"man, ban"
+晩,5,12,"nightfall, night",None,バン,日,sun,None,ban
+半,8,5,"half, middle, odd number, semi-, part-",なか.ば,ハン,十,ten,naka.ba,han
+氾,1,5,"spread out, wide",ひろ.がる,ハン,水,water,hiro.garu,han
+悲,6,12,"grieve, sad, deplore, regret","かな.しい, かな.しむ",ヒ,心,heart,"kana.shii, kana.shimu",hi
+久,3,3,"long time, old story",ひさ.しい,"キュウ, ク",丿,slash,hisa.shii,"kyuu, ku"
+惨,2,11,"wretched, disaster, cruelty, harsh","みじ.め, いた.む, むご.い","サン, ザン",心,heart,"miji.me, ita.mu, mugo.i","san, zan"
+浸,1,10,"immersed, soak, dip, steep, moisten, wet, dunk","ひた.す, ひた.る, つ.かる",シン,水,water,"hita.su, hita.ru, tsu.karu",shin
+左,3,5,left,ひだり,"サ, シャ",工,work,hidari,"sa, sha"
+必,7,5,"invariably, certain, inevitable",かなら.ず,ヒツ,心,heart,kanara.zu,hitsu
+匹,2,4,"equal, head, counter for small animals, roll of cloth",ひき,ヒツ,匸,hiding,hiki,hitsu
+敵,2,15,"enemy, foe, opponent","かたき, あだ, かな.う",テキ,攴,rap,"kataki, ada, kana.u",teki
+影,4,15,"shadow, silhouette, phantom",かげ,エイ,彡,bristle,kage,ei
+雛,2,18,"chick, squab, duckling, doll","ひな, ひよこ","スウ, ス, ジュ",隹,small,"hina, hiyoko","suu, su, ju"
+祭,5,11,"ritual, offer prayers, celebrate, deify, enshrine, worship","まつ.る, まつ.り, まつり",サイ,示,sign,"matsu.ru, matsu.ri, matsuri",sai
+非,6,8,"un-, mistake, negative, injustice, non-",あら.ず,ヒ,非,wrong,ara.zu,hi
+描,3,11,"sketch, compose, write, draw, paint","えが.く, か.く",ビョウ,手,hand,"ega.ku, ka.ku",byou
+系,3,7,"lineage, system",None,ケイ,糸,silk,None,kei
+圏,1,12,"sphere, circle, radius, range",かこ.い,ケン,囗,enclosure,kako.i,ken
+港,3,12,harbor,みなと,コウ,水,water,minato,kou
+毎,9,6,every,"ごと, -ごと.に",マイ,毋,mother,"goto, -goto.ni",mai
+史,3,5,"history, chronicle",None,シ,口,mouth,None,shi
+寺,3,6,Buddhist temple,てら,ジ,寸,thumb,tera,ji
+酒,4,10,"sake, alcohol","さけ, さか-",シュ,酉,wine,"sake, saka-",shu
+女,15,3,"woman, female","おんな, め","ジョ, ニョ, ニョウ",女,woman,"onna, me","jo, nyo, nyou"
+商,7,11,"make a deal, selling, dealing in, merchant",あきな.う,ショウ,口,mouth,akina.u,shou
+畳,4,12,"tatami mat, counter for tatami mats, fold, shut up, do away with","たた.む, たたみ, かさ.なる","ジョウ, チョウ",田,field,"tata.mu, tatami, kasa.naru","jou, chou"
+艘,1,16,counter for small boats,ふね,"ショウ, シュウ, ソウ",舟,boat,fune,"shou, shuu, sou"
+庁,3,5,government office,やくしょ,"チョウ, テイ",广,house,yakusho,"chou, tei"
+丁,4,2,"street, ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sign",ひのと,"チョウ, テイ, チン, トウ, チ",一,one,hinoto,"chou, tei, chin, tou, chi"
+滴,2,14,"drip, drop","しずく, したた.る",テキ,水,water,"shizuku, shitata.ru",teki
+島,4,10,island,しま,トウ,山,mountain,shima,tou
+泊,5,8,"overnight stay, put up at, ride at anchor","と.まる, と.める",ハク,水,water,"to.maru, to.meru",haku
+番,10,12,"turn, number in a series",つが.い,バン,田,field,tsuga.i,ban
+羽,3,6,"feathers, counter for birds, rabbits","は, わ, はね",ウ,羽,feather,"ha, wa, hane",u
+朝,5,12,"morning, dynasty, regime, epoch, period, (North) Korea",あさ,チョウ,月,moon,asa,chou
+坊,6,7,"boy, priest's residence, priest",None,"ボウ, ボッ",土,earth,None,"bou, bo"
+厚,2,9,"thick, heavy, rich, kind, cordial, brazen, shameless","あつ.い, あか",コウ,厂,cliff,"atsu.i, aka",kou
+脂,3,10,"fat, grease, tallow, lard, rosin, gum, tar",あぶら,シ,肉,meat,abura,shi
+粗,4,11,"coarse, rough, rugged","あら.い, あら-",ソ,米,rice,"ara.i, ara-",so
+慌,3,12,"disconcerted, be confused, lose one's head","あわ.てる, あわ.ただしい",コウ,心,heart,"awa.teru, awa.tadashii",kou
+以,8,5,"by means of, because, in view of, compared with",もっ.て,イ,人,man,mo.te,i
+段,8,9,"grade, steps, stairs",None,"ダン, タン",殳,weapon,None,"dan, tan"
+昨,8,9,"yesterday, previous",None,サク,日,sun,None,saku
+斉,1,8,"adjusted, alike, equal, similar variety of","そろ.う, ひと.しい, ひと.しく, あたる, はやい","セイ, サイ",文,script,"soro.u, hito.shii, hito.shiku, ataru, hayai","sei, sai"
+井,1,4,"well, well crib, town, community",い,"セイ, ショウ",二,two,i,"sei, shou"
+緯,2,16,"horizontal, woof, left & right, (parallels of) latitude, prediction","よこいと, ぬき",イ,糸,silk,"yokoito, nuki",i
+煎,1,13,"broil, parch, roast, boil","せん.じる, い.る, に.る",セン,火,fire,"sen.jiru, i.ru, ni.ru",sen
+炒,2,8,"broil, parch, roast, fry","い.る, いた.める","ソウ, ショウ",火,fire,"i.ru, ita.meru","sou, shou"
+飢,2,10,"hungry, starve",う.える,キ,食,eat,u.eru,ki
+恨,2,9,"regret, bear a grudge, resentment, malice, hatred","うら.む, うら.めしい",コン,心,heart,"ura.mu, ura.meshii",kon
+羨,2,13,"envious, be jealous, covet","うらや.む, あまり","セン, エン",羊,sheep,"uraya.mu, amari","sen, en"
+偉,2,12,"admirable, greatness, remarkable, conceited, famous, excellent",えら.い,イ,人,man,era.i,i
+宴,1,10,"banquet, feast, party",うたげ,エン,宀,roof,utage,en
+王,6,4,"king, rule, magnate",None,"オウ, -ノウ",jade,jade,None,"ou, -nou"
+欧,1,8,Europe,"うた.う, は.く",オウ,欠,lack,"uta.u, ha.ku",ou
+米,3,6,"rice, USA, metre","こめ, よね","ベイ, マイ, メエトル",米,rice,"kome, yone","bei, mai, meetoru"
+凡,2,3,"commonplace, ordinary, mediocre","およ.そ, おうよ.そ, すべ.て","ボン, ハン",几,table,"oyo.so, ouyo.so, sube.te","bon, han"
+仮,7,6,"sham, temporary, interim, assumed (name), informal","かり, かり-","カ, ケ",人,man,"kari, kari-","ka, ke"
+伯,5,7,"chief, count, earl, uncle, Brazil",None,ハク,人,man,None,haku
+叔,5,8,"uncle, youth",None,シュク,又,right,None,shuku
+魔,3,21,"witch, demon, evil spirit",None,マ,鬼,ghost,None,ma
+恩,2,10,"grace, kindness, goodness, favor, mercy, blessing, benefit",None,オン,心,heart,None,on
+泉,2,9,"spring, fountain",いずみ,セン,水,water,izumi,sen
+蚊,2,10,mosquito,か,ブン,虫,insect,ka,bun
+却,1,7,"instead, on the contrary, rather, step back, withdraw, retreat","かえ.って, しりぞ.く, しりぞ.ける",キャク,卩,kneel,"kae.tte, shirizo.ku, shirizo.keru",kyaku
+係,3,9,"person in charge, connection, duty, concern oneself","かか.る, かかり, -がかり, かか.わる",ケイ,人,man,"kaka.ru, kakari, -gakari, kaka.waru",kei
+留,9,10,"detain, fasten, halt, stop","と.める, と.まる, とど.める, とど.まる, るうぶる","リュウ, ル",田,field,"to.meru, to.maru, todo.meru, todo.maru, ruuburu","ryuu, ru"
+垣,1,9,"hedge, fence, wall",かき,エン,土,earth,kaki,en
+貸,5,12,lend,"か.す, か.し-, かし-",タイ,貝,shell,"ka.su, ka.shi-, kashi-",tai
+剰,1,11,"surplus, besides","あまつさえ, あま.り, あま.る",ジョウ,刀,knife,"amatsusae, ama.ri, ama.ru",jou
+塊,1,13,"clod, lump, chunk, clot, mass","かたまり, つちくれ","カイ, ケ",土,earth,"katamari, tsuchikure","kai, ke"
+弧,1,9,"arc, arch, bow",None,コ,弓,bow,None,ko
+躍,2,21,"leap, dance, skip",おど.る,ヤク,足,foot,odo.ru,yaku
+被,3,10,"incur, cover, veil, brood over, shelter, wear, put on, be exposed (film), receiving","こうむ.る, おお.う, かぶ.る, かぶ.せる",ヒ,衣,clothes,"koumu.ru, oo.u, kabu.ru, kabu.seru",hi
+釜,1,10,"kettle, cauldron, iron pot",かま,フ,金,metal,kama,fu
+屑,2,10,"rubbish, junk, trash, waste, scraps","くず, いさぎよ.い",セツ,尸,corpse,"kuzu, isagiyo.i",setsu
+剃,2,9,shave,"まい, そ.る, す.る",テイ,刀,knife,"mai, so.ru, su.ru",tei
+刀,2,2,"sword, saber, knife","かたな, そり",トウ,刀,knife,"katana, sori",tou
+謡,4,16,"song, sing, ballad, noh chanting","うた.い, うた.う",ヨウ,言,speech,"uta.i, uta.u",you
+枯,1,9,"wither, die, dry up, be seasoned","か.れる, か.らす",コ,木,tree,"ka.reru, ka.rasu",ko
+乾,7,11,"drought, dry, desiccate, drink up, heaven, emperor","かわ.く, かわ.かす, ほ.す, ひ.る, いぬい","カン, ケン",乛,second,"kawa.ku, kawa.kasu, ho.su, hi.ru, inui","kan, ken"
+瓦,2,5,"tile, gram","かわら, ぐらむ",ガ,瓦,tile,"kawara, guramu",ga
+燥,2,17,"parch, dry up",はしゃ.ぐ,ソウ,火,fire,hasha.gu,sou
+缶,2,6,"tin can, container, jar radical (no. 121)",かま,カン,缶,jar,kama,kan
+池,3,6,"pond, cistern, pool, reservoir",いけ,チ,水,water,ike,chi
+東,5,8,east,ひがし,トウ,木,tree,higashi,tou
+板,3,8,"plank, board, plate, stage",いた,"ハン, バン",木,tree,ita,"han, ban"
+冠,1,9,"crown, best, peerless",かんむり,カン,冖,cover,kanmuri,kan
+饉,1,20,hunger,う.える,キン,食,eat,u.eru,kin
+儀,4,15,"ceremony, rule, affair, case, a matter",None,ギ,人,man,None,gi
+床,4,7,"bed, counter for beds, floor, padding, tatami","とこ, ゆか",ショウ,广,house,"toko, yuka",shou
+礎,1,18,"cornerstone, foundation stone",いしずえ,ソ,石,stone,ishizue,so
+斬,1,11,"beheading, kill, murder",き.る,"ザン, サン, セン, ゼン",斤,axe,ki.ru,"zan, san, sen, zen"
+琴,2,12,"harp, koto",こと,"キン, ゴン",jade,jade,koto,"kin, gon"
+魚,3,11,fish,"うお, さかな, -ざかな",ギョ,魚,fish,"uo, sakana, -zakana",gyo
+釘,1,10,"nail, tack, peg",くぎ,"テイ, チョウ",金,metal,kugi,"tei, chou"
+櫛,1,17,comb,"くし, くしけず.る",シツ,木,tree,"kushi, kushikezu.ru",shitsu
+砕,2,9,"smash, break, crush, familiar, popular","くだ.く, くだ.ける",サイ,石,stone,"kuda.ku, kuda.keru",sai
+唇,1,10,lips,くちびる,シン,口,mouth,kuchibiru,shin
+紅,4,9,"crimson, deep red","べに, くれない, あか.い","コウ, ク",糸,silk,"beni, kurenai, aka.i","kou, ku"
+句,5,5,"phrase, clause, sentence, passage, paragraph, counter for haiku",None,ク,口,mouth,None,ku
+夫,7,4,"husband, man","おっと, それ","フ, フウ, ブ",大,big,"otto, sore","fu, fuu, bu"
+悔,3,9,"repent, regret","く.いる, く.やむ, くや.しい",カイ,心,heart,"ku.iru, ku.yamu, kuya.shii",kai
+郡,2,10,"county, district",こおり,グン,town,town,koori,gun
+蛍,1,11,"lightning-bug, firefly",ほたる,ケイ,虫,insect,hotaru,kei
+灯,5,6,"lamp, a light, light, counter for lights","ひ, ほ-, ともしび, とも.す, あかり",トウ,火,fire,"hi, ho-, tomoshibi, tomo.su, akari",tou
+毛,6,4,"fur, hair, feather, down",け,モウ,毛,fur,ke,mou
+糸,2,6,thread,いと,シ,糸,silk,ito,shi
+競,3,20,"emulate, compete with, bid, sell at auction, bout, contest, race","きそ.う, せ.る, くら.べる","キョウ, ケイ",立,stand,"kiso.u, se.ru, kura.beru","kyou, kei"
+馬,3,10,horse,"うま, うま-, ま",バ,馬,horse,"uma, uma-, ma",ba
+皮,4,5,"pelt, skin, hide, leather, skin radical (no. 107)",かわ,ヒ,皮,skin,kawa,hi
+旬,4,6,"decameron, ten-day period, season (for specific products)",None,"ジュン, シュン",日,sun,None,"jun, shun"
+桁,1,10,"beam, girder, spar, unit or column (accounting)",けた,コウ,木,tree,keta,kou
+傑,1,13,"greatness, excellence",すぐ.れる,ケツ,人,man,sugu.reru,ketsu
+謙,2,17,"self-effacing, humble oneself, condescend, be modest",へりくだ.る,ケン,言,speech,herikuda.ru,ken
+虚,1,11,"void, emptiness, unpreparedness, crack, fissure, untruth","むな.しい, うつ.ろ","キョ, コ",虍,tiger,"muna.shii, utsu.ro","kyo, ko"
+稿,1,15,"draft, copy, manuscript, straw","わら, したがき",コウ,禾,grain,"wara, shitagaki",kou
+遜,1,13,"humble, modest","したが.う, へりくだ.る, ゆず.る",ソン,辵,walk,"shitaga.u, herikuda.ru, yuzu.ru",son
+県,2,9,prefecture,か.ける,ケン,目,eye,ka.keru,ken
+顕,1,18,"appear, existing","あきらか, あらわ.れる",ケン,頁,leaf,"akiraka, arawa.reru",ken
+鏡,4,19,"mirror, speculum, barrel-head, round rice-cake offering",かがみ,"キョウ, ケイ",金,metal,kagami,"kyou, kei"
+孝,1,7,"filial piety, child's respect",None,"コウ, キョウ",子,child,None,"kou, kyou"
+舎,3,8,"cottage, inn, hut, house, mansion",やど.る,"シャ, セキ",人,man,yado.ru,"sha, seki"
+功,2,5,"achievement, merits, success, honor, credit",いさお,"コウ, ク",力,power,isao,"kou, ku"
+庭,3,10,"courtyard, garden, yard",にわ,テイ,广,house,niwa,tei
+肯,1,8,"agreement, consent, comply with",がえんじ.る,コウ,肉,meat,gaenji.ru,kou
+凍,3,10,"frozen, congeal, refrigerate","こお.る, こご.える, こご.る, い.てる, し.みる",トウ,冫,ice,"koo.ru, kogo.eru, kogo.ru, i.teru, shi.miru",tou
+腰,4,13,"loins, hips, waist, low wainscoting",こし,ヨウ,肉,meat,koshi,you
+五,5,4,five,"いつ, いつ.つ",ゴ,二,two,"itsu, itsu.tsu",go
+沙,2,7,sand,"すな, よなげる","サ, シャ",水,water,"suna, yonageru","sa, sha"
+汰,2,7,"washing, sieving, filtering, weeding out, luxury","おご.る, にご.る, よな.げる","タ, タイ",水,water,"ogo.ru, nigo.ru, yona.geru","ta, tai"
+娯,1,10,"recreation, pleasure",None,ゴ,女,woman,None,go
+紺,1,11,"dark blue, navy",None,コン,糸,silk,None,kon
+献,3,13,"offering, counter for drinks, present, offer",たてまつ.る,"ケン, コン",犬,dog,tatematsu.ru,"ken, kon"
+縫,2,16,"sew, stitch, embroider",ぬ.う,ホウ,糸,silk,nu.u,hou
+遡,1,13,"go upstream, retrace the past",さかのぼ.る,"ソ, サク",辵,walk,sakanobo.ru,"so, saku"
+囁,1,21,"whisper, murmur",ささや.く,ショウ,口,mouth,sasaya.ku,shou
+匙,1,11,spoon,さじ,シ,匕,spoon,saji,shi
+撮,2,15,"snapshot, take pictures","と.る, つま.む, -ど.り",サツ,手,hand,"to.ru, tsuma.mu, -do.ri",satsu
+錆,2,16,"rust, tarnish","さび, くわ.しい","ショウ, セイ",金,metal,"sabi, kuwa.shii","shou, sei"
+塩,4,13,salt,しお,エン,土,earth,shio,en
+四,10,5,four,"よ, よ.つ, よっ.つ, よん",シ,囗,enclosure,"yo, yo.tsu, yo.tsu, yon",shi
+季,4,8,seasons,None,キ,子,child,None,ki
+茂,1,8,"overgrown, grow thick, be luxuriant",しげ.る,モ,艸,grass,shige.ru,mo
+磁,3,14,"magnet, porcelain",None,ジ,石,stone,None,ji
+捨,2,11,"discard, throw away, abandon, resign, reject, sacrifice",す.てる,シャ,手,hand,su.teru,sha
+姿,2,9,"figure, form, shape",すがた,シ,女,woman,sugata,shi
+孫,2,10,"grandchild, descendants",まご,ソン,子,child,mago,son
+町,3,7,"town, village, block, street",まち,チョウ,田,field,machi,chou
+筆,7,12,"writing brush, writing, painting brush, handwriting",ふで,ヒツ,竹,bamboo,fude,hitsu
+童,4,12,"juvenile, child",わらべ,ドウ,立,stand,warabe,dou
+絞,1,12,"strangle, constrict, wring","しぼ.る, し.める, し.まる",コウ,糸,silk,"shibo.ru, shi.meru, shi.maru",kou
+縞,1,16,stripe,"しま, しろぎぬ",コウ,糸,silk,"shima, shiroginu",kou
+氏,2,4,"family name, surname, clan","うじ, -うじ",シ,氏,clan,"uji, -uji",shi
+蛇,1,11,"snake, serpent, hard drinker",へび,"ジャ, ダ, イ, ヤ",虫,insect,hebi,"ja, da, i, ya"
+寿,1,7,"longevity, congratulations, one's natural life","ことぶき, ことぶ.く, ことほ.ぐ","ジュ, ス, シュウ",寸,thumb,"kotobuki, kotobu.ku, kotoho.gu","ju, su, shuu"
+循,1,12,"sequential, follow",None,ジュン,彳,step,None,jun
+環,2,17,"ring, circle, loop",わ,カン,jade,jade,wa,kan
+巡,2,6,"patrol, go around, circumference","めぐ.る, めぐ.り",ジュン,巛,river,"megu.ru, megu.ri",jun
+将,2,10,"leader, commander, general, admiral, or, and again, soon, from now on, just about","まさ.に, はた, まさ, ひきい.る, もって","ショウ, ソウ",寸,thumb,"masa.ni, hata, masa, hikii.ru, motte","shou, sou"
+棋,1,12,"chess piece, Japanese chess, shogi",ご,キ,木,tree,go,ki
+店,9,8,"store, shop","みせ, たな",テン,广,house,"mise, tana",ten
+耗,1,10,decrease,None,"モウ, コウ",耒,plow,None,"mou, kou"
+髪,3,14,hair of the head,かみ,ハツ,髟,long,kami,hatsu
+汁,1,5,"soup, juice, broth, sap, gravy, pus","しる, -しる, つゆ",ジュウ,水,water,"shiru, -shiru, tsuyu",juu
+芯,1,7,wick,None,シン,艸,grass,None,shin
+森,2,12,"forest, woods",もり,シン,木,tree,mori,shin
+針,4,10,"needle, pin, staple, stinger",はり,シン,金,metal,hari,shin
+酢,2,12,"vinegar, sour, acid, tart",す,サク,酉,wine,su,saku
+炊,2,8,"cook, boil","た.く, -だ.き",スイ,火,fire,"ta.ku, -da.ki",sui
+随,2,12,"follow, though, notwithstanding, while, during, both, all, obey, submit to, comply, at the mercy of (the waves)","まにま.に, したが.う",ズイ,dam,mound,"manima.ni, shitaga.u",zui
+曜,9,18,weekday,None,ヨウ,日,sun,None,you
+隙,2,13,"crevice, fissure, discord, opportunity, leisure","すき, す.く, す.かす, ひま","ゲキ, キャク, ケキ",dam,mound,"suki, su.ku, su.kasu, hima","geki, kyaku, keki"
+杉,1,7,"cedar, cryptomeria",すぎ,サン,木,tree,sugi,san
+透,2,10,"transparent, permeate, filter, penetrate","す.く, す.かす, す.ける, とう.る, とう.す",トウ,辵,walk,"su.ku, su.kasu, su.keru, tou.ru, tou.su",tou
+少,10,4,"few, little","すく.ない, すこ.し",ショウ,小,small,"suku.nai, suko.shi",shou
+鈴,1,13,"small bell, buzzer",すず,"レイ, リン",金,metal,suzu,"rei, rin"
+涼,2,11,"refreshing, nice and cool","すず.しい, すず.む, すず.やか, うす.い, ひや.す, まことに",リョウ,水,water,"suzu.shii, suzu.mu, suzu.yaka, usu.i, hiya.su, makotoni",ryou
+撲,1,15,"slap, strike, hit, beat, tell, speak",None,ボク,手,hand,None,boku
+狡,1,9,"cunning, sly, crafty, miserly, mean, stingy","ずる.い, こす.い, わるがしこ.い","コウ, キョウ",犬,dog,"zuru.i, kosu.i, warugashiko.i","kou, kyou"
+寸,1,3,"measurement, tenth of a shaku, a little, small",None,スン,寸,thumb,None,sun
+姓,3,8,surname,None,"セイ, ショウ",女,woman,None,"sei, shou"
+掃,4,11,"sweep, brush",は.く,"ソウ, シュ",手,hand,ha.ku,"sou, shu"
+瀬,1,19,"rapids, current, torrent, shallows, shoal",せ,ライ,水,water,se,rai
+栓,1,10,"plug, bolt, cork, bung, stopper",None,セン,木,tree,None,sen
+洗,8,9,"wash, inquire into, probe",あら.う,セン,水,water,ara.u,sen
+剤,2,10,"dose, medicine, drug","かる, けず.る","ザイ, スイ, セイ",刀,knife,"karu, kezu.ru","zai, sui, sei"
+祖,4,9,"ancestor, pioneer, founder",None,ソ,示,sign,None,so
+般,2,10,"carrier, carry, all, general, sort, kind",None,ハン,舟,boat,None,han
+倉,1,10,"godown, warehouse, storehouse, cellar, treasury",くら,ソウ,人,man,kura,sou
+草,2,9,"grass, weeds, herbs, pasture, write, draft","くさ, くさ-, -ぐさ",ソウ,艸,grass,"kusa, kusa-, -gusa",sou
+臣,2,7,"retainer, subject",None,"シン, ジン",臣,minster,None,"shin, jin"
+卒,2,8,"graduate, soldier, private, die","そっ.する, お.える, お.わる, ついに, にわか","ソツ, シュツ",十,ten,"so.suru, o.eru, o.waru, tsuini, niwaka","sotsu, shutsu"
+逸,1,11,"deviate, idleness, leisure, miss the mark, evade, elude, parry, diverge","そ.れる, そ.らす, はぐ.れる",イツ,辵,walk,"so.reru, so.rasu, hagu.reru",itsu
+第,3,11,"No., residence",None,"ダイ, テイ",竹,bamboo,None,"dai, tei"
+太,4,4,"plump, thick, big around","ふと.い, ふと.る","タイ, タ",大,big,"futo.i, futo.ru","tai, ta"
+鼓,1,13,"drum, beat, rouse, muster",つづみ,コ,鼓,drum,tsuzumi,ko
+楕,1,13,ellipse,None,"ダ, タ",木,tree,None,"da, ta"
+滝,1,13,"waterfall, rapids, cascade",たき,"ロウ, ソウ",水,water,taki,"rou, sou"
+竹,1,6,bamboo,たけ,チク,竹,bamboo,take,chiku
+但,1,7,"however, but",ただ.し,タン,人,man,tada.shi,tan
+頼,5,16,"trust, request","たの.む, たの.もしい, たよ.る",ライ,頁,leaf,"tano.mu, tano.moshii, tayo.ru",rai
+誓,1,14,"vow, swear, pledge",ちか.う,セイ,言,speech,chika.u,sei
+彫,2,11,"carve, engrave, chisel","ほ.る, -ぼ.り",チョウ,彡,bristle,"ho.ru, -bo.ri",chou
+節,5,13,"node, season, period, occasion, verse, clause, stanza, honor, joint, knuckle, knob, knot, tune, melody","ふし, -ぶし, のっと","セツ, セチ",竹,bamboo,"fushi, -bushi, notto","setsu, sechi"
+頂,2,11,"place on the head, receive, top of head, top, summit, peak","いただ.く, いただき",チョウ,頁,leaf,"itada.ku, itadaki",chou
+男,6,7,male,"おとこ, お","ダン, ナン",田,field,"otoko, o","dan, nan"
+径,2,8,"diameter, path, method","みち, こみち, さしわたし, ただちに",ケイ,彳,step,"michi, komichi, sashiwatashi, tadachini",kei
+繋,5,17,"tie, fasten, chain, tether, connect","つな.ぐ, かか.る, か.ける",ケイ,糸,silk,"tsuna.gu, kaka.ru, ka.keru",kei
+粒,1,11,"grains, drop, counter for tiny particles",つぶ,リュウ,米,rice,tsubu,ryuu
+潰,2,15,"crush, smash, break, dissipate","つぶ.す, つぶ.れる, つい.える","カイ, エ",水,water,"tsubu.su, tsubu.reru, tsui.eru","kai, e"
+躓,1,22,stumble,つまず.く,チ,足,foot,tsumazu.ku,chi
+爪,1,4,"claw, nail, talon","つめ, つま-",ソウ,爪,claw,"tsume, tsuma-",sou
+艶,1,19,"glossy, luster, glaze, polish, charm, colorful, captivating","つや, なま.めかしい, あで.やか, つや.めく, なま.めく",エン,色,colour,"tsuya, nama.mekashii, ade.yaka, tsuya.meku, nama.meku",en
+低,4,7,"lower, short, humble","ひく.い, ひく.める, ひく.まる",テイ,人,man,"hiku.i, hiku.meru, hiku.maru",tei
+価,6,8,"value, price",あたい,"カ, ケ",人,man,atai,"ka, ke"
+凸,1,5,"convex, beetle brow, uneven",でこ,トツ,凵,container,deko,totsu
+凹,2,5,"concave, hollow, sunken","くぼ.む, へこ.む, ぼこ",オウ,凵,container,"kubo.mu, heko.mu, boko",ou
+弟,4,7,"younger brother, faithful service to elders",おとうと,"テイ, ダイ, デ",弓,bow,otouto,"tei, dai, de"
+砲,1,10,"cannon, gun",None,ホウ,石,stone,None,hou
+拭,2,9,"wipe, mop, swab","ぬぐ.う, ふ.く","ショク, シキ",手,hand,"nugu.u, fu.ku","shoku, shiki"
+迎,5,7,"welcome, meet, greet",むか.える,ゲイ,辵,walk,muka.eru,gei
+柱,1,9,"pillar, post, cylinder, support",はしら,チュウ,木,tree,hashira,chuu
+銅,2,14,copper,あかがね,ドウ,金,metal,akagane,dou
+峠,1,9,"mountain peak, mountain pass, climax, crest, (kokuji)",とうげ,None,山,mountain,touge,None
+盗,3,11,"steal, rob, pilfer","ぬす.む, ぬす.み",トウ,皿,dish,"nusu.mu, nusu.mi",tou
+尖,1,6,"be pointed, sharp, taper, displeased, angry, edgy","とが.る, さき, するど.い",セン,小,small,"toga.ru, saki, surudo.i",sen
+都,7,11,"metropolis, capital, all, everything",みやこ,"ト, ツ",town,town,miyako,"to, tsu"
+棚,3,12,"shelf, ledge, rack, mount, mantle, trellis","たな, -だな",ホウ,木,tree,"tana, -dana",hou
+怒,3,9,"angry, be offended","いか.る, おこ.る","ド, ヌ",心,heart,"ika.ru, oko.ru","do, nu"
+丼,1,5,"bowl, bowl of food",どんぶり,"トン, タン, ショウ, セイ",丶,dot,donburi,"ton, tan, shou, sei"
+慰,1,15,"consolation, amusement, seduce, cheer, make sport of, comfort, console","なぐさ.める, なぐさ.む",イ,心,heart,"nagusa.meru, nagusa.mu",i
+殴,2,8,"assault, hit, beat, thrash",なぐ.る,オウ,殳,weapon,nagu.ru,ou
+謎,3,16,"riddle, puzzle, enigma, hint, tip",なぞ,"メイ, ベイ",言,speech,nazo,"mei, bei"
+撫,1,15,"stroke, pat, smooth down",な.でる,"ブ, フ",手,hand,na.deru,"bu, fu"
+南,4,9,south,みなみ,"ナン, ナ",十,ten,minami,"nan, na"
+匂,2,4,"fragrant, stink, glow, insinuate, (kokuji)","にお.う, にお.い, にお.わせる",None,勹,wrap,"nio.u, nio.i, nio.waseru",None
+虹,1,9,rainbow,にじ,コウ,虫,insect,niji,kou
+房,4,8,"tassel, tuft, fringe, bunch, lock (hair), segment (orange), house, room",ふさ,ボウ,戶,door,fusa,bou
+睨,1,13,"glaring at, authority, power, scowl at","にら.む, にら.み",ゲイ,目,eye,"nira.mu, nira.mi",gei
+煮,3,12,"boil, cook","に.る, -に, に.える, に.やす",シャ,火,fire,"ni.ru, -ni, ni.eru, ni.yasu",sha
+俄,1,9,"sudden, abrupt, improvised",にわか,ガ,人,man,niwaka,ga
+狙,2,8,"aim at, sight, shadow, stalk","ねら.う, ねら.い","ソ, ショ",犬,dog,"nera.u, nera.i","so, sho"
+濃,2,16,"concentrated, thick, dark, undiluted",こ.い,ノウ,水,water,ko.i,nou
+糊,1,15,"paste, glue, sizing",のり,"コ, ゴ, コツ",米,rice,nori,"ko, go, kotsu"
+呑,1,7,drink,の.む,"トン, ドン",口,mouth,no.mu,"ton, don"
+灰,3,6,"ashes, puckery juice, cremate",はい,カイ,火,fire,hai,kai
+俳,2,10,"haiku, actor",None,ハイ,人,man,None,hai
+這,1,10,"crawl, creep, grovel, trail (vines)","は.う, は.い, むか.える, この","シャ, ゲン",辵,walk,"ha.u, ha.i, muka.eru, kono","sha, gen"
+秤,1,10,"balances, scales, steelyard",はかり,"ショウ, ヒン, ビン",禾,grain,hakari,"shou, hin, bin"
+吐,2,6,"spit, vomit, belch, confess, tell (lies)","は.く, つ.く",ト,口,mouth,"ha.ku, tsu.ku",to
+挟,2,9,"pinch, between","はさ.む, はさ.まる, わきばさ.む, さしはさ.む","キョウ, ショウ",手,hand,"hasa.mu, hasa.maru, wakibasa.mu, sashihasa.mu","kyou, shou"
+梯,1,11,"ladder, stairs, insatiable drinking",はしご,"テイ, タイ",木,tree,hashigo,"tei, tai"
+肌,2,6,"texture, skin, body, grain",はだ,キ,肉,meat,hada,ki
+鉢,1,13,"bowl, rice tub, pot, crown",None,"ハチ, ハツ",金,metal,None,"hachi, hatsu"
+揮,2,12,"brandish, wave, wag, swing, shake",ふる.う,キ,手,hand,furu.u,ki
+嫁,2,13,"marry into, bride","よめ, とつ.ぐ, い.く, ゆ.く",カ,女,woman,"yome, totsu.gu, i.ku, yu.ku",ka
+跳,1,13,"hop, leap up, spring, jerk, prance, buck, splash, sputter, snap","は.ねる, と.ぶ, -と.び",チョウ,足,foot,"ha.neru, to.bu, -to.bi",chou
+磨,2,16,"grind, polish, scour, improve, brush (teeth)","みが.く, す.る",マ,石,stone,"miga.ku, su.ru",ma
+払,6,5,"pay, clear out, prune, banish, dispose of","はら.う, -はら.い, -ばら.い","フツ, ヒツ, ホツ",手,hand,"hara.u, -hara.i, -bara.i","futsu, hitsu, hotsu"
+歳,3,13,"year-end, age, occasion, opportunity","とし, とせ, よわい","サイ, セイ",止,stop,"toshi, tose, yowai","sai, sei"
+較,2,13,"contrast, compare",くら.べる,"カク, コウ",車,cart,kura.beru,"kaku, kou"
+陽,3,12,"sunshine, yang principle, positive, male, heaven, daytime",ひ,ヨウ,dam,mound,hi,you
+肘,1,7,"elbow, arm",ひじ,チュウ,肉,meat,hiji,chuu
+繰,3,19,"winding, reel, spin, turn (pages), look up, refer to",く.る,ソウ,糸,silk,ku.ru,sou
+需,2,14,"demand, request, need",None,ジュ,雨,rain,None,ju
+瞳,1,17,pupil (of eye),ひとみ,"ドウ, トウ",目,eye,hitomi,"dou, tou"
+捻,1,11,"twirl, twist, play with","ね.じる, ねじ.る, ひね.くる, ひね.る","ネン, ジョウ",手,hand,"ne.jiru, neji.ru, hine.kuru, hine.ru","nen, jou"
+膚,1,15,"skin, body, grain, texture, disposition",はだ,フ,肉,meat,hada,fu
+百,3,6,hundred,もも,"ヒャク, ビャク",白,white,momo,"hyaku, byaku"
+広,11,5,"wide, broad, spacious","ひろ.い, ひろ.まる, ひろ.める, ひろ.がる, ひろ.げる",コウ,广,house,"hiro.i, hiro.maru, hiro.meru, hiro.garu, hiro.geru",kou
+箋,1,14,"paper, label, letter, composition",ふだ,セン,竹,bamboo,fuda,sen
+瓶,3,11,"bottle, vial, jar, jug, vat, urn",かめ,"ビン, ヘイ",瓦,tile,kame,"bin, hei"
+符,2,11,"token, sign, mark, tally, charm",None,フ,竹,bamboo,None,fu
+妻,2,8,"wife, spouse",つま,サイ,女,woman,tsuma,sai
+塞,2,13,"close, shut, cover, block, obstruct","ふさ.ぐ, とりで, み.ちる","ソク, サイ",土,earth,"fusa.gu, toride, mi.chiru","soku, sai"
+襖,1,17,opaque sliding door,"ふすま, あお",オウ,衣,clothes,"fusuma, ao",ou
+附,1,8,"affixed, attach, refer to, append","つ.ける, つ.く",フ,dam,mound,"tsu.keru, tsu.ku",fu
+蓋,1,13,"cover, lid, flap","ふた, けだ.し, おお.う, かさ, かこう","ガイ, カイ, コウ",艸,grass,"futa, keda.shi, oo.u, kasa, kakou","gai, kai, kou"
+麓,1,19,foot of a mountain,ふもと,ロク,鹿,deer,fumoto,roku
+呂,2,7,"spine, backbone",せぼね,"ロ, リョ",口,mouth,sebone,"ro, ryo"
+隊,3,12,"regiment, party, company, squad",None,タイ,dam,mound,None,tai
+荘,1,9,"villa, inn, cottage, feudal manor, solemn, dignified","ほうき, おごそ.か","ソウ, ショウ, チャン",艸,grass,"houki, ogoso.ka","sou, shou, chan"
+箒,1,14,broom,ほうき,"ソウ, シュウ",竹,bamboo,houki,"sou, shuu"
+包,7,5,"wrap, pack up, cover, conceal","つつ.む, くる.む",ホウ,勹,wrap,"tsutsu.mu, kuru.mu",hou
+盆,2,9,"basin, lantern festival, tray",None,ボン,皿,dish,None,bon
+枚,2,8,"sheet of..., counter for flat thin objects or sheets",None,"マイ, バイ",木,tree,None,"mai, bai"
+枕,1,8,pillow,まくら,"チン, シン",木,tree,makura,"chin, shin"
+跨,1,13,"be, sit or stand astride, extend over, straddle","また.がる, またが.る, また.ぐ","コ, カ",足,foot,"mata.garu, mataga.ru, mata.gu","ko, ka"
+窓,2,11,"window, pane","まど, てんまど, けむだし","ソウ, ス",穴,cave,"mado, tenmado, kemudashi","sou, su"
+稀,1,12,"rare, phenomenal, dilute (acid)","まれ, まばら","キ, ケ",禾,grain,"mare, mabara","ki, ke"
+岬,1,8,"headland, cape, spit, promontory",みさき,コウ,山,mountain,misaki,kou
+醜,1,17,"ugly, unclean, shame, bad looking","みにく.い, しこ",シュウ,酉,wine,"miniku.i, shiko",shuu
+暑,3,12,"sultry, hot, summer heat",あつ.い,ショ,日,sun,atsu.i,sho
+矛,1,5,"halberd, arms, festival float",ほこ,"ム, ボウ",矛,spear,hoko,"mu, bou"
+盾,2,9,"shield, escutcheon, pretext",たて,ジュン,目,eye,tate,jun
+紫,1,12,"purple, violet",むらさき,シ,糸,silk,murasaki,shi
+姪,1,9,niece,"めい, おい","テツ, チツ, ジチ, イツ, イチ",女,woman,"mei, oi","tetsu, chitsu, jichi, itsu, ichi"
+迷,4,9,"astray, be perplexed, in doubt, lost, err, illusion",まよ.う,メイ,辵,walk,mayo.u,mei
+銘,1,14,"inscription, signature (of artisan)",None,メイ,金,metal,None,mei
+儲,2,17,"be profitable, yield profit","もう.ける, もう.かる, もうけ, たくわ.える",チョ,人,man,"mou.keru, mou.karu, mouke, takuwa.eru",cho
+凭,1,8,"lean on, recline on, lie heavy","もた.れる, よ.る","ヒョウ, ヘイ",几,table,"mota.reru, yo.ru","hyou, hei"
+餅,1,14,mochi rice cake,"もち, もちい","ヘイ, ヒョウ",食,eat,"mochi, mochii","hei, hyou"
+凄,2,10,"uncanny, weird, threatening, horrible","さむ.い, すご.い, すさ.まじい","セイ, サイ",冫,ice,"samu.i, sugo.i, susa.majii","sei, sai"
+揉,1,12,"rub, massage, shampoo, debate vigorously, train, coach, worry, get in trouble","も.む, も.める",ジュウ,手,hand,"mo.mu, mo.meru",juu
+喧,1,12,"noisy, boisterous","やかま.しい, かまびす.しい",ケン,口,mouth,"yakama.shii, kamabisu.shii",ken
+友,7,4,friend,とも,ユウ,又,right,tomo,yuu
+郵,3,11,"mail, stagecoach stop",None,ユウ,town,town,None,yuu
+悠,1,11,"permanence, distant, long time, leisure",None,ユウ,心,heart,None,yuu
+幼,4,5,"infancy, childhood",おさな.い,ヨウ,幺,short,osana.i,you
+稚,2,13,"immature, young","いとけない, おさない, おくて, おでる","チ, ジ",禾,grain,"itokenai, osanai, okute, oderu","chi, ji"
+羊,1,6,sheep,ひつじ,ヨウ,羊,sheep,hitsuji,you
+漸,1,14,"steadily, gradually advancing, finally, barely","ようや.く, やや, ようよ.う, すす.む",ゼン,水,water,"youya.ku, yaya, youyo.u, susu.mu",zen
+翌,1,11,"the following, next",None,ヨク,羽,feather,None,yoku
+蘇,1,19,"be resuscitated, revived, perilla, shiso",よみがえ.る,"ソ, ス",艸,grass,yomigae.ru,"so, su"
+慶,1,15,"jubilation, congratulate, rejoice, be happy",よろこ.び,ケイ,心,heart,yoroko.bi,kei
+欄,1,20,"column, handrail, blank, space",てすり,ラン,木,tree,tesuri,ran
+寮,2,15,"dormitory, hostel, villa, tea pavillion",None,リョウ,宀,roof,None,ryou
+臨,2,18,"look to, face, meet, confront, attend, call on",のぞ.む,リン,臣,minster,nozo.mu,rin
+零,2,13,"zero, spill, overflow, nothing, cipher","ぜろ, こぼ.す, こぼ.れる",レイ,雨,rain,"zero, kobo.su, kobo.reru",rei
+煉,1,12,"refine metals, kneading over fire",ね.る,レン,火,fire,ne.ru,ren
+右,2,5,right,みぎ,"ウ, ユウ",口,mouth,migi,"u, yuu"
+皿,3,5,"dish, a helping, plate",さら,ベイ,皿,dish,sara,bei
+猿,1,13,monkey,さる,エン,犬,dog,saru,en
+詩,2,13,"poem, poetry",うた,シ,言,speech,uta,shi
+幸,5,8,"happiness, blessing, fortune","さいわ.い, さち, しあわ.せ",コウ,干,pestle,"saiwa.i, sachi, shiawa.se",kou
+舌,1,6,"tongue, reed, clapper",した,ゼツ,舌,tongue,shita,zetsu
+姉,4,8,elder sister,"あね, はは",シ,女,woman,"ane, haha",shi
+妹,3,8,younger sister,いもうと,マイ,女,woman,imouto,mai
+霜,1,17,frost,しも,ソウ,雨,rain,shimo,sou
+州,1,6,"state, province",す,"シュウ, ス",巛,river,su,"shuu, su"
+銃,1,14,"gun, arms",つつ,ジュウ,金,metal,tsutsu,juu
+囲,4,7,"surround, besiege, store, paling, enclosure, encircle, preserve, keep","かこ.む, かこ.う, かこ.い",イ,囗,enclosure,"kako.mu, kako.u, kako.i",i
+穫,1,18,"harvest, reap",None,カク,禾,grain,None,kaku
+渋,1,11,"astringent, hesitate, reluctant, have diarrhea","しぶ, しぶ.い, しぶ.る","ジュウ, シュウ",水,water,"shibu, shibu.i, shibu.ru","juu, shuu"
+章,2,11,"badge, chapter, composition, poem, design",None,ショウ,立,stand,None,shou
+午,3,4,"noon, sign of the horse, 11AM-1PM, seventh sign of Chinese zodiac",うま,ゴ,十,ten,uma,go
+冗,1,4,"superfluous, uselessness",None,ジョウ,冖,cover,None,jou
+卓,1,8,"eminent, table, desk, high",None,タク,十,ten,None,taku
+糧,1,18,"provisions, food, bread",かて,"リョウ, ロウ",米,rice,kate,"ryou, rou"
+斎,1,11,"purification, Buddhist food, room, worship, avoid, alike","とき, つつし.む, ものいみ, い.む, いわ.う, いつ.く",サイ,文,script,"toki, tsutsushi.mu, monoimi, i.mu, iwa.u, itsu.ku",sai
+尻,1,5,"buttocks, hips, butt, rear",しり,コウ,尸,corpse,shiri,kou
+剣,1,10,"sabre, sword, blade, clock hand",つるぎ,ケン,刀,knife,tsurugi,ken
+戚,1,11,"grieve, relatives","いた.む, うれ.える, みうち","ソク, セキ",戈,spear,"ita.mu, ure.eru, miuchi","soku, seki"
+臓,1,19,"entrails, viscera, bowels",はらわた,ゾウ,肉,meat,harawata,zou
+慎,1,13,"humility, be careful, discreet, prudent","つつし.む, つつ.ましい, つつし, つつし.み",シン,心,heart,"tsutsushi.mu, tsutsu.mashii, tsutsushi, tsutsushi.mi",shin
+巣,1,11,"nest, rookery, hive, cobweb, den","す, す.くう",ソウ,巛,river,"su, su.kuu",sou
+薦,1,16,"recommend, mat, advise, encourage, offer",すす.める,セン,艸,grass,susu.meru,sen
+睡,1,13,"drowsy, sleep, die","ねむ.る, ねむ.い",スイ,目,eye,"nemu.ru, nemu.i",sui
+墨,1,14,"black ink, India ink, ink stick, Mexico",すみ,ボク,土,earth,sumi,boku
+刷,2,8,"printing, print, brush","す.る, -ず.り, -ずり, は.く",サツ,刀,knife,"su.ru, -zu.ri, -zuri, ha.ku",satsu
+鋭,1,15,"pointed, sharpness, edge, weapon, sharp, violent",するど.い,エイ,金,metal,surudo.i,ei
+紀,1,9,"chronicle, account, narrative, history, annals, geologic period",None,キ,糸,silk,None,ki
+求,3,7,"request, want, wish for, require, demand",もと.める,"キュウ, グ",水,water,moto.meru,"kyuu, gu"
+贅,1,18,luxury,いぼ,"ゼイ, セイ",貝,shell,ibo,"zei, sei"
+府,1,8,"borough, urban prefecture, govt office, representative body, storehouse",None,フ,广,house,None,fu
+咳,1,9,"cough, clear throat","せ.く, しわぶ.く, せき, しわぶき","カイ, ガイ",口,mouth,"se.ku, shiwabu.ku, seki, shiwabuki","kai, gai"
+揚,1,12,"raise, elevate, hoist, praise, extol, fry in deep fat","あ.げる, -あ.げ, あ.がる",ヨウ,手,hand,"a.geru, -a.ge, a.garu",you
+汗,1,6,"sweat, perspire",あせ,カン,水,water,ase,kan
+暖,5,13,warmth,"あたた.か, あたた.かい, あたた.まる, あたた.める","ダン, ノン",日,sun,"atata.ka, atata.kai, atata.maru, atata.meru","dan, non"
+穴,1,5,"hole, aperture, slit, cave, den",あな,ケツ,穴,cave,ana,ketsu
+嵐,1,12,"storm, tempest",あらし,ラン,山,mountain,arashi,ran
+或,1,8,"some, one, or, possibly, a certain","あ.る, あるい, あるいは","ワク, コク, イキ",戈,spear,"a.ru, arui, aruiha","waku, koku, iki"
+泡,1,8,"bubbles, foam, suds, froth",あわ,ホウ,水,water,awa,hou
+哀,1,9,"pathetic, grief, sorrow, pathos, pity, sympathize","あわ.れ, あわ.れむ, かな.しい",アイ,口,mouth,"awa.re, awa.remu, kana.shii",ai
+胃,1,9,"stomach, paunch, crop, craw",None,イ,肉,meat,None,i
+医,6,7,"doctor, medicine","い.やす, い.する, くすし",イ,匸,hiding,"i.yasu, i.suru, kusushi",i
+兄,4,5,"elder brother, big brother",あに,"ケイ, キョウ",儿,legs,ani,"kei, kyou"
+兎,1,8,"rabbit, hare",うさぎ,"ト, ツ",儿,legs,usagi,"to, tsu"
+牛,3,4,cow,うし,ギュウ,牛,cow,ushi,gyuu
+宇,1,6,"eaves, roof, house, heaven",None,ウ,宀,roof,None,u
+噂,1,15,"rumor, gossip, hearsay",うわさ,ソン,口,mouth,uwasa,son
+永,2,5,"eternity, long, lengthy",なが.い,エイ,水,water,naga.i,ei
+餌,1,14,"food, bait, prey, tempting profit","え, えば, えさ, もち","ジ, ニ",食,eat,"e, eba, esa, mochi","ji, ni"
+丘,2,5,"hill, knoll",おか,キュウ,一,one,oka,kyuu
+沖,1,7,"open sea, offing, rise high into sky","おき, おきつ, ちゅう.する, わく",チュウ,水,water,"oki, okitsu, chuu.suru, waku",chuu
+奥,2,12,"heart, interior","おく, おく.まる, くま",オウ,大,big,"oku, oku.maru, kuma",ou
+喋,1,12,"talk, chat, chatter","しゃべ.る, ついば.む","チョウ, トウ",口,mouth,"shabe.ru, tsuiba.mu","chou, tou"
+穏,1,16,"calm, quiet, moderation",おだ.やか,オン,禾,grain,oda.yaka,on
+劣,1,6,"inferiority, be inferior to, be worse",おと.る,レツ,力,power,oto.ru,retsu
+鬼,1,10,"ghost, devil","おに, おに-",キ,鬼,ghost,"oni, oni-",ki
+溺,1,13,"drown, indulge","いばり, おぼ.れる","デキ, ジョウ, ニョウ",水,water,"ibari, obo.reru","deki, jou, nyou"
+泳,3,8,swim,およ.ぐ,エイ,水,water,oyo.gu,ei
+卸,1,9,wholesale,"おろ.す, おろし, おろ.し",シャ,卩,kneel,"oro.su, oroshi, oro.shi",sha
+釈,1,11,explanation,"とく, す.てる, ゆる.す","シャク, セキ",釆,divide,"toku, su.teru, yuru.su","shaku, seki"
+輝,1,15,"radiance, shine, sparkle, gleam, twinkle",かがや.く,キ,車,cart,kagaya.ku,ki
+罹,1,16,"catch, get",かか.る,"リ, ラ",网,net,kaka.ru,"ri, ra"
+嗅,1,13,"smell, sniff, scent",か.ぐ,キュウ,口,mouth,ka.gu,kyuu
+菓,2,11,"candy, cakes, fruit",None,カ,艸,grass,None,ka
+肩,1,8,shoulder,かた,ケン,肉,meat,kata,ken
+堅,2,12,"strict, hard, solid, tough, tight, reliable","かた.い, -がた.い",ケン,土,earth,"kata.i, -gata.i",ken
+雷,1,13,"thunder, lightning bolt","かみなり, いかずち, いかづち",ライ,雨,rain,"kaminari, ikazuchi, ikazuchi",rai
+刈,1,4,"reap, cut, clip, trim, prune",か.る,"ガイ, カイ",刀,knife,ka.ru,"gai, kai"
+渇,1,11,"thirst, dry up, parch",かわ.く,カツ,水,water,kawa.ku,katsu
+歓,2,15,"delight, joy",よろこ.ぶ,カン,欠,lack,yoroko.bu,kan
+患,1,11,"afflicted, disease, suffer from, be ill",わずら.う,カン,心,heart,wazura.u,kan
+督,1,13,"coach, command, urge, lead, supervise",None,トク,目,eye,None,toku
+憶,1,16,"recollection, think, remember",None,オク,心,heart,None,oku
+械,2,11,"contraption, fetter, machine, instrument",かせ,カイ,木,tree,kase,kai
+候,3,10,"climate, season, weather, wait for, expect",そうろう,コウ,人,man,sourou,kou
+希,1,7,"hope, beg, request, pray, beseech, Greece, dilute (acid), rare, few, phenomenal","まれ, こいねが.う","キ, ケ",巾,turban,"mare, koinega.u","ki, ke"
+奇,1,8,"strange, strangeness, curiosity","く.しき, あや.しい, くし, めずら.しい",キ,大,big,"ku.shiki, aya.shii, kushi, mezura.shii",ki
+憩,1,16,"recess, rest, relax, repose","いこ.い, いこ.う",ケイ,心,heart,"iko.i, iko.u",kei
+吸,3,6,"suck, imbibe, inhale, sip",す.う,キュウ,口,mouth,su.u,kyuu
+怖,2,8,"dreadful, be frightened, fearful","こわ.い, こわ.がる, お.じる, おそ.れる","フ, ホ",心,heart,"kowa.i, kowa.garu, o.jiru, oso.reru","fu, ho"
+巨,1,5,"gigantic, big, large, great",None,キョ,工,work,None,kyo
+霧,1,19,"fog, mist",きり,"ム, ボウ, ブ",雨,rain,kiri,"mu, bou, bu"
+銀,2,14,silver,しろがね,ギン,金,metal,shirogane,gin
+銭,2,14,"coin, .01 yen, money","ぜに, すき","セン, ゼン",金,metal,"zeni, suki","sen, zen"
+癖,1,18,"mannerism, habit, vice, trait, fault, kink","くせ, くせ.に",ヘキ,疒,sickness,"kuse, kuse.ni",heki
+汲,1,7,"draw (water), ladle, scoop, pump",く.む,キュウ,水,water,ku.mu,kyuu
+酌,1,10,"bar-tending, serving sake, the host, draw (water), ladle, scoop, pump",く.む,シャク,酉,wine,ku.mu,shaku
+咥,1,9,"laugh, chew, eat","か.む, くわ.える","テツ, キ",口,mouth,"ka.mu, kuwa.eru","tetsu, ki"
+契,2,9,"pledge, promise, vow",ちぎ.る,ケイ,大,big,chigi.ru,kei
+由,4,5,"wherefore, a reason","よし, よ.る","ユ, ユウ, ユイ",田,field,"yoshi, yo.ru","yu, yuu, yui"
+粧,1,12,"cosmetics, adorn (one's person)",None,ショウ,米,rice,None,shou
+陥,1,10,"collapse, fall into, cave in, fall (castle), slide into","おちい.る, おとしい.れる",カン,dam,mound,"ochii.ru, otoshii.reru",kan
+康,1,11,"ease, peace",None,コウ,广,house,None,kou
+憲,1,16,"constitution, law",None,ケン,心,heart,None,ken
+航,2,10,"navigate, sail, cruise, fly",None,コウ,舟,boat,None,kou
+貢,1,10,"tribute, support, finance",みつ.ぐ,"コウ, ク",貝,shell,mitsu.gu,"kou, ku"
+輩,2,15,"comrade, fellow, people, companions","-ばら, やから, やかい, ともがら",ハイ,車,cart,"-bara, yakara, yakai, tomogara",hai
+氷,1,5,"icicle, ice, hail, freeze, congeal","こおり, ひ, こお.る",ヒョウ,水,water,"koori, hi, koo.ru",hyou
+克,1,7,"overcome, kindly, skillfully",か.つ,コク,儿,legs,ka.tsu,koku
+穀,1,14,"cereals, grain",None,コク,禾,grain,None,koku
+胡,1,9,"barbarian, foreign",なんぞ,"ウ, コ, ゴ",肉,meat,nanzo,"u, ko, go"
+椒,1,12,Japanese pepper tree,はじかみ,ショウ,木,tree,hajikami,shou
+諺,1,16,proverb,ことわざ,ゲン,言,speech,kotowaza,gen
+麦,2,7,"barley, wheat",むぎ,バク,麥,wheat,mugi,baku
+桜,1,10,cherry,さくら,"オウ, ヨウ",木,tree,sakura,"ou, you"
+挿,1,10,"insert, put in, graft, wear (sword)","さ.す, はさ.む",ソウ,手,hand,"sa.su, hasa.mu",sou
+注,8,8,"pour, irrigate, shed (tears), flow into, concentrate on, notes, comment, annotate","そそ.ぐ, さ.す, つ.ぐ",チュウ,水,water,"soso.gu, sa.su, tsu.gu",chuu
+豆,1,7,"beans, pea, midget","まめ, まめ-","トウ, ズ",豆,bean,"mame, mame-","tou, zu"
+魅,1,15,"fascination, charm, bewitch",None,ミ,鬼,ghost,None,mi
+寧,2,14,"rather, preferably, peaceful, quiet, tranquility",むし.ろ,ネイ,宀,roof,mushi.ro,nei
+夢,2,13,"dream, vision, illusion","ゆめ, ゆめ.みる, くら.い","ム, ボウ",夕,evening,"yume, yume.miru, kura.i","mu, bou"
+胸,1,10,"bosom, breast, chest, heart, feelings","むね, むな-",キョウ,肉,meat,"mune, muna-",kyou
+綿,3,14,cotton,わた,メン,糸,silk,wata,men
+尤,1,4,"reasonable, just, natural, superb, outstanding, plausible","もっと.も, とが.める",ユウ,尢,lame,"motto.mo, toga.meru",yuu
+厄,1,4,"unlucky, misfortune, bad luck, disaster",None,ヤク,厂,cliff,None,yaku
+雇,1,12,"employ, hire",やと.う,コ,隹,small,yato.u,ko
+唯,3,11,"solely, only, merely, simply",ただ,"ユイ, イ",口,mouth,tada,"yui, i"
+秀,1,7,"excel, excellence, beauty, surpass",ひい.でる,シュウ,禾,grain,hii.deru,shuu
+愉,1,12,"pleasure, happy, rejoice","たの.しい, たの.しむ",ユ,心,heart,"tano.shii, tano.shimu",yu
+茹,1,9,"boil, seethe","ゆ.でる, う.でる","ジョ, ニョ",艸,grass,"yu.deru, u.deru","jo, nyo"
+裕,1,12,"abundant, rich, fertile",None,ユウ,衣,clothes,None,yuu
+脇,1,10,"armpit, the other way, another place, flank, supporting role","わき, わけ",キョウ,肉,meat,"waki, wake",kyou
+湧,1,12,"boil, ferment, seethe, uproar, breed",わ.く,"ユウ, ヨウ, ユ",水,water,wa.ku,"yuu, you, yu"
+僅,1,12,a wee bit,わず.か,"キン, ゴン",人,man,wazu.ka,"kin, gon"
+湾,1,12,"gulf, bay, inlet",いりえ,ワン,水,water,irie,wan
+椀,1,12,wooden or lacquered bowl,はち,ワン,木,tree,hachi,wan
+碗,2,13,"porcelain bowl, tea cup",こばち,ワン,石,stone,kobachi,wan
+渦,1,12,"whirlpool, eddy, vortex",うず,カ,水,water,uzu,ka
+尾,1,7,"tail, end, counter for fish, lower slope of mountain",お,ビ,尸,corpse,o,bi
+狩,1,9,"hunt, raid, gather","か.る, か.り, -が.り",シュ,犬,dog,"ka.ru, ka.ri, -ga.ri",shu
+癌,1,17,"cancer, cancerous evil",None,ガン,疒,sickness,None,gan
+声,3,7,voice,"こえ, こわ-","セイ, ショウ",士,scholar,"koe, kowa-","sei, shou"
+僚,2,14,"colleague, official, companion",None,リョウ,人,man,None,ryou
+陵,1,11,"mausoleum, imperial tomb, mound, hill",みささぎ,リョウ,dam,mound,misasagi,ryou
+享,1,8,"enjoy, receive, undergo, answer (phone), take, get, catch",う.ける,"キョウ, コウ",亠,lid,u.keru,"kyou, kou"
+拘,1,8,"arrest, seize, concerned, adhere to, despite",かか.わる,コウ,手,hand,kaka.waru,kou
+袖,1,10,"sleeve, wing (building), extension, give cold shoulder",そで,シュウ,衣,clothes,sode,shuu
+蕎,1,15,buckwheat,そば,キョウ,艸,grass,soba,kyou
+逮,1,11,"apprehend, chase",None,タイ,辵,walk,None,tai
+只,1,5,"only, free, in addition",ただ,シ,口,mouth,tada,shi
+谷,1,7,valley,"たに, きわ.まる",コク,谷,valley,"tani, kiwa.maru",koku
+玉,1,5,"jewel, ball","たま, たま-, -だま",ギョク,jade,jade,"tama, tama-, -dama",gyoku
+騙,1,19,deceive,"かた.る, だま.す",ヘン,馬,horse,"kata.ru, dama.su",hen
+誕,2,15,"nativity, be born, declension, lie, be arbitrary",None,タン,言,speech,None,tan
+央,1,5,"center, middle",None,オウ,大,big,None,ou
+駐,2,15,"stop-over, reside in, resident",None,チュウ,馬,horse,None,chuu
+掴,1,11,"catch, seize, grasp, hold, arrest, capture","つか.む, つか.まえる, つか.まる",カク,手,hand,"tsuka.mu, tsuka.maeru, tsuka.maru",kaku
+翼,1,17,"wing, plane, flank",つばさ,ヨク,羽,feather,tsubasa,yoku
+罪,2,13,"guilt, sin, crime, fault, blame, offense",つみ,ザイ,网,net,tsumi,zai
+抵,2,8,"resist, reach, touch",None,テイ,手,hand,None,tei
+哲,1,10,"philosophy, clear","さとい, あきらか",テツ,口,mouth,"satoi, akiraka",tetsu
+塔,1,12,"pagoda, tower, steeple",None,トウ,土,earth,None,tou
+徳,1,14,"benevolence, virtue, goodness, commanding respect",None,トク,彳,step,None,toku
+票,2,11,"ballot, label, ticket, sign",None,ヒョウ,示,sign,None,hyou
+虎,1,8,"tiger, drunkard",とら,コ,虍,tiger,tora,ko
+泥,2,8,"mud, mire, adhere to, be attached to","どろ, なず.む","デイ, ナイ, デ, ニ",水,water,"doro, nazu.mu","dei, nai, de, ni"
+眺,2,11,"stare, watch, look at, see, scrutinize",なが.める,チョウ,目,eye,naga.meru,chou
+鍋,1,17,"pot, pan, kettle",なべ,カ,金,metal,nabe,ka
+涙,1,10,"tears, sympathy",なみだ,"ルイ, レイ",水,water,namida,"rui, rei"
+縄,1,15,"straw rope, cord","なわ, ただ.す",ジョウ,糸,silk,"nawa, tada.su",jou
+濡,2,17,"get wet, damp, make love","ぬれ.る, ぬら.す, ぬ.れる, ぬ.らす, うるお.い, うるお.う, うるお.す","ジュ, ニュ",水,water,"nure.ru, nura.su, nu.reru, nu.rasu, uruo.i, uruo.u, uruo.su","ju, nyu"
+鼠,1,13,"rat, mouse, dark gray","ねずみ, ねず","ソ, ショ",鼠,rat,"nezumi, nezu","so, sho"
+齢,1,17,age,"よわい, とし",レイ,齒,tooth,"yowai, toshi",rei
+覗,1,12,"peep, peek, come in sight","のぞ.く, うかが.う",シ,見,see,"nozo.ku, ukaga.u",shi
+伸,2,7,"expand, stretch, extend, lengthen, increase","の.びる, の.ばす, の.べる, の.す",シン,人,man,"no.biru, no.basu, no.beru, no.su",shin
+鹿,1,11,deer,"しか, か",ロク,鹿,deer,"shika, ka",roku
+博,2,12,"Dr., command, esteem, win acclaim, Ph.D., exposition, fair",None,"ハク, バク",十,ten,None,"haku, baku"
+拍,1,8,"clap, beat (music)",None,"ハク, ヒョウ",手,hand,None,"haku, hyou"
+莫,1,10,"must not, do not, be not","くれ, なか.れ, なし","バク, ボ, マク, モ, ナイ",艸,grass,"kure, naka.re, nashi","baku, bo, maku, mo, nai"
+旗,1,14,"national flag, banner, standard",はた,キ,方,square,hata,ki
+畑,1,9,"farm, field, garden, one's specialty, (kokuji)","はた, はたけ, -ばたけ",None,田,field,"hata, hatake, -batake",None
+販,1,11,"marketing, sell, trade",None,ハン,貝,shell,None,han
+膝,1,15,"knee, lap",ひざ,シツ,肉,meat,hiza,shitsu
+批,2,7,"criticism, strike",None,ヒ,手,hand,None,hi
+紐,1,10,"string, cord, braid, lace, tape, strap, ribbon",ひも,"チュウ, ジュウ",糸,silk,himo,"chuu, juu"
+秒,1,9,second (1/60 minute),None,ビョウ,禾,grain,None,byou
+笛,1,11,"flute, clarinet, pipe, whistle, bagpipe, piccolo",ふえ,テキ,竹,bamboo,fue,teki
+含,2,7,"contain, include, hold in the mouth, bear in mind, understand, cherish","ふく.む, ふく.める",ガン,口,mouth,"fuku.mu, fuku.meru",gan
+双,1,4,"pair, set, comparison, counter for pairs","ふた, たぐい, ならぶ, ふたつ",ソウ,又,right,"futa, tagui, narabu, futatsu",sou
+雰,1,12,"atmosphere, fog",None,フン,雨,rain,None,fun
+析,1,8,"chop, divide, tear, analyze",None,セキ,木,tree,None,seki
+塀,1,12,"fence, wall, (kokuji)",None,"ヘイ, ベイ",土,earth,None,"hei, bei"
+吠,1,7,"bark, howl, cry","ほえ.る, ほ.える","ハイ, ベイ",口,mouth,"hoe.ru, ho.eru","hai, bei"
+埃,1,10,dust,"ほこり, ちり",アイ,土,earth,"hokori, chiri",ai
+炎,1,8,"inflammation, flame, blaze",ほのお,エン,火,fire,honoo,en
+頬,2,15,"cheeks, jaw","ほお, ほほ",キョウ,頁,leaf,"hoo, hoho",kyou
+堀,1,11,"ditch, moat, canal",ほり,クツ,土,earth,hori,kutsu
+濠,1,17,"moat, ditch, canal, Australia",ほり,"ゴウ, コウ",水,water,hori,"gou, kou"
+蒔,1,13,sow (seeds),"う.える, ま.く","シ, ジ",艸,grass,"u.eru, ma.ku","shi, ji"
+撒,1,15,"scatter, sprinkle, give them the slip",ま.く,"サン, サツ",手,hand,ma.ku,"san, satsu"
+幕,1,13,"curtain, bunting, act of play",とばり,"マク, バク",巾,turban,tobari,"maku, baku"
+松,1,8,pine tree,まつ,ショウ,木,tree,matsu,shou
+柵,1,9,"stockade, fence, weir, entwine around","しがら.む, しがらみ, とりで, やらい","サク, サン",木,tree,"shigara.mu, shigarami, toride, yarai","saku, san"
+己,1,3,self,"おのれ, つちのと, な","コ, キ",己,oneself,"onore, tsuchinoto, na","ko, ki"
+肪,1,8,"obese, fat",None,ボウ,肉,meat,None,bou
+涯,1,11,"horizon, shore, limit, bound",はて,ガイ,水,water,hate,gai
+膳,1,16,"small low table, tray","かしわ, すす.める, そな.える","ゼン, セン",肉,meat,"kashiwa, susu.meru, sona.eru","zen, sen"
+禅,1,13,"Zen, silent meditation","しずか, ゆず.る","ゼン, セン",示,sign,"shizuka, yuzu.ru","zen, sen"
+僧,1,13,"Buddhist priest, monk",None,ソウ,人,man,None,sou
+縦,1,16,"vertical, length, height, self-indulgent, wayward",たて,ジュウ,糸,silk,tate,juu
+棟,1,12,"ridgepole, ridge","むね, むな-",トウ,木,tree,"mune, muna-",tou
+綴,1,14,"compose, spell, write, bind (books)","と.じる, つづ.る, つづり, すみ.やか","テイ, テツ, テチ, ゲツ",糸,silk,"to.jiru, tsuzu.ru, tsuzuri, sumi.yaka","tei, tetsu, techi, getsu"
+肺,1,9,lungs,None,ハイ,肉,meat,None,hai
+諮,1,16,consult with,はか.る,シ,言,speech,haka.ru,shi
+班,1,10,"squad, corps, unit, group",None,ハン,jade,jade,None,han
+碑,1,14,"tombstone, monument",いしぶみ,ヒ,石,stone,ishibumi,hi
+膜,1,14,membrane,None,マク,肉,meat,None,maku
+捲,1,11,"roll, wind, coil, turn pages, roll up sleeves, strip off, be turned, be rolled up","ま.く, ま.くる, まく.る, めく.る, まく.れる",ケン,手,hand,"ma.ku, ma.kuru, maku.ru, meku.ru, maku.reru",ken
+枠,1,8,"frame, framework, spindle, spool, bounding-box, (kokuji)",わく,None,木,tree,waku,None
+漫,1,14,"cartoon, involuntarily, unrestrained, in spite of oneself, corrupt","みだり.に, そぞ.ろ",マン,水,water,"midari.ni, sozo.ro",man
+僕,1,14,"me, I (male), servant, manservant",しもべ,ボク,人,man,shimobe,boku
+拾,1,9,"pick up, gather, find, go on foot, ten",ひろ.う,"シュウ, ジュウ",手,hand,hiro.u,"shuu, juu"
+彼,3,8,"he, that, the","かれ, かの, か.の",ヒ,彳,step,"kare, kano, ka.no",hi
+絹,1,13,silk,きぬ,ケン,糸,silk,kinu,ken
+痩,1,12,get thin,や.せる,"ソウ, チュウ, シュウ, シュ",疒,sickness,ya.seru,"sou, chuu, shuu, shu"
+雲,1,12,cloud,"くも, -ぐも",ウン,雨,rain,"kumo, -gumo",un
+坂,1,7,"slope, incline, hill",さか,ハン,土,earth,saka,han
+昔,1,8,"once upon a time, antiquity, old times",むかし,"セキ, シャク",日,sun,mukashi,"seki, shaku"
+壁,1,16,"wall, lining (stomach), fence",かべ,ヘキ,土,earth,kabe,heki
+泣,1,8,"cry, weep, moan",な.く,キュウ,水,water,na.ku,kyuu
+漬,1,14,"pickling, soak, moisten, steep","つ.ける, つ.かる, -づ.け, -づけ",シ,水,water,"tsu.keru, tsu.karu, -zu.ke, -zuke",shi
+挨,1,10,"approach, draw near, push open",ひら.く,アイ,手,hand,hira.ku,ai
+拶,1,9,"be imminent, draw close",せま.る,サツ,手,hand,sema.ru,satsu
+踊,2,14,"jump, dance, leap, skip",おど.る,ヨウ,足,foot,odo.ru,you
+塗,1,13,"paint, plaster, daub, smear, coating","ぬ.る, ぬ.り, まみ.れる",ト,土,earth,"nu.ru, nu.ri, mami.reru",to
+珍,1,9,"rare, curious, strange","めずら.しい, たから",チン,jade,jade,"mezura.shii, takara",chin
+寂,1,11,"loneliness, quietly, mellow, mature, death of a priest","さび, さび.しい, さび.れる, さみ.しい","ジャク, セキ",宀,roof,"sabi, sabi.shii, sabi.reru, sami.shii","jaku, seki"
+噌,1,14,boisterous,かまびす.しい,"ソウ, ショウ, ソ",口,mouth,kamabisu.shii,"sou, shou, so"
+貿,1,12,"trade, exchange",None,ボウ,貝,shell,None,bou
+皆,2,9,"all, everything","みな, みんな",カイ,白,white,"mina, minna",kai
+隅,1,12,"corner, nook",すみ,グウ,dam,mound,sumi,guu
+伺,1,7,"pay respects, visit, ask, inquire, question, implore",うかが.う,シ,人,man,ukaga.u,shi
+喉,1,12,"throat, voice",のど,コウ,口,mouth,nodo,kou
+叱,1,5,"scold, reprove",しか.る,"シツ, シチ, カ",口,mouth,shika.ru,"shitsu, shichi, ka"
+枝,1,8,"bough, branch, twig, limb, counter for branches",えだ,シ,木,tree,eda,shi
+尋,1,12,"inquire, fathom, look for","たず.ねる, ひろ",ジン,寸,thumb,"tazu.neru, hiro",jin
+億,1,15,"hundred million, 10**8",None,オク,人,man,None,oku
+紹,1,11,"introduce, inherit, help",None,ショウ,糸,silk,None,shou
+舟,1,6,"boat, ship","ふね, ふな-, -ぶね",シュウ,舟,boat,"fune, funa-, -bune",shuu
+翻,1,18,"flip, turn over, wave, flutter, change (mind)","ひるがえ.る, ひるがえ.す","ホン, ハン",羽,feather,"hirugae.ru, hirugae.su","hon, han"
+娘,1,10,"daughter, girl","むすめ, こ",ジョウ,女,woman,"musume, ko",jou
+湖,1,12,lake,みずうみ,コ,水,water,mizuumi,ko
+嬉,1,15,"glad, pleased, rejoice","うれ.しい, たの.しむ",キ,女,woman,"ure.shii, tano.shimu",ki
+秋,1,9,autumn,"あき, とき",シュウ,禾,grain,"aki, toki",shuu
+飴,1,13,"rice jelly, candy","あめ, やしな.う","イ, シ",食,eat,"ame, yashina.u","i, shi"
+椅,1,12,chair,None,イ,木,tree,None,i
+犬,1,4,dog,"いぬ, いぬ-",ケン,犬,dog,"inu, inu-",ken
+駅,1,14,station,None,エキ,馬,horse,None,eki
+鍵,1,17,key,かぎ,ケン,金,metal,kagi,ken
+傘,1,12,umbrella,かさ,サン,人,man,kasa,san
+喫,1,12,"consume, eat, drink, smoke, receive (a blow)",の.む,キツ,口,mouth,no.mu,kitsu
+九,4,2,nine,"ここの, ここの.つ","キュウ, ク",乛,second,"kokono, kokono.tsu","kyuu, ku"
+綺,1,14,"figured cloth, beautiful",あや,キ,糸,silk,aya,ki
+麗,1,19,"lovely, beautiful, graceful, resplendent","うるわ.しい, うら.らか",レイ,鹿,deer,"uruwa.shii, ura.raka",rei
+靴,2,13,shoes,くつ,カ,革,leather,kutsu,ka
+曇,2,16,"cloudy weather, cloud up",くも.る,ドン,日,sun,kumo.ru,don
+咲,1,9,"blossom, bloom","さ.く, -ざき",ショウ,口,mouth,"sa.ku, -zaki",shou
+冊,1,5,"tome, counter for books, volume",ふみ,"サツ, サク",冂,open,fumi,"satsu, saku"
+誌,1,14,"document, records",None,シ,言,speech,None,shi
+糖,1,16,sugar,None,トウ,米,rice,None,tou
+七,3,2,seven,"なな, なな.つ, なの",シチ,一,one,"nana, nana.tsu, nano",shichi
+醤,1,17,a kind of miso,ひしお,ショウ,酉,wine,hishio,shou
+鹸,1,19,saltiness,あ.く,"ケン, カン, セン",鹵,salt,a.ku,"ken, kan, sen"
+狭,1,9,"cramped, narrow, contract, tight","せま.い, せば.める, せば.まる, さ","キョウ, コウ",犬,dog,"sema.i, seba.meru, seba.maru, sa","kyou, kou"
+千,1,3,thousand,ち,セン,十,ten,chi,sen
+卵,1,7,"egg, ovum, spawn, roe",たまご,ラン,卩,kneel,tamago,ran
+誰,2,15,"who, someone, somebody","だれ, たれ, た",スイ,言,speech,"dare, tare, ta",sui
+机,1,6,"desk, table",つくえ,キ,木,tree,tsukue,ki
+隣,1,16,neighboring,"とな.る, となり",リン,dam,mound,"tona.ru, tonari",rin
+鶏,1,19,chicken,"にわとり, とり",ケイ,鳥,bird,"niwatori, tori",kei
+夏,2,10,summer,なつ,"カ, ガ, ゲ",夊,go,natsu,"ka, ga, ge"
+猫,1,11,cat,ねこ,ビョウ,犬,dog,neko,byou
+箱,1,15,"box, chest, case, bin, railway car",はこ,ソウ,竹,bamboo,hako,sou
+箸,1,15,chopsticks,はし,"チョ, チャク",竹,bamboo,hashi,"cho, chaku"
+八,4,2,"eight, eight radical (no. 12)","や, や.つ, やっ.つ, よう","ハチ, ハツ",八,eight,"ya, ya.tsu, ya.tsu, you","hachi, hatsu"
+貼,1,12,"stick, paste, apply","は.る, つ.く","テン, チョウ",貝,shell,"ha.ru, tsu.ku","ten, chou"
+豚,1,11,"pork, pig",ぶた,トン,豕,pig,buta,ton
+帽,1,12,"cap, headgear","ずきん, おお.う","ボウ, モウ",巾,turban,"zukin, oo.u","bou, mou"
+緑,1,14,green,みどり,"リョク, ロク",糸,silk,midori,"ryoku, roku"
+六,3,4,six,"む, む.つ, むっ.つ, むい","ロク, リク",八,eight,"mu, mu.tsu, mu.tsu, mui","roku, riku"
+菜,1,11,"vegetable, side dish, greens",な,サイ,艸,grass,na,sai
+廊,1,12,"corridor, hall, tower",None,ロウ,广,house,None,rou
