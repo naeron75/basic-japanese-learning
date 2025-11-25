@@ -35,6 +35,7 @@ hiragana=pd.DataFrame(clean_hiragana, columns=['kana', 'romaji', 'type'])
 katakana=pd.DataFrame(clean_katakana, columns=['kana', 'romaji', 'type'])
 
 kana = pd.concat([hiragana, katakana], ignore_index=True)
+
 kana_stroke_count=[
     3,2,2,2,3,
     3,3,1,3,2,
@@ -96,4 +97,31 @@ kana_stroke_count=[
 
 ]
 kana['stroke_count']=kana_stroke_count
-kana.to_csv('basic-japanese-learning/dataset/kana_romaji.csv', index=False)
+
+small_kana_data = {
+    'kana': [
+        # Small Hiragana
+        'ゃ', 'ゅ', 'ょ', 'っ', 'ぁ', 'ぃ', 'ぅ', 'ぇ', 'ぉ', 
+        # Small Katakana
+        'ャ', 'ュ', 'ョ', 'ッ', 'ァ', 'ィ', 'ゥ', 'ェ', 'ォ'
+    ],
+    'romaji': ['','','','','','','','','','','','','','','','','',''],
+    'type': [
+        # Type
+        'hiragana', 'hiragana', 'hiragana', 'hiragana', 'hiragana', 'hiragana', 'hiragana', 'hiragana', 'hiragana',
+        'katakana', 'katakana', 'katakana', 'katakana', 'katakana', 'katakana', 'katakana', 'katakana', 'katakana'
+    ],
+    'stroke_count': [
+        # Hiragana Strokes
+        3, 2, 2, 1, 3, 2, 2, 2, 3, 
+        # Katakana Strokes (using the same standard counts for similar forms)
+        2, 2, 3, 3, 2, 2, 3, 3, 3
+    ]
+    
+}
+
+small_kana_df = pd.DataFrame(small_kana_data)
+
+kana_df = pd.concat([kana, small_kana_df], ignore_index=True)
+
+kana_df.to_csv('basic-japanese-learning/dataset/kana_romaji.csv', index=False)
