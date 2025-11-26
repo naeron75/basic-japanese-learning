@@ -124,4 +124,4 @@ small_kana_df = pd.DataFrame(small_kana_data)
 
 kana_df = pd.concat([kana, small_kana_df], ignore_index=True)
 
-kana_df.to_csv('basic-japanese-learning/dataset/kana_romaji.csv', index=False)
+kana_df.to_csv('dataset/kana_romaji.csv', index=False)
