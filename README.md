@@ -1,6 +1,6 @@
-#Basic Japanese Learning Resources
+# Basic Japanese Learning Resources
 
-A foundational repository dedicated to self-study and structured learning of the Japanese language for beginners.
+A repository dedicated to self-study and structured learning of the Japanese language for beginners.
 
 ***
 
@@ -69,3 +69,4 @@ If you have suggestions for new content, corrections to existing notes, or bette
 
 
 Project Link: [https://github.com/naeron75/basic-japanese-learning](https://github.com/naeron75/basic-japanese-learning)
+
