@@ -1,4 +1,4 @@
-# 🇯🇵 Basic Japanese Learning Resources
+#Basic Japanese Learning Resources
 
 A foundational repository dedicated to self-study and structured learning of the Japanese language for beginners.
 
@@ -6,39 +6,16 @@ A foundational repository dedicated to self-study and structured learning of the
 
 ## Table of Contents
 * [🌟 Overview](#-overview)
-* [📚 Learning Content](#-learning-content)
 * [🚀 Getting Started](#-getting-started)
     * [Cloning the Repository](#cloning-the-repository)
     * [Using the requirements.txt](#using-the-requirementstxt)
 * [🤝 Contributing](#-contributing)
-* [📄 License](#-license)
 
 ***
 
 ## 🌟 Overview
 
 This repository provides a curated collection of notes, resources, practice materials, and structured files designed to guide absolute beginners through the essential elements of the Japanese language. The goal is to establish a strong foundation in reading, writing, and basic conversational skills.
-
-***
-
-## 📚 Learning Content
-
-The resources in this repository are structured to follow a logical progression for new learners, typically covering the following key areas:
-
-### 1. Script Mastery
-* **Hiragana (ひらがな):** Complete charts and practice sheets for the fundamental phonetic script.
-* **Katakana (カタカナ):** Complete charts and practice sheets for the script used primarily for foreign loanwords.
-* **Kanji (漢字):** Introduction to fundamental radicals and the most frequently used beginner-level kanji (e.g., JLPT N5 level).
-
-### 2. Vocabulary & Grammar
-* **Essential Vocabulary:** Lists of common nouns, verbs, and adjectives.
-* **Particle Usage:** Detailed explanations and examples for common particles (`は`, `が`, `を`, `に`, `へ`, `で`, etc.).
-* **Basic Sentence Structure:** Understanding the Subject-Object-Verb (SOV) order.
-* **Conjugation:** Introduction to polite and plain forms of verbs and adjectives.
-
-### 3. Practice Materials
-* **Reading Drills:** Short example sentences and texts.
-* **Audio/Pronunciation Guides:** (If included) Resources to help with correct pitch accent and pronunciation.
 
 ***
 
@@ -71,6 +48,10 @@ If this repository includes any Python scripts (e.g., for data processing, flash
 
     *Note: It's often a good practice to use a **virtual environment** (like `venv` or `conda`) to manage project-specific dependencies.*
 
+### Using your own .env file
+
+If you want to connect to a MySQL Databse or BigQuery for example, you need to have your own .env file stored in the repository.
+
 ***
 
 ## 🤝 Contributing
@@ -85,14 +66,6 @@ If you have suggestions for new content, corrections to existing notes, or bette
 4.  **Push** to the Branch (`git push origin feature/AmazingFeature`).
 5.  **Open** a Pull Request.
 
-***
 
-## 📄 License
-
-Distributed under the **MIT License**. See the `LICENSE` file in the repository for more information.
-
-***
-
-## ✉️ Contact
 
 Project Link: [https://github.com/naeron75/basic-japanese-learning](https://github.com/naeron75/basic-japanese-learning)
