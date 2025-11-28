@@ -113,6 +113,6 @@ def get_kanji():
 
     query = Kanji.query
     if min_strokes:
-        query = query.filter(Kanji.stroke_count >= min_strokes)
+        query = query.filter(Kanji.strokes >= min_strokes)
 
     pagination = query.paginate(page=page, per_page=per_page, error_out=False)
