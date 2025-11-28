@@ -63,56 +63,91 @@ def get_pagination_links(pagination):
 
 @app.route('/words', methods=['GET'])
 def get_words():
-    # --- NEW SEARCH LOGIC ---
+    # 1. Check for single-item search (using the 'term' parameter)
     search_term = request.args.get('term')
 
     if search_term:
-        # Perform the search lookup
         word_data = Word.query.filter_by(word=search_term).first()
-
         if word_data:
-            # If found, return the single word's details
             return jsonify(word_data.to_dict())
         else:
-            # If not found
             return jsonify({"message": f"Word '{search_term}' not found."}), 404
-    # --- END NEW SEARCH LOGIC ---
-    
-    # Existing Pagination/List Logic (runs if no 'term' parameter is provided)
-    page = request.args.get('page', 1, type=int)
-    per_page = request.args.get('per_page', 20, type=int)
-    jlpt_level = request.args.get('jlpt_level')
 
-    query = Word.query
-    if jlpt_level:
-        query = query.filter_by(jlpt_level=jlpt_level)
+    # 2. List, Filter, and Paginate logic (runs if 'term' is NOT provided)
+    try:
+        page = request.args.get('page', 1, type=int)
+        per_page = request.args.get('per_page', 20, type=int)
+        jlpt_level = request.args.get('jlpt_level') # The parameter causing your current issue
 
-    pagination = query.paginate(page=page, per_page=per_page, error_out=False)
+        query = Word.query
+
+        # Apply filtering (jlpt_level)
+        if jlpt_level:
+            query = query.filter_by(jlpt_level=jlpt_level)
+
+        # Apply pagination
+        pagination = query.paginate(page=page, per_page=per_page, error_out=False)
+
+        # 3. Process and return the paginated results
+        # This will correctly handle an empty result set (e.g., if no N5 words exist)
+        results = [word.to_dict() for word in pagination.items]
+
+        # This is the guaranteed return path for the list view
+        return jsonify({
+            'page': pagination.page,
+            'per_page': pagination.per_page,
+            'total_pages': pagination.pages,
+            'total_items': pagination.total,
+            'words': results
+        })
+
+    except Exception as e:
+        # Catch unexpected database or processing errors
+        print(f"An unexpected error occurred in get_words list view: {e}")
+        return jsonify({"message": "An internal server error occurred.", "error": str(e)}), 500
 
 @app.route('/kanji', methods=['GET'])
 def get_kanji():
-    # --- NEW SEARCH LOGIC ---
+    # 1. Check for single-item search
     search_term = request.args.get('term')
 
     if search_term:
-        # Perform the search lookup by the 'kanji' column
-        kanji_data = Kanji.query.filter_by(kanji=search_term).first()
-
+        kanji_data = Kanji.query.filter_by(character=search_term).first()
         if kanji_data:
-            # If found, return the single Kanji's details
-            return jsonify(kanji_data.to_dict())
+            return jsonify(kanji_data.to_dict_with_words())
         else:
-            # If not found
             return jsonify({"message": f"Kanji character '{search_term}' not found."}), 404
-    # --- END NEW SEARCH LOGIC ---
 
-    # Existing Pagination/List Logic (runs if no 'term' parameter is provided)
-    page = request.args.get('page', 1, type=int)
-    per_page = request.args.get('per_page', 20, type=int)
-    min_strokes = request.args.get('min_strokes', type=int)
+    # 2. List, Filter, and Paginate logic (only runs if 'term' is NOT provided)
+    try:
+        page = request.args.get('page', 1, type=int)
+        per_page = request.args.get('per_page', 20, type=int)
+        min_strokes = request.args.get('min_strokes', type=int)
 
-    query = Kanji.query
-    if min_strokes:
-        query = query.filter(Kanji.strokes >= min_strokes)
+        query = Kanji.query
 
-    pagination = query.paginate(page=page, per_page=per_page, error_out=False)
+        # Apply filtering (e.g., min_strokes)
+        if min_strokes:
+            query = query.filter(Kanji.strokes >= min_strokes)
+
+        # Apply pagination
+        # If the page number is out of range, error_out=False prevents an exception
+        # and returns an empty result set, which is correctly handled below.
+        pagination = query.paginate(page=page, per_page=per_page, error_out=False)
+
+        # 3. Process and return the paginated results
+        results = [kanji.to_dict() for kanji in pagination.items]
+        
+        # This is the guaranteed return path for the list view
+        return jsonify({
+            'page': pagination.page,
+            'per_page': pagination.per_page,
+            'total_pages': pagination.pages,
+            'total_items': pagination.total,
+            'kanji': results
+        })
+
+    except Exception as e:
+        # This catches any unexpected errors during database interaction or processing
+        print(f"An unexpected error occurred in get_kanji list view: {e}")
+        return jsonify({"message": "An internal server error occurred.", "error": str(e)}), 500
