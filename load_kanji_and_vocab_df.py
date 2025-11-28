@@ -145,8 +145,8 @@ jlpt_df['stroke_count'] = jlpt_df['word'].apply(
 )
 
 kanji_df['translation']=kanji_df['translation'].apply(', '.join)
-kanji_df['kun_readings']=kanji_df['kun_readings'].astype(str).str.replace(''', '').str.lstrip('[').str.rstrip(']')
-kanji_df['on_readings']=kanji_df['on_readings'].astype(str).str.replace(''', '').str.lstrip('[').str.rstrip(']')
+kanji_df['kun_readings']=kanji_df['kun_readings'].astype(str).str.replace("'", '').str.lstrip('[').str.rstrip(']')
+kanji_df['on_readings']=kanji_df['on_readings'].astype(str).str.replace("'", '').str.lstrip('[').str.rstrip(']')
 kanji_df['radical_meaning']=kanji_df['radical_meaning'].astype(str).str.rstrip(',')
 kanji_df['kun_romaji']=kanji_df['kun_readings'].apply(kana_to_romaji)
 kanji_df['on_romaji']=kanji_df['on_readings'].apply(kana_to_romaji)
