@@ -62,83 +62,57 @@ def get_pagination_links(pagination):
     return links
 
 @app.route('/words', methods=['GET'])
-def list_words():
-    # 1. Pagination Logic
-    page = request.args.get('page', 1, type=int)
-    per_page = request.args.get('per_page', app.config['PER_PAGE'], type=int)
-    
-    # 2. Filtering Logic (e.g., filter by jlpt_level)
-    level_filter = request.args.get('jlpt_level', type=str)
-    query = Word.query
-    
-    if level_filter:
-        query = query.filter(Word.jlpt_level == level_filter.upper())
-    
-    # Execute query with pagination
-    pagination = query.paginate(page=page, per_page=per_page, error_out=False)
-    
-    # Prepare response data
-    words = [word.to_dict() for word in pagination.items]
-    
-    response = {
-        'count': pagination.total,
-        'page': page,
-        'per_page': per_page,
-        'pages': pagination.pages,
-        '_links': get_pagination_links(pagination),
-        'data': words
-    }
-    return jsonify(response)
+def get_words():
+    # --- NEW SEARCH LOGIC ---
+    search_term = request.args.get('term')
 
-@app.route('/words/<word_name>', methods=['GET'])
-def get_word(word_name):
-    word = db.session.get(Word, word_name)
-    if word is None:
-        return jsonify({'error': 'Word not found'}), 404
-    return jsonify(word.to_dict())
+    if search_term:
+        # Perform the search lookup
+        word_data = Word.query.filter_by(word=search_term).first()
+
+        if word_data:
+            # If found, return the single word's details
+            return jsonify(word_data.to_dict())
+        else:
+            # If not found
+            return jsonify({"message": f"Word '{search_term}' not found."}), 404
+    # --- END NEW SEARCH LOGIC ---
+    
+    # Existing Pagination/List Logic (runs if no 'term' parameter is provided)
+    page = request.args.get('page', 1, type=int)
+    per_page = request.args.get('per_page', 20, type=int)
+    jlpt_level = request.args.get('jlpt_level')
+
+    query = Word.query
+    if jlpt_level:
+        query = query.filter_by(jlpt_level=jlpt_level)
+
+    pagination = query.paginate(page=page, per_page=per_page, error_out=False)
 
 @app.route('/kanji', methods=['GET'])
-def list_kanji():
+def get_kanji():
+    # --- NEW SEARCH LOGIC ---
+    search_term = request.args.get('term')
+
+    if search_term:
+        # Perform the search lookup by the 'kanji' column
+        kanji_data = Kanji.query.filter_by(kanji=search_term).first()
+
+        if kanji_data:
+            # If found, return the single Kanji's details
+            return jsonify(kanji_data.to_dict())
+        else:
+            # If not found
+            return jsonify({"message": f"Kanji character '{search_term}' not found."}), 404
+    # --- END NEW SEARCH LOGIC ---
+
+    # Existing Pagination/List Logic (runs if no 'term' parameter is provided)
     page = request.args.get('page', 1, type=int)
-    per_page = request.args.get('per_page', app.config['PER_PAGE'], type=int)
-    
-    # Filtering Logic (e.g., filter by minimum stroke count)
+    per_page = request.args.get('per_page', 20, type=int)
     min_strokes = request.args.get('min_strokes', type=int)
+
     query = Kanji.query
-    
-    if min_strokes is not None:
+    if min_strokes:
         query = query.filter(Kanji.stroke_count >= min_strokes)
-    
+
     pagination = query.paginate(page=page, per_page=per_page, error_out=False)
-    
-    kanji_list = [k.to_dict() for k in pagination.items]
-    
-    response = {
-        'count': pagination.total,
-        'page': page,
-        '_links': get_pagination_links(pagination),
-        'data': kanji_list
-    }
-    return jsonify(response)
-
-@app.route('/kanji/<char_name>', methods=['GET'])
-def get_kanji(char_name):
-    kanji = db.session.get(Kanji, char_name)
-    if kanji is None:
-        return jsonify({'error': 'Kanji not found'}), 404
-    
-    kanji_data = kanji.to_dict()
-    
-    # 3. Nesting Logic (Nesting Words using this Kanji)
-    # This simulates a join: find words that contain this specific kanji character.
-    # Note: This is an inefficient join, but demonstrates nesting capability.
-    
-    matching_words = db.session.query(Word.word, Word.jlpt_level).filter(
-        Word.word.like(f'%{char_name}%')
-    ).limit(10).all()
-
-    kanji_data['used_in_words'] = [
-        {'word': w, 'jlpt_level': level} for w, level in matching_words
-    ]
-    
-    return jsonify(kanji_data)
