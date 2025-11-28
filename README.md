@@ -9,6 +9,8 @@ A repository dedicated to self-study and structured learning of the Japanese lan
 * [🚀 Getting Started](#-getting-started)
     * [Cloning the Repository](#cloning-the-repository)
     * [Using the requirements.txt](#using-the-requirementstxt)
+    * [Using your own .env file](#using-your-own-env-file)
+    * [Using the code](#using-the-code)
 * [🤝 Contributing](#-contributing)
 
 ***
@@ -52,6 +54,10 @@ If this repository includes any Python scripts (e.g., for data processing, flash
 
 If you want to connect to a MySQL Databse or BigQuery for example, you need to have your own .env file stored in the repository.
 
+### Using the code 
+
+The .py functions are used to generate .csv clean files that will be imported in the .ipynb notebook. This notebook will be used to import your DataFrames to your MySQL Database and to plot some visualizations.
+
 ***
 
 ## 🤝 Contributing
@@ -69,4 +75,5 @@ If you have suggestions for new content, corrections to existing notes, or bette
 
 
 Project Link: [https://github.com/naeron75/basic-japanese-learning](https://github.com/naeron75/basic-japanese-learning)
+
 
